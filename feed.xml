@@ -7,6 +7,22 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — May 25, 2026</title>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-05-25-ai</guid>
+    <description><![CDATA[<p><strong>Anthropic</strong> — <a href="https://www.anthropic.com/glasswing">Project Glasswing Finds Over 10,000 Critical Software Flaws in Its First Month</a><br/>Anthropic&#x27;s AI-powered security initiative, using its unreleased Mythos model, uncovered more than 10,000 vulnerabilities across launch partners in its first month—including 2,000 bugs at Cloudflare and a tenfold jump in Firefox fixes at Mozilla compared to prior Claude models. With AWS, Apple, Cisco, Microsoft, and NVIDIA all enrolled, this is the first large-scale proof that frontier AI can deliver order-of-magnitude productivity gains in a high-stakes enterprise function.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/">OpenAI Co-Founder Andrej Karpathy Joins Anthropic&#x27;s Pre-Training Team</a><br/>Karpathy starts this week at Anthropic building a team that uses Claude to accelerate pre-training research—the work responsible for giving Claude its core knowledge and capabilities. Coming as Anthropic closes a $30 billion funding round and posts its first profitable quarter, this hire concentrates an unusual density of foundational AI talent at a single lab.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/">Everyone Is Navigating AI Security in Real Time — Even Google</a><br/>Security teams face a structural deficit: qualified professionals are scarce while AI-introduced vulnerabilities multiply faster than organizations can respond, and LinkedIn&#x27;s CISO says sustainable AI security understanding is still years away. New research shows a properly revoked API key can still be exploited for up to 23 minutes due to gradual propagation in revocation systems—a concrete illustration of how AI infrastructure assumptions create unexpected attack surfaces.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/">Three Things in AI to Watch, According to a Nobel-Winning Economist</a><br/>Daron Acemoglu (Nobel 2024 Economics) identifies three AI developments worth closest scrutiny and warns that much influential AI economic research comes from companies with financial stakes in favorable conclusions. His core contrarian thesis—that AI&#x27;s productivity impact will be modest because app usability hasn&#x27;t matched raw capability—remains the most credible bearish case in a field dominated by vendor-driven optimism.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — May 25, 2026</title>
+    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-05-25-leadership</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/how-to-build-a-superteam-that-keeps-getting-better">How to Build a Superteam That Keeps Getting Better</a><br/>In periods of rapid change, the teams that outperform aren&#x27;t those with the best plans or the most talent but those that learn fastest—by encouraging experimentation even when things go well, surfacing problems early, and investing in growth without requiring immediate payoff. As AI reshapes team composition and eliminates routine tasks, this reframes the central leadership challenge from managing talent to building learning velocity.</p>
+<p><strong>Farnam Street</strong> — <a href="https://fs.blog/brain-food/may-24-2026/">Intelligence vs. Wisdom</a><br/>The May 24 Brain Food letter centers on a single clean distinction: intelligence is getting what you want, wisdom is wanting what&#x27;s worth getting in the first place. High-output people apply this by being maniacal about removing what others tolerate—which in an era of AI-amplified output makes the judgment of what to work on the decisive leadership variable.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — May 24, 2026</title>
     <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-24-ai</guid>
