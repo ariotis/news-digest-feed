@@ -7,6 +7,22 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — May 27, 2026</title>
+    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-05-27-ai</guid>
+    <description><![CDATA[<p><strong>Import AI</strong> — <a href="https://importai.substack.com/p/import-ai-458-reckoning-with-the">Import AI 458: Reckoning with the Future; and a Singularity Story</a><br/>Jack Clark publishes an extended essay and short story imagining what a positive singularity looks like—a deliberate exercise by a frontier practitioner in thinking through what we&#x27;re actually building toward. For senior tech leaders, it&#x27;s a rare artifact: a credible voice articulating a concrete vision of the destination, not just the journey.</p>
+<p><strong>Simon Willison&#x27;s Blog</strong> — <a href="https://simonwillison.net/2026/May/26/the-pressure/">The Pressure</a><br/>AI-assisted security reporting has begun overwhelming open-source maintainers: the curl project is being flooded with AI-generated vulnerability reports, many invalid, consuming maintainer time at a rate that threatens the project&#x27;s sustainability. The pattern signals a structural problem—AI reduces the cost of filing reports but shifts the verification burden entirely to human maintainers.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/">A Reality Check on the AI Jobs Hysteria</a><br/>Despite years of warnings about AI-driven unemployment, there is currently scant empirical evidence that AI has had large-scale impact on U.S. labor markets—visible disruption is concentrated in early-career hiring, not in headline employment figures. Tech leaders calibrating workforce strategy need to separate the long-run structural shift from the present reality, where displacement is gradual and targeted.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/">DuckDuckGo Installs Are Up 30% as Users Reject Being &quot;Force-Fed&quot; Google&#x27;s AI Search</a><br/>Google&#x27;s overhaul replacing traditional blue-link results with an AI agent is driving measurable migration to DuckDuckGo, as users push back against AI-mandatory product changes they didn&#x27;t choose. The product strategy lesson: AI integration that removes user agency generates defection, not delight.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — May 27, 2026</title>
+    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-05-27-leadership</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/employees-are-relying-on-ai-for-personal-support-thats-risky">Employees Are Relying on AI for Personal Support. That&#x27;s Risky.</a><br/>More than half of surveyed knowledge workers are turning to AI for career advice, emotional support, and social interaction, even as they report feeling lonely at work—creating a hidden erosion of the human connection that drives engagement and retention. Leaders who treat AI adoption as a productivity story while ignoring its social effects will face a compounding engagement problem that doesn&#x27;t surface in usage metrics.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/the-best-leaders-embrace-the-role-of-supporting-character">The Best Leaders Embrace the Role of Supporting Character</a><br/>Research from Stanford psychologist Jamil Zaki shows that leaders who practice intellectual humility—asking questions rather than broadcasting answers, and connecting employee work to personal values—produce measurably higher satisfaction, performance, and loyalty. In an environment where AI increasingly handles intellectual heavy lifting, the differentiating leadership move is curiosity and facilitation, not expertise.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — May 26, 2026</title>
     <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-26-ai</guid>
