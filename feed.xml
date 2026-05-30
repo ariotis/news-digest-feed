@@ -7,6 +7,22 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — May 30, 2026</title>
+    <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-05-30-ai</guid>
+    <description><![CDATA[<p><strong>The Batch (DeepLearning.AI)</strong> — <a href="https://www.deeplearning.ai/the-batch/issue-355/">The Vogue for Hiring Forward Deployed Engineers</a><br/>OpenAI and Anthropic are now embedding specialist engineers directly inside client organizations to build and tune agentic workflows — a playbook pioneered by Palantir two decades ago that&#x27;s seeing a sharp resurgence as off-the-shelf LLMs prove insufficient for real enterprise deployment. The hard work of AI is no longer in the model; it&#x27;s in the deep, organization-specific configuration that only on-site engineers can deliver.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/">Coders Are Refusing to Work Without AI — and That Could Come Back to Bite Them</a><br/>Amazon shut down Kirorank, its internal AI token-tracking leaderboard, after engineers gamed it by routing excessive work through AI agents, running up costs while producing lower-quality code. A generation of AI-dependent developers is shipping faster while quietly accumulating technical debt that no benchmark yet measures.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/">The AI Hype Index: AI Gets Booed in Graduation Season</a><br/>Former Google CEO Eric Schmidt was met with loud boos when he told University of Arizona graduates to &quot;help shape AI&quot; — a pattern repeating at commencement ceremonies across the country. The gap between tech-sector enthusiasm and public sentiment is now wide enough to influence hiring pipelines, regulatory mood, and the next wave of consumer product adoption.</p>
+<p><strong>Simon Willison&#x27;s Weblog</strong> — <a href="https://simonwillison.net/2026/May/27/sqlite-agents/">SQLite AGENTS.md</a><br/>SQLite — the most widely deployed database in existence — published an AGENTS.md file explicitly rejecting AI-contributed code after being flooded with AI-generated bug reports, prompting the SQLite team to create a dedicated Bug Forum just to manage the volume. The project that sits silently in billions of devices is now the canary in the coal mine for what AI-generated noise does to the foundational layer of open-source software.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — May 30, 2026</title>
+    <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-05-30-leadership</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/designing-organizational-change-that-actually-sticks">Designing Organizational Change That Actually Sticks</a><br/>BCG&#x27;s Julia Dhar and Kristy Ellmer map five phases of successful transformation — decide, plan, start, persist, end — and show that most organizational changes fail not because of flawed strategy but because leaders design for launch and ignore the persist phase, where momentum collapses and resistance crystallizes. The counterintuitive finding is that transformation fatigue is not a people problem; it&#x27;s a design problem that leaders can engineer around.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/negotiating-when-there-is-no-plan-b">Negotiating When There Is No Plan B</a><br/>Jonathan Hughes argues that the absence of a strong BATNA does not mean the absence of leverage: negotiators can expand their alternative set to include partial substitutes, temporary arrangements, and procedural options, then reframe threats as warnings and seek tacit consent rather than explicit approval. The framework applies directly to any vendor lock-in situation, high-stakes cloud contract, or partnership deal where walking away is theoretically possible but practically catastrophic.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — May 29, 2026</title>
     <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-29-ai</guid>
