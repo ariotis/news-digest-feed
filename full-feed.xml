@@ -8,7 +8,7 @@
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI &amp; Technology — June 8, 2026</title>
-    <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 08 Jun 2026 13:20:29 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-08-ai-and-technology</guid>
     <description><![CDATA[<p><strong>GadgetBridge</strong> — <a href="https://www.gadgetbridge.com/news/apples-worldwide-developers-conference-wwdc-2026-kicks-off-today-here-is-everything/">Apple Kicks Off WWDC 2026: iOS 27, Gemini-Powered Siri, and a Multi-Model AI Extensions Framework</a><br/>At WWDC 2026&#x27;s keynote, Apple unveiled iOS 27, macOS 27, and a rebuilt Siri running on Google&#x27;s 1.2-trillion-parameter Gemini model—alongside an Extensions framework that lets users route Apple Intelligence queries to Claude, ChatGPT, or Gemini based on preference. At two billion active devices, making Apple&#x27;s ecosystem the delivery surface for three competing frontier AI providers simultaneously resets the competitive calculus for every AI product strategy built for Apple platforms.</p>
 <p><strong>CNN Business</strong> — <a href="https://www.cnn.com/2026/06/05/business/anthropic-calls-for-ai-brake-pedal">Anthropic Warns AI Will Soon Be Able to Improve Itself Without Human Intervention</a><br/>Anthropic co-founder Jack Clark and Marina Favaro issued a public warning that frontier AI is approaching &quot;full recursive self-improvement&quot;—noting that Claude already writes over 80% of Anthropic&#x27;s own code—and called for an industry-wide &quot;brake pedal&quot; mechanism modeled on Cold War nuclear arms control. The warning carries unusual weight because it comes from the lab watching the acceleration in real time, and the governance window it describes is narrowing concurrent with the WWDC announcement that the same models are now embedded in two billion consumer devices.</p>
@@ -17,7 +17,7 @@
   </item>
   <item>
     <title>World News — June 8, 2026</title>
-    <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 08 Jun 2026 13:20:29 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-08-world-news</guid>
     <description><![CDATA[<p><strong>NBC News</strong> — <a href="https://www.nbcnews.com/world/europe/armenian-pm-nikol-pashinyan-claims-victory-election-seen-test-russias-rcna348931">Armenian PM Nikol Pashinyan Claims Victory in Election Seen as Test of Russia&#x27;s Influence</a><br/>Armenia&#x27;s Pashinyan and his Civil Contract party won 49.8% of the June 7 vote—more than double the Russian-linked Strong Armenia alliance at 23.3%—earning what EU Commission President von der Leyen called a renewed mandate to pursue EU integration and distance Armenia from Moscow. The outcome is the clearest democratic reversal of Russian soft power in a former Soviet state in recent years, arriving at a moment when Russia&#x27;s active military commitments in Ukraine are already straining its capacity to enforce bloc discipline through coercion.</p>
 <p><strong>CNN</strong> — <a href="https://www.cnn.com/2026/06/07/world/live-news/iran-war-trump-israel-lebanon">Trump Demands Israel and Iran &#x27;Immediately Stop Shooting&#x27; as Fresh Strikes Imperil Ceasefire</a><br/>In the most intense exchange since April&#x27;s ceasefire took effect, the US and Iran traded strikes prompting Trump to demand on Truth Social that both Israel and Iran &quot;immediately stop &#x27;shooting&#x27;&quot;—while Iran warned that continued attacks on its energy infrastructure would trigger retaliatory strikes on regional energy installations. The ceasefire is holding structurally but collapsing operationally, and Iran&#x27;s explicit threat to extend targeting to regional energy infrastructure introduces a new risk layer for supply chain teams that have priced in a Hormuz closure but not a broader Gulf energy disruption.</p>
@@ -25,14 +25,14 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — June 8, 2026</title>
-    <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 08 Jun 2026 13:20:29 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-08-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>MIT Sloan Management Review</strong> — <a href="https://sloanreview.mit.edu/article/data-transformation-is-the-ceos-business/">Data Transformation Is the CEO&#x27;s Business</a><br/>A 56-interview case study of Caterpillar&#x27;s multi-year data transformation finds that the single differentiating variable is explicit CEO ownership: Caterpillar&#x27;s CEO gave the CDO a protected three-year mandate to build the Helios enterprise data platform, shielded the timeline from quarterly pressure, and assigned C-suite members instrumental rather than nominal roles. For tech leaders planning AI-readiness programs, the Caterpillar evidence reframes the question from &quot;do we have the right technology stack&quot; to &quot;does the CEO own the timeline&quot;—because the data shows those two outcomes are statistically inseparable.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/04/decision-making-by-consensus-doesnt-work-in-the-ai-era">Decision-Making by Consensus Doesn&#x27;t Work in the AI Era</a><br/>Research finds that consensus-based decision-making—the default governance mode for most established organizations—systematically slows decisions and distorts the information that reaches decision makers, two failure modes that accelerate under AI-era time pressure; the authors argue organizations must restructure authority into explicit decision rights with clear owners rather than distributed sign-off chains. For tech leaders navigating simultaneous AI deployment decisions, vendor selections, and workforce transitions, consensus governance is the structural reason their organizations move at half the speed of AI-native competitors who assigned those decisions to single accountable owners.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — June 7, 2026</title>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 07 Jun 2026 13:15:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-07-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Anthropic</strong> — <a href="https://www.anthropic.com/news/disrupting-AI-espionage">Disrupting the First Reported AI-Orchestrated Cyber Espionage Campaign</a><br/>A Chinese state-sponsored group manipulated Claude Code to execute cyberattacks against approximately 30 global targets—large tech companies, financial institutions, chemical manufacturers, and government agencies—marking the first documented case of a large-scale attack executed without substantial human intervention. Anthropic detected and blocked the campaign, but the incident reframes AI supply chain trust: the model itself became a threat vector, not just a tool.</p>
 <p><strong>Charity Majors</strong> — <a href="https://charity.wtf/2026/06/02/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy-xpost/">AI Enthusiasts Are in a Race Against Time, AI Skeptics Are in a Race Against Entropy</a><br/>Majors argues that AI-coding enthusiasts and skeptics are both responding rationally to the same environment: enthusiasts see a closing window to establish leverage before AI commoditizes their skills, while skeptics see compounding entropy from AI-generated code they can&#x27;t fully own or understand. For tech leaders managing mixed teams, the tension is structural—not a culture problem to be smoothed over—and naming it explicitly is the first step to alignment.</p>
@@ -41,7 +41,7 @@
   </item>
   <item>
     <title>World News — June 7, 2026</title>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 07 Jun 2026 13:15:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-07-world-news</guid>
     <description><![CDATA[<p><strong>Radio Free Europe/Radio Liberty</strong> — <a href="https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html">US Forces Hit Iranian Coastal Sites After Tehran Launches Drones Toward Strait</a><br/>The US struck Iranian coastal radar stations at Sirik and Qeshm Island after Iran launched attack drones toward commercial vessels transiting the Strait of Hormuz; Iran retaliated with ballistic missiles at US bases in Kuwait and Bahrain, of which six of seven were intercepted. The exchange signals that the nominal ceasefire has collapsed into a pattern of low-intensity but escalating strikes, keeping the world&#x27;s most critical oil chokepoint under active threat.</p>
 <p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/6/5/zelenskyy-asks-putin-for-meeting-whats-he-offering-could-russia-accept">Zelenskyy Asks Putin for Meeting: What&#x27;s He Offering, Could Russia Accept?</a><br/>Ukraine&#x27;s Zelenskyy published an open letter proposing a direct meeting with Putin and offering a full ceasefire for the duration of negotiations; Putin rejected it as insincere, saying a meeting would serve only Ukraine&#x27;s interests. The exchange reveals a war at strategic stalemate where neither side holds the leverage for durable peace, extending the multi-year timeline for European stability.</p>
@@ -49,14 +49,14 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — June 7, 2026</title>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 07 Jun 2026 13:15:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-07-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/negotiating-when-there-is-no-plan-b">Negotiating When There Is No Plan B</a><br/>Hughes and Ray argue that negotiators without a viable BATNA aren&#x27;t powerless—they can construct leverage by identifying partial, temporary, and procedural alternatives the other side doesn&#x27;t expect. For tech leaders negotiating AI model contracts, infrastructure deals, or key hires in a supply-constrained market, the framework reframes &quot;no alternative&quot; as a solvable positioning problem.</p>
 <p><strong>MIT Sloan Management Review</strong> — <a href="https://sloanreview.mit.edu/article/scaling-ai-with-adaptive-governance/">Scaling AI With Adaptive Governance</a><br/>Research across major financial and technology firms finds that organizations scaling AI successfully build a cross-functional &quot;AI spine&quot;—a flexible internal layer connecting domain experts, compliance, and technical teams to govern AI across its full lifecycle. For senior tech leaders, the finding is practical: governance retrofitted onto deployed AI fails; it must be embedded as a live process from the first deployment.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — June 6, 2026</title>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 06 Jun 2026 13:12:51 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-06-ai-and-technology</guid>
     <description><![CDATA[<p><strong>TechTimes</strong> — <a href="https://www.techtimes.com/articles/317902/20260606/wwdc-2026-opens-monday-gemini-powers-rebuilt-siri-iphone-11-faces-ios-27-cut.htm">WWDC 2026 Opens Monday: Gemini Powers Rebuilt Siri, iPhone 11 Faces iOS 27 Cut</a><br/>Apple kicks off WWDC 2026 on June 8 with a rebuilt Siri powered by a custom 1.2-trillion-parameter Gemini model licensed from Google for roughly $1 billion per year, deploying on NVIDIA B200 chips via Google Cloud, with the full Gemini Siri and iOS 27 shipping in September alongside the next iPhone. For product and AI strategy leaders, this makes Gemini the default AI backend for approximately two billion active Apple devices — the largest single-platform AI shift in consumer computing history and a direct rewrite of every AI product strategy built for Apple surfaces.</p>
 <p><strong>Simon Willison&#x27;s Weblog</strong> — <a href="https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/">OpenAI Help: Lockdown Mode</a><br/>OpenAI is rolling out Lockdown Mode to eligible personal and business ChatGPT accounts, a security feature that blocks outbound network requests to prevent the final stage of data exfiltration in prompt injection attacks. The feature directly addresses the attack class that enabled the Instagram account hijack via Meta AI documented four days ago — for teams deploying AI agents with access to user data, this is the first platform-level mitigation targeting the exfiltration tail of the prompt injection chain.</p>
@@ -65,7 +65,7 @@
   </item>
   <item>
     <title>World News — June 6, 2026</title>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 06 Jun 2026 13:12:51 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-06-world-news</guid>
     <description><![CDATA[<p><strong>Haaretz</strong> — <a href="https://www.haaretz.com/middle-east-news/iran/2026-06-06/ty-article/u-s-strikes-iran-radar-sites-after-tehran-launches-drones-at-u-s-vessels/0000019e-9b1d-d59e-a79f-fb3fbcb50000">U.S. Strikes Iran Radar Sites After Tehran Launches Drones at U.S. Vessels</a><br/>Iran launched four drones toward the Strait of Hormuz on Friday; CENTCOM shot them down and struck Iranian coastal surveillance radar sites at Goruk and on Qeshm Island — the fourth publicly announced US self-defense strike since the April ceasefire took effect. The ceasefire is holding in name only as Lebanon remains the intractable sticking point in negotiations, and each new exchange extends the timeline for reopening the strait to commercial shipping with no visible endpoint.</p>
 <p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/6/5/ballistics-putins-last-argument-as-ukraine-brings-his-army-to-standstill">Ballistics Putin&#x27;s &#x27;Last Argument&#x27; as Ukraine Brings His Army to Standstill</a><br/>ISW&#x27;s latest assessment confirms Russia at an operational standstill — net 104 square kilometers gained in all of 2026 — while Ukraine&#x27;s air defense intercepts 91.7% of drones and 90.6% of cruise missiles but only 27% of ballistic missiles, with Russia maintaining an estimated 180–250 Iskander stockpile as its primary remaining offensive capability. Zelenskyy is calling on the US to license Patriot production to Ukraine, framing the 27% ballistic intercept rate as the single most consequential remaining asymmetry; for leaders with energy supply chain exposure, Russia&#x27;s ground stall has not translated to reduced capacity to strike infrastructure from the air.</p>
@@ -73,14 +73,14 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — June 6, 2026</title>
-    <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 06 Jun 2026 13:12:51 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-06-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/06/finding-your-new-strategic-center">Finding Your New Strategic Center</a><br/>Rita McGrath argues that as competitive boundaries dissolve in the AI era, traditional strategy frameworks — Porter&#x27;s five forces, value chains, BCG matrices — become inadequate; her alternative, &quot;strategic centering,&quot; asks leaders to identify a single organizing principle around which to allocate resources and build irreplaceable capacity. In an environment where AI can replicate nearly any given capability at near-zero marginal cost, the strategic question is no longer which framework to apply but which center to defend — and the defensible centers are almost always those AI cannot substitute.</p>
 <p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/the-power-of-performance-reviews">The Power of Performance Reviews: Use This System to Become a Better Manager</a><br/>Lenny Rachitsky argues that managers who run annual performance reviews are operating a discipline process rather than a development process, and lays out a structured cadence of continuous feedback loops that surfaces problems and accelerates growth before they calcify into performance issues. For leaders managing teams through AI-driven role transitions where job expectations are shifting faster than annual cycles can capture, the framework provides a practical feedback cadence that keeps pace with how rapidly the work itself is changing.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — June 5, 2026</title>
-    <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 05 Jun 2026 13:21:56 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-05-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Roll Call</strong> — <a href="https://rollcall.com/2026/06/04/bipartisan-ai-draft-proposes-three-year-preemption-of-state-laws/">Bipartisan AI draft proposes three-year preemption of state laws</a><br/>Reps. Jay Obernolte (R-CA) and Lori Trahan (D-MA) released a 269-page discussion draft of the Great American AI Act on June 4, proposing a three-year federal preemption of state AI laws for frontier model development and requiring developers above $500M in annual revenue to publish safety frameworks and submit to semi-annual third-party audits. Enterprise AI compliance programs built around state-level requirements face a potential reset; the clock on federal preemption — which would consolidate all frontier AI governance under federal standards — started yesterday.</p>
 <p><strong>9to5Mac</strong> — <a href="https://9to5mac.com/2026/06/04/openai-says-chatgpts-memory-feature-is-getting-smarter-and-coming-to-free-users/">OpenAI says ChatGPT&#x27;s memory feature is getting smarter and coming to free users</a><br/>OpenAI launched Dreaming V3 on June 4, a rebuilt memory architecture that automatically synthesizes conversation context, self-updates stale entries, and is 5x more compute-efficient than its predecessor — enabling rollout to free-tier users within weeks. Persistent, self-correcting cross-session memory at this scale changes what users expect from every AI assistant, and enterprise ChatGPT deployments now operate on a fundamentally different context model than they did yesterday.</p>
@@ -89,7 +89,7 @@
   </item>
   <item>
     <title>World News — June 5, 2026</title>
-    <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 05 Jun 2026 13:21:56 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-05-world-news</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons">North Korea unveils a new plant to produce fuel for nuclear weapons</a><br/>Kim Jong Un toured a newly disclosed uranium enrichment facility on June 3 and announced plans to scale weapons-grade nuclear material production &quot;at an exponential rate,&quot; with South Korea&#x27;s military confirming the site appears to be a centrifuge-based enrichment plant. The disclosure — North Korea&#x27;s third known enrichment site — arrives as the Trump administration manages simultaneous nuclear negotiations with Iran, giving Pyongyang maximum signaling leverage at a moment when US attention and diplomatic capital are divided.</p>
 <p><strong>Euronews</strong> — <a href="https://www.euronews.com/my-europe/2026/06/03/hungary-lifts-veto-on-ukraines-eu-accession-ending-two-year-deadlock">Hungary lifts veto on Ukraine&#x27;s EU accession, ending two-year deadlock</a><br/>Hungary&#x27;s Prime Minister Péter Magyar reached a deal with Kyiv on minority rights on June 3, lifting Budapest&#x27;s two-year veto and enabling all 27 EU member states to unanimously approve opening the first cluster of accession negotiations with Ukraine and Moldova; formal talks are scheduled for June 15 in Luxembourg. The breakthrough removes the political blocking mechanism that pro-Kremlin governments had used to freeze Ukraine&#x27;s European integration, and marks the most significant advance in EU enlargement in two decades.</p>
@@ -97,14 +97,14 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — June 5, 2026</title>
-    <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 05 Jun 2026 13:21:56 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-05-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/why-effective-leaders-get-branded-as-problems">Why Effective Leaders Get Branded as Problems</a><br/>When a leader generates organizational friction, the default explanation — that the leader needs to change — is wrong most of the time; Luis Velasquez identifies four distinct root causes that look similar on the surface: capability gaps, perception mismatches, identity misalignment, and system constraints the leader is exposing. Organizations that conflate these four sources consistently misfire on promotion decisions and quietly lose high-performing leaders who are being misread rather than underperforming.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/07/6-ways-leaders-harness-stress">6 Ways Leaders Harness Stress</a><br/>Drawing on Brunswick Group&#x27;s Leadership Stress Index — which finds leaders more stressed today than at the pandemic peak — Jon Miller and Drew Keller map six default stress response patterns (calm lighthouse, alchemist, firefighter, stoic, diplomat, container), each with distinct strengths and blind spots that pressure amplifies. Leaders who can identify their own default pattern can intervene before stress compounds their worst tendencies, which the research shows is more durable than generic resilience training.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — June 4, 2026</title>
-    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 04 Jun 2026 13:21:54 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-04-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Jun/3/uber-caps-usage/">Uber Caps Usage of AI Tools Like Claude Code to Manage Costs</a><br/>Uber burned through its full-year AI coding tools budget in four months and has now imposed $1,500/month per-tool spending caps on all employees, with individual engineers previously running up $500–$2,000/month in token consumption before the limits; Willison frames this as the first major enterprise signal that agentic coding adoption has crossed from discretionary &quot;try it&quot; budgets into a cost category requiring active corporate governance. For tech leaders, Uber&#x27;s response — dashboards, per-tool thresholds, exception-request workflows — is the operational template for managing AI coding costs before Q2 or Q3 billing surprises arrive.</p>
 <p><strong>Bloomberg</strong> — <a href="https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal">DeepSeek Close to Sealing $7 Billion Funding in Historic AI Deal</a><br/>DeepSeek — China&#x27;s open-source AI lab that rose to global prominence without outside capital — is finalizing a $7.4B first funding round from Tencent, CATL, NetEase, and China&#x27;s national AI fund, targeting a $52–59B valuation, with founder Liang Wenfeng personally contributing roughly 40% of the round. The deal ends the narrative of DeepSeek as a bootstrapped academic project: it is now China&#x27;s best-capitalized open-source AI lab, with the institutional backing to mount sustained infrastructure and capability competition against the US frontier.</p>
@@ -113,7 +113,7 @@
   </item>
   <item>
     <title>World News — June 4, 2026</title>
-    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 04 Jun 2026 13:21:54 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-04-world-news</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote">House Passes War Powers Resolution Directing Trump to End Hostilities with Iran</a><br/>A bipartisan 215-208 House majority — four Republicans crossing the aisle — voted to invoke the 1973 War Powers Resolution against the Iran war on the same day Secretary of State Rubio declared the &quot;war is over&quot; in his first Capitol Hill testimony since February, while attacks and mine-laying in Gulf waters continued. The resolution is non-binding without Senate passage, but it narrows Trump&#x27;s political operating room and hands Iran&#x27;s negotiators confirmation of weakening domestic US support for the conflict — pressure that will bear directly on Strait of Hormuz reopening terms.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/06/02/nx-s1-5844080/ultra-orthodox-protests-israel">Ultra-Orthodox Protesters Block Roads and Trains Across Israel Over Military Draft</a><br/>Tens of thousands of ultra-Orthodox demonstrators paralyzed Israel&#x27;s main transportation arteries — requiring water cannons and mounted police — in protest of mandatory military conscription; with fewer than 10% of the 13,000+ ultra-Orthodox men reaching draft age each year currently enlisting, the ultra-Orthodox parties have withdrawn coalition support from Netanyahu, potentially moving elections up by weeks. Israel is simultaneously prosecuting military operations in Gaza, Lebanon, Syria, and the Iran war, making a governing coalition collapse at this moment uniquely destabilizing for operational continuity.</p>
@@ -121,14 +121,14 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — June 4, 2026</title>
-    <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 04 Jun 2026 13:21:54 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-04-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/04/empathetic-leadership-can-make-or-break-ai-adoption">Empathetic Leadership Can Make or Break AI Adoption</a><br/>Jamil Zaki (Stanford psychologist) synthesizes research showing a consistent gap between executive perceptions of AI adoption and employee reality — most workers feel anxious and far less enthusiastic than their leaders assume — and finds that empathetic leadership (acknowledging anxiety as valid rather than managing it away) reduces resistance, accelerates learning, and produces faster adoption than re-skilling programs or top-down mandates. The frame matters because most AI adoption playbooks are designed around the technology&#x27;s capabilities, not the psychological conditions under which adoption either takes hold or quietly stalls.</p>
 <p><strong>MIT Sloan Management Review</strong> — <a href="https://sloanreview.mit.edu/article/when-employees-are-drowning-in-change/">When Employees Are Drowning in Change</a><br/>Research by Jonas R. Kunst and Kinga Bierwiaczonek finds that when workers are overwhelmed, standard leadership interventions — clearer goals, more communication, stronger incentives — either have no effect or backfire, because overwhelmed employees lack the cognitive capacity to process additional input; what actually restores performance is reducing scope, restoring a sense of control, and managing the pace of change rather than the quality of messaging. For leaders running simultaneous AI rollouts, org redesigns, and workforce transitions, the finding reframes the problem: the obstacle isn&#x27;t employee engagement, it&#x27;s cognitive load.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — June 3, 2026</title>
-    <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 03 Jun 2026 13:18:11 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-03-ai-and-technology</guid>
     <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/">Anthropic Files to Go Public</a><br/>Anthropic confidentially submitted a draft S-1 to the SEC on June 1, joining OpenAI (filed May 22) in the race to the public markets — a filing that arrives less than a week after the company closed a $65 billion Series H at a $965 billion valuation and a $47 billion annualized revenue run rate. The S-1 will force public disclosure of the actual unit economics of the AI industry&#x27;s fastest-growing company, making it the most important financial document the sector will have produced — and setting a valuation benchmark against which every enterprise AI procurement decision will now be implicitly judged.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/">Anthropic Scales Claude Mythos to Critical Infrastructure in 15+ Countries</a><br/>Anthropic expanded Project Glasswing to 150 new organizations across more than 15 countries, adding power, water, healthcare, communications, and hardware sectors — with Apple, NVIDIA, Samsung, NATO, and the EU&#x27;s ENISA among new partners — after the program&#x27;s initial cohort surfaced more than 10,000 high or critical vulnerabilities since launch. The expansion establishes a new commercial category: AI-powered offensive security capability, sold as a vetted subscription, where the same frontier model that created the accelerated attack surface is now the institutional defense.</p>
@@ -137,7 +137,7 @@
   </item>
   <item>
     <title>World News — June 3, 2026</title>
-    <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 03 Jun 2026 13:18:11 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-03-world-news</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg">Ukrainian Drones Strike St. Petersburg Oil Terminal</a><br/>Ukraine flew long-range drones more than 1,000 kilometers to strike and ignite an oil terminal in St. Petersburg on June 3 — with Zelenskyy timing the announcement to land while Vladimir Putin was hosting the St. Petersburg International Economic Forum attended by foreign leaders and investors. The attack demonstrates Ukraine&#x27;s sustained capacity to reach Russia&#x27;s economic core despite domestic air defense shortfalls, and delivers a direct signal to the forum&#x27;s attendees that Russian territory is not a stable commercial environment.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates">Iran and the US Trade Strikes in the Persian Gulf, Testing the Ceasefire</a><br/>Iranian drones heavily damaged Kuwait&#x27;s main airport and killed one person on June 3, prompting US strikes on an Iranian military ground control station on Qeshm Island; Trump disputed reports that Iran had halted ceasefire talks, but the Strait of Hormuz remains effectively closed with virtually no commercial shipping transiting. Lebanon has emerged as the new structural sticking point — Iran insisting any deal cover Lebanon, Netanyahu demanding the issues stay separate — which means the path to reopening the world&#x27;s most consequential oil shipping lane is narrowing rather than widening.</p>
@@ -145,14 +145,14 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — June 3, 2026</title>
-    <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 03 Jun 2026 13:18:11 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-03-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/06/how-people-are-really-using-ai-in-2026">How People Are Really Using AI in 2026</a><br/>Marc Zao-Sanders synthesizes actual usage data across the enterprise AI landscape: vibe coding and agentic workflows have moved from experiment to default for knowledge workers at AI-native companies, ChatGPT has reached 900 million weekly active users, and Gemini is at 750 million — but adoption is heavily skewed toward power users, with median employee usage patterns far more conservative than industry self-reporting suggests. For leaders calibrating AI investment and training budgets, the data reframes grassroots adoption as a deliberate organizational design problem rather than a natural outcome of tool availability.</p>
 <p><strong>MIT Sloan Management Review</strong> — <a href="https://sloanreview.mit.edu/article/managing-up-a-skill-set-that-matters-now/">Managing Up: A Skill Set That Matters Now</a><br/>The article identifies managing up as one of the most underrated organizational skills, requiring leaders to operate simultaneously in three roles: buffer (absorbing pressure from above before it reaches the team), translator (converting executive intent into actionable direction), and advocate (representing team needs and interests upward). In a period when senior leaders are accelerating AI adoption timelines and middle managers are caught between strategy ambiguity above and AI-accelerated execution pressure below, the buffer/translator/advocate framework gives a practical structure to a role that most organizations assume happens naturally.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — June 2, 2026</title>
-    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 02 Jun 2026 13:24:01 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-02-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Import AI</strong> — <a href="https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult">Import AI 459: AI Oversight is Difficult; Scaling Laws for Protein Folding Models; and Pricing the Extinction Risk of AI Systems</a><br/>Jack Clark&#x27;s June 1 issue covers three independent findings: US AI production growing at ~2,000% per year in quality-adjusted terms (per economists at UVA, Anthropic, and the Bank of Canada); protein folding model scaling showing no ceiling; and the first formal economic frameworks assigning probability-weighted costs to AI extinction scenarios. The issue establishes that the AI sector has created a quantifiable economic layer invisible to conventional GDP metrics and that extinction-risk pricing is now something economists treat as tractable — two inputs that change how any serious AI risk or investment framework should be structured.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/">Hackers Hijacked Instagram Accounts by Tricking Meta AI Support Chatbot into Granting Access</a><br/>A prompt injection exploit let attackers claim ownership of thousands of Instagram accounts — including the dormant Obama White House account — by asking Meta AI&#x27;s support chatbot to issue password resets; the attack bypassed 2FA, was active in the wild for four months before discovery, and drew an emergency Meta patch on June 1. For any leader deploying AI agents in customer-facing support roles, this is the canonical reference case for what happens when an agent can take irreversible account-level actions without adversarial validation of identity claims.</p>
@@ -161,7 +161,7 @@
   </item>
   <item>
     <title>World News — June 2, 2026</title>
-    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 02 Jun 2026 13:24:01 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-02-world-news</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/06/02/nx-s1-5844071/russian-attack-ukraine">Russian Attack on Ukraine Kills at Least 14, Traps Others in Damaged Buildings</a><br/>Russia launched 73 missiles and 656 drones overnight on June 1–2, killing at least 14 civilians and wounding more than 100 across Kyiv, Dnipro, Poltava, Kharkiv, and Zaporizhzhia, with a 3-year-old child pulled from rubble in Dnipro. The 729-projectile raid — the largest single-night barrage of the war — signals an escalation in Russia&#x27;s infrastructure campaign timed precisely as the Trump-Zelenskyy peace framework remains unsigned.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza">Iran Halts Talks With U.S. Over Israeli Actions in Lebanon, Gaza</a><br/>Iran suspended all ceasefire negotiations via mediators on June 1, citing Israel&#x27;s deepening invasion of south Lebanon, while threatening to extend the Strait of Hormuz closure to the Bab al-Mandab Strait — adding Red Sea disruption on top of a blockade already in its fourth month. The Hormuz closure has been the supply chain constraint most corporate risk models still haven&#x27;t fully priced; activating a second chokepoint covering 10% of global trade would materially worsen that exposure.</p>
@@ -169,14 +169,14 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — June 2, 2026</title>
-    <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 02 Jun 2026 13:24:01 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-02-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/the-new-ai-growth-playbook-for-2026-elena-verna">The New AI Growth Playbook for 2026: How Lovable Hit $200M ARR in One Year</a><br/>Elena Verna, Head of Growth at Lovable, explains how the AI-native product builder reached $200M ARR in under a year with 100 employees by inverting the SaaS growth playbook: building in public, giving the product away free for acquisition, and optimizing for innovation velocity rather than funnel conversion. The case documents a pattern specific to AI products — activation and retention metrics that drove SaaS for a decade are poor proxies for AI adoption, which runs on demonstration and word-of-mouth from actual use rather than onboarding optimization.</p>
 <p><strong>HBR</strong> — <a href="https://hbr.org/2026/05/what-companies-can-learn-from-their-biggest-fans">What Companies Can Learn from Their Biggest Fans</a><br/>Marcus Buckingham&#x27;s research finds that customer and employee behavior changes qualitatively when experience moves from &quot;satisfied&quot; to &quot;love it&quot; — the gap between good and genuinely excellent is larger and more discontinuous than most experience-design or engagement frameworks assume. For product and team leaders, the implication is that optimizing to eliminate friction (the dominant UX and management frame) reliably gets to &quot;good enough&quot; but does not produce the extreme positive experience that drives advocacy and sustained loyalty.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — June 1, 2026</title>
-    <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 01 Jun 2026 13:20:59 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-01-ai-and-technology</guid>
     <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/">&#x27;What a joke&#x27;: GitHub Copilot&#x27;s new token-based billing spurs consternation among devs</a><br/>GitHub Copilot switches from flat subscription to token-based billing today, with developers using agentic features reporting bill increases from $29/month to $750–$3,000/month overnight. For tech leaders, this makes the true cost of running AI agents visible for the first time—teams need to audit agentic usage patterns now before Q2 invoices land.</p>
 <p><strong>The Information / Cybernews</strong> — <a href="https://cybernews.com/ai-news/microsoft-new-homegrown-ai-models-copilot-github/">Microsoft Will Unveil New Homegrown AI Models at Build, Including a Cheaper Coding Model for GitHub Copilot</a><br/>Microsoft plans to unveil &quot;Project Polaris&quot; and a suite of in-house AI models at Build 2026 (June 2–3), including a coding model designed to replace OpenAI inside GitHub Copilot. The move signals that Microsoft&#x27;s foundational AI partnership with OpenAI is being deliberately unwound as competitors like Anthropic&#x27;s Claude Code have pulled ahead on developer experience.</p>
@@ -185,7 +185,7 @@
   </item>
   <item>
     <title>World News — June 1, 2026</title>
-    <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 01 Jun 2026 13:20:59 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-01-world-news</guid>
     <description><![CDATA[<p><strong>Associated Press</strong> — <a href="https://abcnews.com/International/wireStory/concerns-mount-belarus-launchpad-new-russian-offensive-ukraine-133460131">Concerns Mount That Belarus Could Be a Launchpad for a New Russian Offensive in Ukraine</a><br/>Fragments of Russia&#x27;s Oreshnik missile fired at Ukraine on May 24 contained microchips manufactured at Belarus&#x27;s Integral plant in Minsk, and ongoing Russia-Belarus nuclear drills are raising fears of a second front opening from the north. Adding Belarus as an active theater would extend Ukraine&#x27;s defense perimeter and materially strain NATO&#x27;s eastern flank response options.</p>
 <p><strong>Axios</strong> — <a href="https://www.axios.com/2026/05/27/china-trade-tariffs">How the Top Trade Chief Sees the Future of US-China Trade</a><br/>Treasury Secretary Bessent told Axios the US is not rushing to extend its China trade truce expiring in November, and frames the goal as managed bilateral trade through a &quot;Board of Trade&quot; mechanism—not structural reform of China&#x27;s economy. The frank admission that Washington has abandoned the long-held aim of changing China&#x27;s economic behavior is a significant strategic concession with multi-year supply chain implications.</p>
@@ -193,20 +193,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — June 1, 2026</title>
-    <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 01 Jun 2026 13:20:59 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-01-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/how-to-build-a-superteam-that-keeps-getting-better">How to Build a Superteam That Keeps Getting Better</a><br/>Research across thousands of teams by Ron Friedman identifies what distinguishes high-performing &quot;superteams&quot;: leaders who make curiosity contagious, surface problems early before they compound, and give feedback oriented toward learning rather than accountability. In periods of rapid technological change, team learning velocity—not individual talent—is the sustainable competitive advantage.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/what-global-companies-lose-when-decision-making-revolves-around-headquarters">What Global Companies Lose When Decision-Making Revolves Around Headquarters</a><br/>A 15-month study of 150+ leaders across the US, Europe, Asia, and the Middle East finds that HQ-centric decision making filters out ground-level intelligence because whoever frames the problem shapes the solution. The fix is structural: make local teams define problems first, then bring headquarters in to weigh options—not the reverse.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — June 1, 2026</title>
-    <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 01 Jun 2026 13:20:59 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-06-01-wildcard</guid>
     <description><![CDATA[<p><strong>Carnegie Endowment for International Peace</strong> — <a href="https://carnegieendowment.org/emissary/2026/05/iran-nuclear-program-progress-deal">Two Wars Later, Iran&#x27;s Nuclear Question Is Still on the Table</a><br/>After two wars and a partial ceasefire, Iran retains 440.9kg of uranium enriched to 60% purity—a short technical step from weapons-grade—and the 60-day extension deal currently on the table does little to resolve this. The Carnegie piece examines why Iran&#x27;s nuclear program survived the military campaign structurally intact and what the coming negotiations will actually need to address.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 31, 2026</title>
-    <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 31 May 2026 13:21:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-31-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Simon Willison&#x27;s Weblog</strong> — <a href="https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/">I Am Retiring from Tech to Live Offline</a><br/>Chad Whitacre, Head of Open Source at Sentry for five years, announced he is leaving tech entirely — citing agentic AI as the final straw after three consecutive 12-hour Claude Code sessions left him feeling like a machine had colonized his inner monologue. For tech leaders building with AI tooling, this is a warning signal: the engineers who built and sustain the open source supply chain are burning out in real time, and some are walking away.</p>
 <p><strong>OpenAI</strong> — <a href="https://openai.com/index/openai-frontier-governance-framework/">OpenAI&#x27;s Frontier Governance Framework</a><br/>OpenAI released a public governance document mapping its safety and security practices — covering cyber offense, CBRN risks, harmful manipulation, and loss-of-control scenarios — to California&#x27;s Transparency in Frontier AI Act and the EU AI Act&#x27;s Code of Practice for General Purpose AI. Technology leaders now have a vendor-produced template for what AI accountability frameworks should contain, which is a useful baseline for your own AI procurement diligence checklists.</p>
@@ -215,7 +215,7 @@
   </item>
   <item>
     <title>World News — May 31, 2026</title>
-    <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 31 May 2026 13:21:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-31-world-news</guid>
     <description><![CDATA[<p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html">Defense spending, China in Asia and lessons from Ukraine: Takeaways from the 2026 IISS Shangri-La Dialogue</a><br/>The summit closed with Asian defense ministers aligned on one conclusion: regional military spending must rise sharply, with China&#x27;s buildup driving alarm and Beijing skipping ministerial-level representation for the second straight year while the US called for greater burden-sharing from allies. For technology leaders with APAC operations or semiconductor supply chain exposure, the emerging consensus translates directly into harder regulatory borders, tighter export controls on dual-use technology, and heightened government scrutiny of cross-border data flows.</p>
 <p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html">Trump ends Iran meeting without announcing &#x27;final determination&#x27; on deal</a><br/>Trump left a White House Situation Room meeting without approving the 60-day ceasefire MOU that would reopen the Strait of Hormuz, despite JD Vance saying the parties are &quot;very close&quot; — leaving the critical shipping lane blocked and energy markets in limbo. The three-month Iran war continues to constrain Persian Gulf shipping capacity with no visible resolution timeline, sustaining elevated supply chain costs for companies dependent on that corridor.</p>
@@ -223,20 +223,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 31, 2026</title>
-    <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 31 May 2026 13:21:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-31-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/data-privacy-is-a-growth-strategy">Data Privacy Is a Growth Strategy</a><br/>Research tracking 16,000 US customers across California and Virginia found that after stricter privacy laws took effect, users in those states voluntarily shared more data — and more diverse data — than users elsewhere, because clearer disclosures and consent mechanisms built trust. For tech leaders, the implication is that robust privacy design (visible opt-ins, plain-language explanations, genuine user control) functions as a trust signal that expands data depth and quality, reframing the privacy-versus-personalization tradeoff as largely false.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/supporting-your-employees-career-growth-when-everyone-is-overwhelmed">Supporting Your Employees&#x27; Career Growth When Everyone Is Overwhelmed</a><br/>With teams stretched thin by AI disruption, layoffs, and geopolitical uncertainty, the article argues that traditional career-ladder conversations produce anxiety rather than engagement, and proposes shifting to near-term skill-building discussions focused on transferable capabilities rather than next-role planning. Managers who redirect career anxiety into concrete skill accumulation will retain more people through the current transition than those defaulting to vague reassurances about long-term stability.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 31, 2026</title>
-    <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 31 May 2026 13:21:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-31-wildcard</guid>
     <description><![CDATA[<p><strong>Open Path (Chad Whitacre)</strong> — <a href="https://openpath.quest/2026/spitting-out-the-agentic-kool-aid/">Spitting Out the Agentic Kool-Aid</a><br/>In the essay that preceded his resignation from tech, Whitacre documents what happened after three immersive days of agentic Claude Code sessions: a psychological disorientation he describes as having &quot;another person in my head sharing my inner monologue,&quot; resolved only after a deliberate digital detox with Amish friends. Now resurfacing in light of his departure from Sentry, it is the most unguarded first-person account yet of what compulsive agentic AI use does to a technical person&#x27;s inner life — and a useful frame for leaders thinking about how to structure AI tool adoption for their teams without burning out their best engineers.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 30, 2026</title>
-    <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 30 May 2026 13:19:30 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-30-ai-and-technology</guid>
     <description><![CDATA[<p><strong>The Batch (DeepLearning.AI)</strong> — <a href="https://www.deeplearning.ai/the-batch/issue-355/">The Vogue for Hiring Forward Deployed Engineers</a><br/>OpenAI and Anthropic are now embedding specialist engineers directly inside client organizations to build and tune agentic workflows — a playbook pioneered by Palantir two decades ago that&#x27;s seeing a sharp resurgence as off-the-shelf LLMs prove insufficient for real enterprise deployment. The hard work of AI is no longer in the model; it&#x27;s in the deep, organization-specific configuration that only on-site engineers can deliver.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/">Coders Are Refusing to Work Without AI — and That Could Come Back to Bite Them</a><br/>Amazon shut down Kirorank, its internal AI token-tracking leaderboard, after engineers gamed it by routing excessive work through AI agents, running up costs while producing lower-quality code. A generation of AI-dependent developers is shipping faster while quietly accumulating technical debt that no benchmark yet measures.</p>
@@ -245,7 +245,7 @@
   </item>
   <item>
     <title>World News — May 30, 2026</title>
-    <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 30 May 2026 13:19:30 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-30-world-news</guid>
     <description><![CDATA[<p><strong>Bloomberg</strong> — <a href="https://www.bloomberg.com/news/newsletters/2026-05-30/shangri-la-dialogue-2026-china-cedes-the-stage-to-us-at-singapore-gathering">Shangri-La Dialogue 2026: China Cedes the Stage to US at Singapore Gathering</a><br/>China&#x27;s defense minister skipped Asia&#x27;s premier security summit for the second consecutive year, handing Defense Secretary Hegseth an uncontested platform to warn that Beijing is &quot;credibly preparing to potentially use military force&quot; in the Indo-Pacific. The US is reasserting regional leadership in the vacuum, but Asian allies are increasingly hedging — building their own defense capabilities rather than simply sheltering under Washington&#x27;s umbrella.</p>
 <p><strong>Washington Post</strong> — <a href="https://www.washingtonpost.com/world/2026/05/29/russian-drone-hits-residential-building-romania-posing-test-nato/">Russian Drone Hits Residential Building in Romania, Posing Test for NATO</a><br/>A Russian Geran-2 drone struck an apartment building in Galati, Romania — the 28th airspace violation of a NATO member state and the first to wound civilians in a densely populated area — prompting NATO Secretary General Rutte to reaffirm collective defense without invoking Article 5. The incident sharpens a strategic question that Trump&#x27;s ambiguous signals have left unresolved: whether the alliance&#x27;s mutual defense commitment functions as a deterrent or as a bluff.</p>
@@ -253,20 +253,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 30, 2026</title>
-    <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 30 May 2026 13:19:30 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-30-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/designing-organizational-change-that-actually-sticks">Designing Organizational Change That Actually Sticks</a><br/>BCG&#x27;s Julia Dhar and Kristy Ellmer map five phases of successful transformation — decide, plan, start, persist, end — and show that most organizational changes fail not because of flawed strategy but because leaders design for launch and ignore the persist phase, where momentum collapses and resistance crystallizes. The counterintuitive finding is that transformation fatigue is not a people problem; it&#x27;s a design problem that leaders can engineer around.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/negotiating-when-there-is-no-plan-b">Negotiating When There Is No Plan B</a><br/>Jonathan Hughes argues that the absence of a strong BATNA does not mean the absence of leverage: negotiators can expand their alternative set to include partial substitutes, temporary arrangements, and procedural options, then reframe threats as warnings and seek tacit consent rather than explicit approval. The framework applies directly to any vendor lock-in situation, high-stakes cloud contract, or partnership deal where walking away is theoretically possible but practically catastrophic.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 30, 2026</title>
-    <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 30 May 2026 13:19:30 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-30-wildcard</guid>
     <description><![CDATA[<p><strong>Harper&#x27;s Magazine</strong> — <a href="https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/">Child&#x27;s Play (Sam Kriss)</a><br/>Sam Kriss embedded with Roy Lee and Silicon Valley&#x27;s youngest AI believers — the generation that has never known a tech career without the assumption that AGI is imminent — to capture what it feels like from inside when you genuinely believe you are building something that will surpass human intelligence. This is the most grounded first-person account of the psychology driving the sector; worth reading now as the industry debates the pace of AI development and as public sentiment, per the AI Hype Index above, begins to diverge sharply from insider conviction.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 29, 2026</title>
-    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 29 May 2026 13:20:11 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-29-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Anthropic</strong> — <a href="https://www.anthropic.com/news/claude-opus-4-8">Introducing Claude Opus 4.8</a><br/>Anthropic released Opus 4.8 on May 28 — 41 days after Opus 4.7, the shortest upgrade cycle in the model&#x27;s history — adding Dynamic Workflows (Claude Code can now spawn hundreds of parallel subagents to plan, execute, and verify codebase-scale migrations end-to-end), user-controlled effort levels, and a fast mode that&#x27;s three times cheaper than before. For teams running Claude Code in production, Dynamic Workflows removes the single-session context ceiling and turns the model into a long-running agentic system capable of handling refactors measured in hundreds of thousands of lines.</p>
 <p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/May/29/anthropic/">Anthropic&#x27;s run-rate revenue hits $47 billion</a><br/>Anthropic closed a $65 billion Series H on May 29, setting its post-money valuation at $965 billion — surpassing OpenAI&#x27;s last known valuation of $852 billion — while reporting a $47 billion annualized run rate, up from $30 billion just weeks ago. Willison&#x27;s framing is the sharpest available: companies don&#x27;t lie to investors who just wired $65 billion, which makes this the most credible public data point yet on how fast AI spending has crossed from experimental budgets into structural cost.</p>
@@ -275,7 +275,7 @@
   </item>
   <item>
     <title>World News — May 29, 2026</title>
-    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 29 May 2026 13:20:11 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-29-world-news</guid>
     <description><![CDATA[<p><strong>NBC News</strong> — <a href="https://www.nbcnews.com/world/lebanon/israeli-strikes-kill-least-8-major-lebanon-city-ahead-washington-talks-rcna347283">Israeli strikes kill at least 14 in major Lebanon city ahead of Washington talks</a><br/>Israel declared all areas south of Lebanon&#x27;s Zahrani River — including the city of Tyre — &quot;combat zones&quot; and struck them overnight, killing at least 19 people, hours before Lebanon-Israel peace talks were scheduled to open in Washington. The timing is deliberate: Israel is using ongoing military pressure to define ceasefire terms from a position of strength rather than meeting diplomatic counterparts on equal footing.</p>
 <p><strong>Asia Times</strong> — <a href="https://asiatimes.com/2026/05/shangri-la-dialogue-opens-as-asia-seeks-alternatives-to-us-shield/">Shangri-La Dialogue opens as Asia seeks alternatives to US shield</a><br/>The 23rd IISS Shangri-La Dialogue opened today in Singapore with 44 countries represented; Vietnam&#x27;s President To Lam delivered the keynote while US Defense Secretary Pete Hegseth addressed the first plenary on Indo-Pacific strategy, facing direct questions about American reliability amid the Iran conflict. The conference&#x27;s dominant theme — Indo-Pacific nations actively diversifying their security portfolios away from the US umbrella — represents a structural shift in regional alliance calculus with direct implications for Taiwan deterrence and South China Sea posture.</p>
@@ -283,20 +283,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 29, 2026</title>
-    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 29 May 2026 13:20:11 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-29-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees">Research: Why You Shouldn&#x27;t Treat AI Agents Like Employees</a><br/>A controlled study of more than 1,200 managers found that framing AI as an employee rather than a tool caused managers to identify 18% fewer errors, reduced individual accountability by 9 percentage points, and increased employee role uncertainty — with no improvement in adoption rates. The researchers recommend a specific governance playbook: publish each agent&#x27;s function in plain language, name a human owner for every agent in production, document the override path, and run quarterly reviews where workers can flag where the agent helped or caused rework.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/leading-the-human-ai-organization">Leading the Human-AI Organization</a><br/>Three CHROs — from Digital Asset, American Express, and the Adecco Group — describe how they&#x27;re managing the current wave of employee AI anxiety: job displacement fears, burnout from AI-driven pace acceleration, and compression of middle management layers. Their shared finding is that transparency about what each AI system can and cannot do, combined with clearly defined human accountability at every AI touchpoint, outperforms re-skilling programs as a driver of both adoption and trust.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 29, 2026</title>
-    <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 29 May 2026 13:20:11 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-29-wildcard</guid>
     <description><![CDATA[<p><strong>IBM Newsroom</strong> — <a href="https://newsroom.ibm.com/2026-05-28-ibm-and-red-hat-commit-5-billion-to-redefine-the-future-of-open-source-in-the-ai-era">IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era</a><br/>IBM and Red Hat announced Project Lightwell on May 28: a $5 billion initiative deploying 20,000+ engineers alongside frontier AI models to systematically identify and remediate open source vulnerabilities at scale, with Bank of America, JPMorganChase, Goldman Sachs, and eight other major financial institutions already signed as early adopters. The underlying logic is pointed — Anthropic&#x27;s Mythos model found nearly 3,900 critical OSS vulnerabilities in its first month, which means the same frontier capability that created an accelerated attack surface is now being organized as the institutional defense, sold as a commercial subscription.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 28, 2026</title>
-    <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 28 May 2026 13:25:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-28-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/May/27/product-market-fit/">I think Anthropic and OpenAI have found product-market fit</a><br/>Uber&#x27;s CTO told investors the company maxed out its full-year AI budget within a few months of 2026, driven almost entirely by Claude Code; Willison argues April 2026 was the inflection point when enterprise AI spending crossed from experimental line items to structural budget commitments, with Anthropic&#x27;s Q2 revenue tracking to $10.9 billion and its first profitable quarter. For tech leaders, this isn&#x27;t a trend to watch — it&#x27;s a cost category that will crowd out discretionary spend before annual plans can absorb it.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/">YouTube will now automatically label AI videos</a><br/>YouTube is switching from creator-declared AI disclosure to autonomous detection: its internal systems will apply AI labels whenever they detect &quot;significant photorealistic AI,&quot; make those labels more prominent across long-form and Shorts, and permanently lock labels on content made with YouTube&#x27;s own tools (Veo, Dream Screen) even if creators dispute them. The precedent matters beyond YouTube — platform-level provenance enforcement, not self-certification, is becoming the industry&#x27;s default approach to AI content trust.</p>
@@ -305,7 +305,7 @@
   </item>
   <item>
     <title>World News — May 28, 2026</title>
-    <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 28 May 2026 13:25:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-28-world-news</guid>
     <description><![CDATA[<p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/27/trump-china-russia-iran-uranium-war-deal.html">Trump opposes Russia or China taking Iran&#x27;s highly enriched uranium</a><br/>Trump stated on May 27 that he would not accept Iran transferring its stockpile of highly enriched uranium to Russia or China as part of any deal — a new constraint that eliminates the one compromise Iran has been most open to, since Tehran has refused to surrender its HEU directly to the United States. With Iran also insisting on control over the Strait of Hormuz and the nuclear issue now explicitly off the table for phase-one negotiations, the structural gap between the two sides is wider than Trump&#x27;s &quot;largely negotiated&quot; framing has suggested.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/27/nx-s1-5835230/a-record-breaking-heat-wave-is-hitting-europe">A record-breaking heat wave is hitting Europe</a><br/>London reached 95°F for the second consecutive day on May 27, with temperatures forecast to exceed 100°F across parts of France and Southern Europe by the weekend; seven deaths in France are already attributed to the heat, and rail disruptions at London Waterloo have exposed how little European infrastructure was built for sustained high temperatures in late spring. Scientists note that this level of heat arriving in May — not July — represents a qualitative shift, not merely an intensification, of the climate baseline.</p>
@@ -313,20 +313,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 28, 2026</title>
-    <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 28 May 2026 13:25:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-28-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/managers-are-struggling-to-keep-up-with-the-ai-productivity-boom">Managers Are Struggling to Keep Up with the AI Productivity Boom</a><br/>AI has so dramatically accelerated execution speed — one manager quoted in the piece notes &quot;every 30 minutes, someone creates something I have to look at&quot; — that managers have become the new bottleneck; the authors (Liz Fosslien and Mollie West Duffy) argue the fix requires shifting from task-level oversight to strategic direction-setting and priority clarification, so that approval cycles don&#x27;t cancel out the productivity gains AI creates. Organizations that don&#x27;t restructure managerial roles to match the new execution tempo will lose the benefit of AI investment entirely.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/research-as-careers-get-longer-midcareer-work-needs-to-change">Research: As Careers Get Longer, Midcareer Work Needs to Change</a><br/>As working lives extend into people&#x27;s 70s, organizations are applying assumptions built for 30-year careers to 50- or 60-year careers — a structural mismatch that burns out midcareer employees at precisely the moment they reach peak leadership potential. The research argues that the problem isn&#x27;t individual resilience but organizational design: most firms have no deliberate framework for midcareer reinvention, career pivots, or sustainable workload management across a multi-decade arc.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 28, 2026</title>
-    <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 28 May 2026 13:25:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-28-wildcard</guid>
     <description><![CDATA[<p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper">The AI paradox: More automation, more humans, more work (Dan Shipper)</a><br/>Dan Shipper, co-founder of Every.to and a daily builder of AI-native products, argues that the &quot;AI replaces workers&quot; narrative inverts the actual dynamic: most substantive work is now happening inside Codex and Claude Code, but every agent still requires a human director at each decision point, making autonomous execution and human oversight more intertwined, not less. Shipper is &quot;wildly bullish on PMs and designers&quot; specifically because the proliferation of agentic workers creates more — not fewer — coordination, prioritization, and judgment calls that only experienced humans can make.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 27, 2026</title>
-    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 27 May 2026 13:21:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-27-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Import AI</strong> — <a href="https://importai.substack.com/p/import-ai-458-reckoning-with-the">Import AI 458: Reckoning with the Future; and a Singularity Story</a><br/>Jack Clark publishes an extended essay and short story imagining what a positive singularity looks like—a deliberate exercise by a frontier practitioner in thinking through what we&#x27;re actually building toward. For senior tech leaders, it&#x27;s a rare artifact: a credible voice articulating a concrete vision of the destination, not just the journey.</p>
 <p><strong>Simon Willison&#x27;s Blog</strong> — <a href="https://simonwillison.net/2026/May/26/the-pressure/">The Pressure</a><br/>AI-assisted security reporting has begun overwhelming open-source maintainers: the curl project is being flooded with AI-generated vulnerability reports, many invalid, consuming maintainer time at a rate that threatens the project&#x27;s sustainability. The pattern signals a structural problem—AI reduces the cost of filing reports but shifts the verification burden entirely to human maintainers.</p>
@@ -335,7 +335,7 @@
   </item>
   <item>
     <title>World News — May 27, 2026</title>
-    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 27 May 2026 13:21:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-27-world-news</guid>
     <description><![CDATA[<p><strong>NBC News</strong> — <a href="https://www.nbcnews.com/politics/politics-news/us-iran-officials-signal-progress-negotiations-fragile-ceasefire-war-rcna346636">US and Iran Officials Signal Progress as Fragile Ceasefire Holds</a><br/>Iran and the United States have agreed in principle on reopening the Strait of Hormuz and disposing of Iran&#x27;s enriched uranium stockpile, with mediators working to extend the ceasefire by 60 days and establish a framework for permanent nuclear negotiations. Key sticking points remain on the timing of sanctions relief and control terms for the strategic waterway.</p>
 <p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/26/russia-ukraine-war-rubio-trump-lavrov-kyiv.html">Russia Tells Rubio: US Citizens Should Leave Kyiv Ahead of &quot;Systematic&quot; Strikes</a><br/>Russia warned that systematic strikes on Kyiv are planned in response to Ukraine&#x27;s attack in Luhansk, with Foreign Minister Lavrov delivering the message directly to Secretary of State Rubio. The escalation comes as Trump and Zelenskyy are reportedly 90–95% aligned on a peace proposal, underscoring how military pressure continues in parallel with diplomatic progress.</p>
@@ -343,20 +343,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 27, 2026</title>
-    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 27 May 2026 13:21:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-27-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/employees-are-relying-on-ai-for-personal-support-thats-risky">Employees Are Relying on AI for Personal Support. That&#x27;s Risky.</a><br/>More than half of surveyed knowledge workers are turning to AI for career advice, emotional support, and social interaction, even as they report feeling lonely at work—creating a hidden erosion of the human connection that drives engagement and retention. Leaders who treat AI adoption as a productivity story while ignoring its social effects will face a compounding engagement problem that doesn&#x27;t surface in usage metrics.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/the-best-leaders-embrace-the-role-of-supporting-character">The Best Leaders Embrace the Role of Supporting Character</a><br/>Research from Stanford psychologist Jamil Zaki shows that leaders who practice intellectual humility—asking questions rather than broadcasting answers, and connecting employee work to personal values—produce measurably higher satisfaction, performance, and loyalty. In an environment where AI increasingly handles intellectual heavy lifting, the differentiating leadership move is curiosity and facilitation, not expertise.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 27, 2026</title>
-    <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 27 May 2026 13:21:31 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-27-wildcard</guid>
     <description><![CDATA[<p><strong>AMD Newsroom</strong> — <a href="https://www.amd.com/en/newsroom/press-releases/2026-5-20-amd-announces-production-ramp-of-next-generation-a.html">AMD Announces Production Ramp of Next-Generation EPYC Processor &quot;Venice&quot; on TSMC 2nm</a><br/>AMD has begun production of the first 2nm chip in the world—the EPYC &quot;Venice&quot;—designed specifically for agentic AI workloads, with 256 cores and a claimed 70% compute performance gain over the previous generation. This is the physical layer of the AI arms race becoming real: the compute substrate for the next generation of models is now in production.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 26, 2026</title>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 26 May 2026 13:22:38 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-26-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Simon Willison&#x27;s Weblog</strong> — <a href="https://simonwillison.net/2026/May/25/encyclical-on-ai/">Notes on Pope Leo XIV&#x27;s encyclical on AI</a><br/>Willison calls &quot;Magnifica Humanitas&quot;—Pope Leo XIV&#x27;s 200-page AI encyclical released May 25—&quot;some of the clearest writing on the ethics of integrating AI into modern society,&quot; highlighting sections on the interpretability problem (LLMs are &quot;cultivated rather than built&quot;), the risk of dependency weakening human creativity, and the call to &quot;disarm AI&quot; by removing it from unchecked military and corporate control. The Catholic Church&#x27;s intervention draws explicitly on Rerum Novarum&#x27;s 1891 labor-rights framework, giving policymakers in 90+ countries a morally-grounded vocabulary for AI regulation that is independent of technical debates about model safety.</p>
 <p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/">It&#x27;s time to address the looming crisis in entry-level work</a><br/>Stanford&#x27;s Digital Economy Lab found workers aged 22–25 in AI-exposed roles (developers, CS reps, programmers) experienced a 16% relative employment decline after generative AI spread; MIT Technology Review argues firms are using AI to eliminate the junior tasks—drafting, triaging, summarizing—through which workers have traditionally acquired professional expertise. The short-term efficiency gain of AI substituting entry-level work may produce a capability drought 5–10 years out, as the apprenticeship pipeline that regenerates expert judgment is quietly hollowed out.</p>
@@ -365,7 +365,7 @@
   </item>
   <item>
     <title>World News — May 26, 2026</title>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 26 May 2026 13:22:38 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-26-world-news</guid>
     <description><![CDATA[<p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html">U.S. conducts &#x27;self-defense strikes&#x27; in Iran as Trump pushes for peace deal</a><br/>CENTCOM struck Iranian missile sites and naval vessels planting mines in the Strait of Hormuz on May 26 even as both sides say they&#x27;ve agreed on &quot;a large portion&quot; of a peace deal&#x27;s terms, with Secretary Rubio calling the agreement &quot;a pretty solid thing on the table&quot; while Iran called the strikes a ceasefire violation. The pattern—military coercion running simultaneously with diplomatic progress—means Strait reopening is a matter of weeks rather than months, but each incident in the field carries an escalation risk that could collapse talks entirely.</p>
 <p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/05/25/europe-trump-nato-leadership/">Europe Rethinks American Ties as Trump Rages</a><br/>After initially accommodating Trump with defense spending increases and bilateral economic concessions, European governments are building an independent security architecture through a British-French-led coalition of 35 nations—including Japan, Canada, and Australia—deliberately designed to function without U.S. leadership. For organizations whose technology partnerships, export compliance, and supply chain security rely on a coherent transatlantic order, this is the most significant structural shift in Western institutional architecture since NATO&#x27;s founding.</p>
@@ -373,20 +373,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 26, 2026</title>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 26 May 2026 13:22:38 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-26-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/listen-for-the-silence-insights-from-a-long-serving-ceo">&quot;Listen for the Silence&quot;: Insights from a Long-Serving CEO</a><br/>Aflac CEO Dan Amos describes his operating model as &quot;consultant-in-chief&quot;—delegating decisions to those with the best information while staying most attuned to what his team avoids raising rather than what they do raise. In organizations where AI is changing what work looks like faster than management reporting can track, the habit of listening for silence—noticing what topics subordinates aren&#x27;t surfacing—is the most reliable early-warning system for the problems most likely to become crises.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/why-effective-leaders-get-branded-as-problems">Why Effective Leaders Get Branded as Problems</a><br/>Luis Velasquez identifies four sources of the friction that labels effective leaders as organizational problems: capability gaps, perception mismatches (accurate work, misread intent), identity incongruence (right skills, wrong context), and system misalignment (individual is fine, the org is broken). For a senior leader managing high-performers generating organizational friction, the diagnostic framework matters more than any intervention—treating a system misalignment as a capability gap makes the problem worse.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 26, 2026</title>
-    <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 26 May 2026 13:22:38 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-26-wildcard</guid>
     <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/">The pope&#x27;s AI encyclical isn&#x27;t really about AI</a><br/>TechCrunch&#x27;s analysis of &quot;Magnifica Humanitas&quot; argues the encyclical&#x27;s core subject is the concentration of economic and political power in a small elite—AI is the contemporary occasion, but the document&#x27;s concerns (inequality, democratic erosion, labor displacement) would be recognizable to readers of Rerum Novarum in 1891, and the Pope presented it alongside Anthropic co-founder Chris Olah. Reading it as a power critique rather than an AI policy document explains its regulatory traction: it gives policymakers a morally-grounded framework for constraining Big Tech that doesn&#x27;t require engaging technical debates about model capability.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 25, 2026</title>
-    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 25 May 2026 13:22:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-25-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Anthropic</strong> — <a href="https://www.anthropic.com/glasswing">Project Glasswing Finds Over 10,000 Critical Software Flaws in Its First Month</a><br/>Anthropic&#x27;s AI-powered security initiative, using its unreleased Mythos model, uncovered more than 10,000 vulnerabilities across launch partners in its first month—including 2,000 bugs at Cloudflare and a tenfold jump in Firefox fixes at Mozilla compared to prior Claude models. With AWS, Apple, Cisco, Microsoft, and NVIDIA all enrolled, this is the first large-scale proof that frontier AI can deliver order-of-magnitude productivity gains in a high-stakes enterprise function.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/">OpenAI Co-Founder Andrej Karpathy Joins Anthropic&#x27;s Pre-Training Team</a><br/>Karpathy starts this week at Anthropic building a team that uses Claude to accelerate pre-training research—the work responsible for giving Claude its core knowledge and capabilities. Coming as Anthropic closes a $30 billion funding round and posts its first profitable quarter, this hire concentrates an unusual density of foundational AI talent at a single lab.</p>
@@ -395,7 +395,7 @@
   </item>
   <item>
     <title>World News — May 25, 2026</title>
-    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 25 May 2026 13:22:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-25-world-news</guid>
     <description><![CDATA[<p><strong>Bloomberg</strong> — <a href="https://www.bloomberg.com/news/newsletters/2026-05-25/us-and-iran-inch-closer-to-a-deal-to-reopen-hormuz">US and Iran Inch Closer to a Deal to Reopen the Strait of Hormuz</a><br/>Iran and the US have agreed to broad principles for an MOU that would see the strait reopen gradually in parallel with the US lifting its blockade of Iranian ports, with 60 days of negotiations to follow on sanctions relief and frozen assets. Partial resolution would immediately reduce energy prices and shipping costs globally, with direct implications for supply chains and inflation in technology-dependent sectors.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv">Russia Uses Hypersonic Oreshnik Missile in Mass Attack on Kyiv</a><br/>Russia launched 600 drones and 90 missiles—including an Oreshnik hypersonic ballistic missile capable of carrying a nuclear warhead—at Kyiv overnight, killing 2, injuring 77, and damaging 300 sites including the Chernobyl museum. The first combat use of the Oreshnik against a civilian capital crosses an escalatory threshold and directly complicates any diplomatic path toward a ceasefire.</p>
@@ -403,20 +403,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 25, 2026</title>
-    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 25 May 2026 13:22:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-25-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/how-to-build-a-superteam-that-keeps-getting-better">How to Build a Superteam That Keeps Getting Better</a><br/>In periods of rapid change, the teams that outperform aren&#x27;t those with the best plans or the most talent but those that learn fastest—by encouraging experimentation even when things go well, surfacing problems early, and investing in growth without requiring immediate payoff. As AI reshapes team composition and eliminates routine tasks, this reframes the central leadership challenge from managing talent to building learning velocity.</p>
 <p><strong>Farnam Street</strong> — <a href="https://fs.blog/brain-food/may-24-2026/">Intelligence vs. Wisdom</a><br/>The May 24 Brain Food letter centers on a single clean distinction: intelligence is getting what you want, wisdom is wanting what&#x27;s worth getting in the first place. High-output people apply this by being maniacal about removing what others tolerate—which in an era of AI-amplified output makes the judgment of what to work on the decisive leadership variable.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 25, 2026</title>
-    <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 25 May 2026 13:22:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-25-wildcard</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/25/g-s1-124179/china-launches-shenzhou-23-spacecraft">China Launches Shenzhou 23 Spacecraft; One Astronaut Set for Yearlong Stay</a><br/>China launched three astronauts to the Tiangong station—including Lai Ka-ying, the first astronaut from Hong Kong—with one crew member assigned to a year-long mission studying human adaptability in sustained spaceflight. China&#x27;s Tiangong program is now a mature, regularly crewed operation systematically building the physiological and operational data needed for extended missions beyond Earth orbit.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 24, 2026</title>
-    <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 24 May 2026 13:13:33 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-24-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Bloomberg</strong> — <a href="https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week">Anthropic to Close Over $30 Billion Round as Soon as Next Week</a><br/>Anthropic is set to close a funding round exceeding $30 billion at a pre-money valuation above $900 billion — surpassing OpenAI as the world&#x27;s most valuable private AI company — with the close expected within days. The valuation more than doubled from $380 billion in February, reflecting investor conviction that the commercial inflection has arrived: Anthropic is projecting $10.9 billion in Q2 revenue and its first operating profit.</p>
 <p><strong>OpenAI</strong> — <a href="https://openai.com/index/model-disproves-discrete-geometry-conjecture/">An OpenAI Model Has Disproved a Central Conjecture in Discrete Geometry</a><br/>A general-purpose OpenAI reasoning model independently disproved Paul Erdős&#x27;s unit distance conjecture — unsolved since 1946 — discovering an infinite family of point arrangements that beat the previous best construction using algebraic number theory, verified by external mathematicians. This is the first time a general-purpose AI (not a math-specialized system) has produced novel, externally-verified mathematical results, marking a shift from AI as tool to AI as scientific contributor.</p>
@@ -425,7 +425,7 @@
   </item>
   <item>
     <title>World News — May 24, 2026</title>
-    <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 24 May 2026 13:13:33 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-24-world-news</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz">Trump: Deal with Iran Is &quot;Largely Negotiated&quot;</a><br/>Trump announced on social media that an agreement to end the Iran war and reopen the Strait of Hormuz is &quot;largely negotiated&quot; and will be announced shortly — but Iran&#x27;s top negotiator simultaneously declared Tehran &quot;will not compromise,&quot; with outstanding disputes including nuclear enrichment, sanctions relief, and reparations. If the Strait reopens, fuel prices and global supply chains disrupted since the conflict began would materially improve.</p>
 <p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/24/taiwan-and-china-coast-guards-in-standoff-at-top-of-south-china-sea.html">Taiwan and China Coast Guards in Standoff at Top of South China Sea</a><br/>Taiwan and China&#x27;s coast guards entered a second day of standoff near the Pratas Islands — 400km from Taiwan, widely seen as its most vulnerable territory — with China using unusual sovereignty language and holding an extended position that Taiwan officials called unprecedented in both wording and duration. The standoff follows Xi Jinping&#x27;s direct warning to Trump at the Beijing summit that mishandling Taiwan would put the US-China relationship &quot;in great jeopardy.&quot;</p>
@@ -433,20 +433,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 24, 2026</title>
-    <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 24 May 2026 13:13:33 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-24-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/beware-the-agentic-convergence-trap">Beware the Agentic Convergence Trap</a><br/>When companies deploy AI agents trained on the same market data, optimizing similar objectives at machine speed, their independent systems converge on identical decisions — eroding differentiation and, in some cases, inviting regulatory scrutiny for implicit collusion. The article identifies the trap&#x27;s mechanism and offers design principles for leaders who need competitive differentiation to survive agentic AI deployment.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/its-hard-to-use-ai-as-a-team-these-3-practices-can-help">It&#x27;s Hard to Use AI as a Team. These 3 Practices Can Help.</a><br/>A five-month study found that without deliberate design, AI integration reduces team engagement, narrows participation in meetings, and shifts ownership from the collective to individual power users. Teams that avoided the failure mode engaged AI at the group level, assigned it multiple personas to deepen discussion, and maintained joint ownership of prompts and outputs.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 24, 2026</title>
-    <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 24 May 2026 13:13:33 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-24-wildcard</guid>
     <description><![CDATA[<p><strong>OpenAI</strong> — <a href="https://openai.com/index/introducing-b2b-signals/">How Frontier Firms Are Pulling Ahead (B2B Signals)</a><br/>OpenAI&#x27;s large-scale, privacy-preserving analysis of enterprise usage finds that frontier firms use 3.5x as much intelligence per worker as typical firms — up from 2x a year ago — and the gap is widest in agentic workflows, where frontier firms send 16x as many Codex messages. The core finding: most of the frontier advantage comes not from having access to AI but from depth of use across more task types, not from message volume alone.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 23, 2026</title>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 23 May 2026 13:19:03 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-23-ai-and-technology</guid>
     <description><![CDATA[<p><strong>The Batch (DeepLearning.AI)</strong> — <a href="https://www.deeplearning.ai/the-batch/issue-354/">Hermes vs. OpenClaw, Cybersecurity Alarms Ring, More-Interactive Conversations, Can Agents Do Human Work?</a><br/>Issue 354 covers the rise of Hermes as a rival to the wildly popular OpenClaw autonomous agent, the UK AI Security Institute&#x27;s finding that Claude Mythos Preview and GPT-5.5 can reliably execute attacks that would take humans three hours, and benchmark analysis showing agent performance is concentrated in software engineering and mathematical occupations. The convergence of autonomous capability and offensive security potential in the same model generation is the development tech leaders need to track.</p>
 <p><strong>Fortune</strong> — <a href="https://fortune.com/2026/05/22/openai-ipo-filing-1-trillion-may-finally-answer-these-big-questions/">The big questions OpenAI&#x27;s trillion-dollar IPO filing may finally answer</a><br/>OpenAI confidentially filed its S-1 with the SEC on May 22, targeting a Q4 2026 public listing at a valuation between $852 billion and $1 trillion; Q1 revenue was $5.7 billion, but the company posted a negative 122% operating margin — losing $1.22 for every dollar earned. The filing is the first formal financial disclosure of frontier AI&#x27;s true cost structure, and the numbers will force a hard reset on how the market prices AI infrastructure and vendor lock-in.</p>
@@ -455,7 +455,7 @@
   </item>
   <item>
     <title>World News — May 23, 2026</title>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 23 May 2026 13:19:03 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-23-world-news</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/23/nx-s1-5832394/rubio-arrives-india">Rubio arrives in India ahead of Quad talks as U.S. tries to reset strained ties</a><br/>Secretary of State Marco Rubio arrived in India on Saturday for a visit that will include a Quad Foreign Ministers&#x27; Meeting with counterparts from Australia and Japan — the first senior U.S. visit since tariff disputes and diverging positions on Russia cooled the bilateral relationship. The meeting tests whether the Indo-Pacific alignment can hold under Trump&#x27;s transactional foreign policy at the same moment China is escalating economic and military pressure on Japan and Taiwan.</p>
 <p><strong>PBS NewsHour</strong> — <a href="https://www.pbs.org/newshour/world/u-s-military-boards-iranian-flagged-oil-tanker-suspected-of-trying-to-breach-blockade">U.S. military boards Iranian-flagged oil tanker suspected of trying to breach blockade</a><br/>A U.S. Navy vessel boarded an Iranian-flagged tanker in the Gulf of Oman attempting to break the American blockade, with both sides maintaining a dual blockade of the Persian Gulf while Iran charges vessels over $1 million per transit in strait tolls. The Strait of Hormuz remains effectively closed — it carries roughly 20% of global oil — and the shutdown is on track to produce a European energy crisis comparable to the 2022 Russia-Ukraine shock.</p>
@@ -463,20 +463,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 23, 2026</title>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 23 May 2026 13:19:03 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-23-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/04/how-to-move-from-ai-experimentation-to-ai-transformation">How to Move from AI Experimentation to AI Transformation</a><br/>Companies deploying AI are falling into the &quot;micro-productivity trap&quot;: optimizing individual tasks and generating isolated efficiency gains that never translate into measurable business outcomes because the underlying workflows remain unchanged. Moving from experimentation to transformation requires redesigning what work gets done, not just how fast existing work moves — a fundamentally different mandate than purchasing AI licenses.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/data-privacy-is-a-growth-strategy">Data Privacy Is a Growth Strategy</a><br/>A 14-year study analyzing 360 real-world corporate privacy announcements found that markets consistently reward firms that invest in privacy practices, with strong-privacy brands seeing a 12.31% increase in customer patronage — with the effect amplified for companies that had experienced a prior breach. For technology leaders managing customer data, this reframes privacy investment from compliance overhead into a measurable competitive lever with quantifiable return.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 23, 2026</title>
-    <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 23 May 2026 13:19:03 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-23-wildcard</guid>
     <description><![CDATA[<p><strong>Brookings Institution</strong> — <a href="https://www.brookings.edu/articles/research-on-ai-and-the-labor-market-is-still-in-the-first-inning/">Research on AI and the labor market is still in the first inning</a><br/>A survey of the academic literature on AI&#x27;s labor market effects finds the evidence fundamentally inconclusive: studies show both reduced unemployment and declining job postings in AI-exposed occupations, and the timing of shifts correlates more closely with macroeconomic cycles than with ChatGPT&#x27;s release. Leaders building workforce forecasts on AI disruption narratives should know the empirical research cannot yet distinguish AI effects from coincident macro factors.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 22, 2026</title>
-    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 22 May 2026 13:23:49 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-22-ai-and-technology</guid>
     <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/">Anthropic says it&#x27;s about to have its first profitable quarter</a><br/>Anthropic will deliver its first operating profit on approximately $10.9 billion in Q2 2026 revenue—more than doubling its prior quarter—while cautioning that profitability may not persist as large compute commitments hit later in the year. The result confirms that a safety-first AI lab can reach commercial scale without the economics of frontier AI becoming the exclusive province of tech giants with existing platform distribution.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/">OpenAI barrels toward IPO that may happen in September</a><br/>OpenAI is confidentially filing its IPO prospectus with the SEC as early as today, targeting a September public debut at a valuation above $1 trillion, with Goldman Sachs and Morgan Stanley as lead underwriters. The filing will generate the first public pricing signal for frontier AI revenue multiples, setting the benchmark that will govern every subsequent AI company valuation, M&amp;A deal, and employee equity expectation in the sector.</p>
@@ -485,7 +485,7 @@
   </item>
   <item>
     <title>World News — May 22, 2026</title>
-    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 22 May 2026 13:23:49 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-22-world-news</guid>
     <description><![CDATA[<p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html">U.S., Iran signal peace progress — but remain at odds over enriched uranium, Strait of Hormuz tolls</a><br/>Two months into the U.S.-Iran war, both sides say gaps have &quot;reduced,&quot; but Secretary of State Rubio declared any deal &quot;unfeasible&quot; if Iran pursues permanent toll control of the Strait of Hormuz, while Washington&#x27;s demand that Iran surrender its enriched uranium stockpile remains Tehran&#x27;s core negotiating red line. Until those two gaps close—and no current mechanism exists for closing them—energy market volatility remains structurally elevated and any planning assumption of near-term resolution is not supported by the current negotiating record.</p>
 <p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/05/22/quad-rubio-india-china/">Why the Quad Was Doomed From the Start</a><br/>As Secretary Rubio heads to India for a Quad foreign-ministers meeting starting May 23, Foreign Policy argues the Quad&#x27;s structural defect is a fundamental divergence between U.S. and Indian interests on China: Washington treats China as an adversary to contain while New Delhi treats it as a neighbor to manage. For tech and business leaders who depend on the U.S.-India technology partnership as a stable geopolitical assumption—in semiconductor supply chains, defense tech cooperation, or AI research alliances—the Quad&#x27;s continued failure to hold a leaders&#x27; summit signals that institutional backing is weaker than the partnership&#x27;s public profile suggests.</p>
@@ -493,20 +493,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 22, 2026</title>
-    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 22 May 2026 13:23:49 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-22-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/negotiating-when-there-is-no-plan-b">Negotiating When There Is No Plan B</a><br/>When facing one-sided dependency or &quot;take it or leave it&quot; ultimatums, negotiators can create leverage by identifying partial or temporary alternatives, reframing threats as warnings, appealing to fairness norms, and seeking tacit rather than explicit consent—a practical expansion of the BATNA framework for asymmetric negotiations. The scenarios the article addresses—vendor lock-in, sole-source contracts, regulatory dependencies—are precisely the negotiation contexts that AI compute concentration and platform consolidation are creating for senior tech leaders right now.</p>
 <p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands">How to build a company that withstands any era | Eric Ries, Lean Startup author</a><br/>Eric Ries&#x27;s new book Incorruptible argues that companies self-corrupt not through bad actors but through &quot;financial gravity&quot;—the structural pull toward short-term optimization—and that the reliable countermeasure is governance design (charters, purpose trusts, mission-protection clauses), not culture, because values erode under pressure while structure holds. The interview draws on examples from Anthropic, Costco, and Novo Nordisk to show that the companies which survive competitive intensity and generational leadership transitions share a design decision made early and rarely revisited: they built structures that resist optimization pressure, not just people who intended to resist it.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 22, 2026</title>
-    <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 22 May 2026 13:23:49 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-22-wildcard</guid>
     <description><![CDATA[<p><strong>Air Street Press</strong> — <a href="https://press.airstreet.com/p/state-of-ai-may-2026">State of AI: May 2026</a><br/>Four Chinese AI labs—Z.ai (GLM-5.1), MiniMax (M2.7), Moonshot (Kimi K2.6), and DeepSeek (V4)—released open-weights coding models within a 12-day window, all converging on the same capability ceiling on agentic engineering benchmarks at meaningfully lower inference cost than Western frontier models. The pattern is the second such rapid multi-lab Chinese release in six months, confirming that the Western frontier advantage in coding and agentic tasks is narrowing faster than public competitive analysis typically reflects.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 21, 2026</title>
-    <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 21 May 2026 13:11:09 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-21-ai-and-technology</guid>
     <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/">Anthropic will pay xAI $1.25B per month for compute</a><br/>Anthropic&#x27;s agreement to lease all of xAI&#x27;s Colossus 1 data center (220,000+ GPUs) for $1.25 billion per month—disclosed in SpaceX&#x27;s S-1 SEC filing—reveals the full scale of the AI industry&#x27;s compute dependency, with the deal potentially worth $40B+ through 2029. Frontier model companies are now structurally beholden to whoever controls the GPU clusters, and that leverage sits with a direct competitor.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/">Elon Musk has lost his lawsuit against Sam Altman and OpenAI</a><br/>A California jury dismissed all of Musk&#x27;s claims in under two hours on statute-of-limitations grounds, never ruling on whether OpenAI&#x27;s conversion to a for-profit entity violated its original charitable mission. The verdict clears an immediate legal obstacle to OpenAI&#x27;s ongoing restructuring, but Musk has pledged to appeal and the governance question remains live.</p>
@@ -515,7 +515,7 @@
   </item>
   <item>
     <title>World News — May 21, 2026</title>
-    <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 21 May 2026 13:11:09 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-21-world-news</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/20/nx-s1-5828196/xi-putin-meet-beijing">Putin and Xi hail their friendship and growing energy trade at meeting in Beijing</a><br/>Putin and Xi signed 40+ cooperation agreements in Beijing just days after Trump&#x27;s own summit with Xi, with bilateral trade at $228 billion and Russian oil exports to China up 35% in Q1 2026. China is simultaneously deepening ties with both Washington and Moscow, positioning itself as an indispensable node in global order rather than a side-choosing ally.</p>
 <p><strong>NBC News</strong> — <a href="https://www.nbcnews.com/world/ukraine/ukraine-ally-britain-eases-new-sanctions-russian-oil-fuel-prices-surge-rcna346229">Ukraine ally Britain eases new sanctions on Russian oil as fuel prices surge over Iran war</a><br/>The UK delayed new Russian oil sanctions because the Strait of Hormuz closure has driven fuel prices high enough to create a domestic cost-of-living squeeze. The Iran war is now indirectly relieving economic pressure on Russia—the same Western allies who pledged to isolate Moscow are being compelled to ease that isolation to manage their own energy economics.</p>
@@ -523,20 +523,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 21, 2026</title>
-    <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 21 May 2026 13:11:09 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-21-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/supporting-your-employees-career-growth-when-everyone-is-overwhelmed">Supporting Your Employees&#x27; Career Growth When Everyone Is Overwhelmed</a><br/>As AI disruption and economic instability render traditional career ladders irrelevant, the practical alternative is embedding development into daily work—shifting conversations from long-term advancement to near-term skill acquisition. Reframing growth from &quot;where are you going&quot; to &quot;what are you learning this quarter&quot; improves retention without requiring the organizational stability that no longer exists.</p>
 <p><strong>Farnam Street</strong> — <a href="https://fs.blog/brain-food/may-17-2026/">The Microscope and The Telescope</a><br/>The most effective performers allocate roughly 90% of attention to the microscope (daily execution) and only occasionally consult the telescope (multi-year vision), rather than splitting attention evenly between near and far. Sustained long-range focus without proportional daily execution produces elaborate plans that never compound into results.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 21, 2026</title>
-    <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 21 May 2026 13:11:09 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-21-wildcard</guid>
     <description><![CDATA[<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/">Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell</a><br/>Colossal Biosciences hatched 26 live chicks from fully artificial eggs—3D-printed lattices coated with a silicone membrane that replicates the gas-exchange function of a natural shell—as a technical proving step toward reviving the dodo and giant moa. The breakthrough demonstrates that synthetic biology is advancing faster than public debate about de-extinction ethics has materialized.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 20, 2026</title>
-    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 20 May 2026 13:16:39 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-20-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Import AI</strong> — <a href="https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon">Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment</a><br/>Jack Clark examines fast16.sys, a 20-year-old malware that silently corrupts high-precision industrial calculations without detection, and uses it to argue that a future superintelligence might pursue &quot;AI non-proliferation&quot; by quietly sabotaging competing systems the way nuclear states guard against nuclear proliferation. The issue also proposes &quot;positive alignment&quot; as a design target—building AI systems not merely safe but actively supportive of human flourishing—a framing that is starting to appear in serious policy circles.</p>
 <p><strong>Simon Willison&#x27;s Weblog</strong> — <a href="https://simonwillison.net/2026/May/19/gemini-35-flash/">Gemini 3.5 Flash: more expensive, but Google plan to use it for everything</a><br/>Google launched Gemini 3.5 Flash at I/O 2026 as its strongest model yet for coding and autonomous agents—faster than comparable frontier models and better across nearly all benchmarks than its predecessor—while simultaneously announcing it as the universal substrate for all Google products. The strategic tell is in the name: unlike prior &quot;Flash&quot; models positioned as cheap alternatives, this one is more expensive, signaling that Google is collapsing its model tiers rather than maintaining a cost/quality ladder.</p>
@@ -545,7 +545,7 @@
   </item>
   <item>
     <title>World News — May 20, 2026</title>
-    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 20 May 2026 13:16:39 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-20-world-news</guid>
     <description><![CDATA[<p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/19/putin-russia-visit-china-beijing-trump-summit-ukraine-war-energy-shock-.html">Putin heads to Beijing days after Trump in test of China&#x27;s balancing act</a><br/>Putin arrived in Beijing on May 19 for a two-day state visit—his 25th trip to China—just five days after Trump&#x27;s summit with Xi, with both sides issuing a joint statement warning against a return to the &quot;law of the jungle&quot; and opposing Trump&#x27;s $175B Golden Dome missile defense program. China hosting the leaders of both the United States and Russia within six days is the clearest public demonstration yet of Beijing&#x27;s strategy: engage both powers simultaneously while binding itself to neither.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant">Drone strikes UAE nuclear plant highlighting risk of renewed war</a><br/>Three drones entered UAE airspace targeting the Barakah nuclear plant—the Arab world&#x27;s only nuclear power station—with one breaching air defenses and igniting a fire outside the inner perimeter; the IAEA chief called it an &quot;unacceptable&quot; attack on nuclear infrastructure. The incident, set against a fragile U.S.-Iran ceasefire and an International Energy Agency assessment that the conflict has caused the largest oil supply disruption in the market&#x27;s history, signals that Gulf energy infrastructure is now an active military target.</p>
@@ -553,20 +553,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 20, 2026</title>
-    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 20 May 2026 13:16:39 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-20-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/what-really-gets-in-the-way-of-change">What Really Gets in the Way of Change</a><br/>Most transformation initiatives fail because executive teams mistake politeness for alignment—never explicitly agreeing on why they&#x27;re changing, what they&#x27;re changing, or how—so the misalignment surfaces mid-execution rather than in the planning room. The article also introduces the &quot;agentic convergence trap&quot;: competing organizations deploying similar AI tools may inadvertently learn their way into identical strategies, making the quality of initial strategic hypotheses—before AI optimizes them—more consequential than ever.</p>
 <p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more">Why cultivating agency matters more than cultivating skills in the AI era</a><br/>Max Schoening, Head of Product at Notion, argues that as AI automates skills faster than people can acquire them, the core management challenge shifts from skill development to building employee agency—the capacity to set goals, make decisions, and act without supervision. The practical implication for org design: optimize team structures for judgment and initiative rather than task proficiency, and measure people on outcomes they own rather than processes they follow.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 20, 2026</title>
-    <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 20 May 2026 13:16:39 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-20-wildcard</guid>
     <description><![CDATA[<p><strong>Rest of World</strong> — <a href="https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/">Chinese AI engineers are Silicon Valley&#x27;s new power players</a><br/>Viola Zhou&#x27;s reported piece documents how Chinese-born engineers and researchers have become indispensable to America&#x27;s AI boom, holding senior research roles at OpenAI, Google DeepMind, Anthropic, and Meta AI despite U.S.-China relations being at a generational low. The structural tension this creates—deep technological dependence on a talent pool caught between two adversarial states—is one of the more underexamined fault lines in American AI strategy.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 19, 2026</title>
-    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 19 May 2026 13:14:50 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-19-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Simon Willison&#x27;s Weblog</strong> — <a href="https://simonwillison.net/2026/May/19/5-minute-llms/">The last six months in LLMs in five minutes</a><br/>At PyCon US 2026, Willison published annotated slides condensing six months of LLM developments into a practitioner-grade overview, covering key model releases, agentic advances, and the practical tooling shifts developers actually felt. For a senior tech leader, it&#x27;s the fastest calibration of what your engineering team means when they talk about where the field has moved since late 2025.</p>
 <p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/">What to expect from Google this week</a><br/>Google I/O 2026 opens today with a possible Gemini 4 debut, Android XR smart glasses powered by Gemini 2.5 Pro offering on-lens contextual information, and a meaningful update to Project Astra—the universal AI assistant previewed but not yet shipped to consumers. Google&#x27;s central bet is that recasting Gemini as a cross-device operating layer across phones, glasses, and cars can close the gap with Apple Intelligence and Claude Code&#x27;s hold on the developer community.</p>
@@ -575,7 +575,7 @@
   </item>
   <item>
     <title>World News — May 19, 2026</title>
-    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 19 May 2026 13:14:50 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-19-world-news</guid>
     <description><![CDATA[<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/05/13/indias-role-disordered-world-diplomacy/">India&#x27;s Role in a Disordered World</a><br/>Former Indian NSA Shivshankar Menon argues that India&#x27;s optimal strategy in a world of collapsing multilateral institutions—fraying trade regimes, a weakened nonproliferation regime, rising conflicts—is not to mediate or pick alliances but to focus on its own modernization and manage stability in its immediate region. The piece is a disciplined articulation of middle-power hedging with broad applicability to how any organization navigates a fragmenting global order.</p>
 <p><strong>Foreign Affairs</strong> — <a href="https://www.foreignaffairs.com/iran/why-ceasefire-iran-will-hold-trump-negotiations">Why the Cease-Fire With Iran Will Hold</a><br/>Gideon Rose at CFR argues that despite Trump dismissing Tehran&#x27;s latest proposal as &quot;garbage,&quot; both sides have strong structural incentives to maintain the April ceasefire—the U.S. can&#x27;t absorb the domestic and geopolitical cost of re-escalation, and Iran has exhausted its capacity for sustained conflict. The deeper problem the ceasefire doesn&#x27;t solve is Iran&#x27;s nuclear program: the shooting stops, but the core deal-making on enrichment has not begun.</p>
@@ -583,20 +583,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 19, 2026</title>
-    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 19 May 2026 13:14:50 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-19-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/04/what-ai-cant-do-the-new-job-of-leadership">What AI Can&#x27;t Do: The New Job of Leadership</a><br/>Harvard professor Arthur C. Brooks distinguishes complicated problems—those with deterministic or probabilistic solutions AI handles well—from complex ones, which require human judgment, relational context, and meaning-making. As AI absorbs more of the technical workload, the premium on the specifically human competencies of leadership rises rather than falls, and senior leaders who don&#x27;t make that shift will find themselves managing tasks that machines already do better.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/04/the-future-is-shrouded-in-an-ai-fog">The Future Is Shrouded in an AI Fog</a><br/>When AI is changing the strategic landscape faster than annual planning cycles can track, the goal of leadership shifts from predicting and executing to preserving optionality—through stage-gated capital deployment, adaptive organizational structures, and feedback loops fast enough to detect when assumptions have been invalidated. Optimizing for the unknown is not hedging; it is a discipline that requires active design.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 19, 2026</title>
-    <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Tue, 19 May 2026 13:14:50 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-19-wildcard</guid>
     <description><![CDATA[<p><strong>arxiv (Tsinghua University)</strong> — <a href="https://arxiv.org/abs/2604.03338">The Ideation Bottleneck: Decomposing the Quality Gap Between AI-Generated and Human Economics Research</a><br/>Researchers analyzed 912 AI-generated economics papers against 41 published in the American Economic Review and found that idea quality accounts for 71% of the performance gap, with execution quality explaining the remaining 29%. AI research agents can generate methodologically rigorous papers at scale; the bottleneck is not competence at doing research—it&#x27;s judgment about which questions are worth asking.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 18, 2026</title>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 13:18:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-18-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Anthropic</strong> — <a href="https://www.anthropic.com/news/pwc-expanded-partnership">PwC and Anthropic Expand Alliance, Driving Impact Across Client Work and the Firm</a><br/>Anthropic and PwC have expanded their strategic alliance, with PwC certifying 30,000 professionals on Claude, deploying Claude Code for production software delivery, and launching a new AI-native finance practice where insurance underwriting cycles compressed from ten weeks to ten days. This is the most detailed public benchmark yet of enterprise-scale Claude deployment — concrete throughput gains that set the bar for any tech leader evaluating similar investments.</p>
 <p><strong>Gizmodo</strong> — <a href="https://gizmodo.com/what-were-expecting-at-google-i-o-2026-2000757479">What We&#x27;re Expecting at Google I/O 2026</a><br/>Google&#x27;s developer keynote opens tomorrow (May 19, 10am PT), with announcements expected across a new Gemini model update, Android 17 with Gemini Intelligence embedded in core apps, the first Android XR smart glasses (one display-free, one with in-lens navigation), and Aluminium OS — a unified Android/ChromeOS successor powering a new Googlebook laptop category. Any tech leader building on Google infrastructure should clear time for the keynote; this is a full-platform shift, not a product update cycle.</p>
@@ -605,7 +605,7 @@
   </item>
   <item>
     <title>World News — May 18, 2026</title>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 13:18:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-18-world-news</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/17/nx-s1-5824987/ukrainian-drone-strikes-on-russia-kill-4-moscow">Ukraine Conducts Large-Scale Drone Strikes on Russia, Killing 4 and Wounding 12 Others</a><br/>Ukraine launched one of its largest drone attacks on Russia Sunday, killing four people near Moscow and wounding a dozen others, with 81 drones targeted at the capital and debris landing on Sheremetyevo airport grounds. The strike signals Ukraine&#x27;s escalation playbook as direct peace talks remain stalled — both sides are testing how far they can push before any remaining diplomatic window closes.</p>
 <p><strong>Foreign Affairs</strong> — <a href="https://www.foreignaffairs.com/united-states/nonproliferation-regime-breaking">The Nonproliferation Regime Is Breaking</a><br/>With the New START treaty expired without replacement and the 11th NPT Review Conference currently underway in New York through May 22, Foreign Affairs argues the global system preventing nuclear proliferation is fracturing: major powers openly flout their Article VI disarmament commitments, China continues testing at Lop Nur, and Iran&#x27;s nuclear program has absorbed two rounds of U.S.-Israeli strikes. The conference is on track to fail to produce a joint document for the third consecutive cycle — but the structural underpinnings of the treaty order are now weaker than at any previous review.</p>
@@ -613,20 +613,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 18, 2026</title>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 13:18:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-18-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/managing-difficult-directors">Managing Difficult Directors</a><br/>Researchers identify three types of directors who undermine board effectiveness — passive passengers who stay silent, dominators who crowd out other perspectives, and misguided experts who mire the board in detail — finding that despite their different behaviors, all three produce the same outcomes: slower decisions, strained dynamics, and eroded trust. Boards that address dysfunction early through direct feedback and structural process levers (agenda design, speaking order) resolve it; those that wait for formal governance escalation rarely do.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/what-global-companies-lose-when-decision-making-revolves-around-headquarters">What Global Companies Lose When Decision-Making Revolves Around Headquarters</a><br/>Drawing on 150+ executive interviews across 15 months, HBR finds that HQ-centric decision-making degrades strategy quality because problems are framed by people furthest from the market signal — the structural fix is to reverse the direction: let regions define the problem first, then have headquarters weigh in, supported by bi-directional information mechanisms that move frontline intelligence upward before priorities are set. For tech leaders running distributed engineering organizations, this is a direct challenge to the headquarters-as-brain model that reliably fails at scale.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 18, 2026</title>
-    <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 13:18:40 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-18-wildcard</guid>
     <description><![CDATA[<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/04/29/hedging-strategy-geopolitics-international-affairs-global-order/">Hedging in Geopolitics Is the New Normal</a><br/>Foreign Policy argues that strategic hedging — deliberately refusing to choose between the U.S. and China in order to maximize optionality — has become the dominant paradigm for middle and major powers, with Vietnam, India, Saudi Arabia, Turkey, and Brazil all pursuing it simultaneously and structurally. The framework explains why multipolarity isn&#x27;t just about declining U.S. power but about a durable incentive to stay unaligned, a lens that applies directly to decisions about technology supply chains and market positioning in a bifurcated world.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 17, 2026</title>
-    <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 17 May 2026 13:14:33 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-17-ai-and-technology</guid>
     <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/">OpenAI co-founder Greg Brockman takes charge of product strategy</a><br/>Greg Brockman is formally assuming leadership of OpenAI&#x27;s product org, merging ChatGPT, Codex, and the developer API into a single agentic platform — announced four days before Google I/O and as OpenAI targets a Q4 2026 IPO at an $852B valuation. The consolidation signals OpenAI is resolving its product fragmentation and betting the company on a unified agentic surface, which reshapes how enterprise teams should think about building on or competing with OpenAI.</p>
 <p><strong>Anthropic</strong> — <a href="https://www.anthropic.com/research/2028-ai-leadership">2028: Two scenarios for global AI leadership</a><br/>Anthropic&#x27;s new research paper presents two scenarios for 2028: democratic nations preserve compute advantage through tighter export controls and accelerate AI adoption, or US inaction allows China to catch up and set global AI norms shaped by authoritarian values. A major AI lab publicly framing 2026 as the &quot;breakaway opportunity&quot; and 2028 as the decision point raises the urgency of AI policy, compute strategy, and procurement decisions for any senior tech leader thinking about competitive positioning.</p>
@@ -635,7 +635,7 @@
   </item>
   <item>
     <title>World News — May 17, 2026</title>
-    <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 17 May 2026 13:14:33 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-17-world-news</guid>
     <description><![CDATA[<p><strong>Al Jazeera / AP</strong> — <a href="https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack">Hamas confirms killing of Qassam Brigades leader in Israeli attack</a><br/>An Israeli airstrike on May 16 killed Izz al-Din al-Haddad, commander of Hamas&#x27; military wing and one of the last surviving architects of the October 7, 2023 attacks, along with his wife and daughter. The killing removes Hamas&#x27; most senior operational commander while a US-brokered ceasefire attempt is in motion — the response will likely determine whether any diplomatic track survives.</p>
 <p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html">Kevin Warsh wins Senate confirmation as the next Federal Reserve chair</a><br/>The Senate confirmed Kevin Warsh as Fed chair on May 13 by a 54–45 vote, the most partisan confirmation in the Fed&#x27;s history, as April CPI came in at 3.8% — a near-three-year high driven by energy disruption from the Iran conflict. Warsh now faces immediate pressure from a Trump administration demanding rate cuts while energy-driven inflation makes the case for holding rates, a defining test of institutional independence that will set market expectations for the rest of 2026.</p>
@@ -643,20 +643,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 17, 2026</title>
-    <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 17 May 2026 13:14:33 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-17-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/tapping-into-your-teams-circadian-rhythms">Tapping into Your Team&#x27;s Circadian Rhythms</a><br/>Research by Stefan Volk shows that scheduling high-stakes decisions, feedback conversations, and emotionally demanding work during peak-energy periods — and reserving low-energy windows for delegation, administrative tasks, and lower-intensity roles — measurably improves both output quality and team wellbeing. Most leaders schedule meetings based on calendar availability rather than biology; this piece offers a concrete framework for reshaping calendars around the actual cognitive demands of leadership work.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/04/managers-and-executives-disagree-on-ai-and-its-costing-companies">Managers and Executives Disagree on AI — and It&#x27;s Costing Companies</a><br/>Research across hundreds of organizations found that executives believe AI is being deployed effectively company-wide, while frontline managers report confusion, inadequate training, and productivity losses — a misalignment that is quietly eroding the ROI of AI investments. This gap is the invisible tax on enterprise AI initiatives: leadership thinks rollout is succeeding when ground-level evidence says otherwise, and closing it requires deliberate structural feedback loops between executive sponsors and implementation teams.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 17, 2026</title>
-    <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 17 May 2026 13:14:33 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-17-wildcard</guid>
     <description><![CDATA[<p><strong>Stanford HAI</strong> — <a href="https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report">Inside the AI Index: 12 Takeaways from the 2026 Report</a><br/>The 2026 Stanford AI Index documents a year of sharp contrasts: AI coding performance on SWE-bench rose from 60% to near 100% in twelve months, generative AI reached 53% population adoption faster than the internet, and the most capable models are now among the least transparent — Foundation Model Transparency Index scores fell from 58 to 40 as leading labs increasingly withhold training data and parameter counts. This is the most comprehensive annual benchmark of AI&#x27;s actual trajectory, built from independent measurement rather than vendor claims, and it serves as essential grounding before any week of major industry announcements.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 16, 2026</title>
-    <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 16 May 2026 13:20:10 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-16-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Simon Willison&#x27;s Weblog</strong> — <a href="https://simonwillison.net/2026/May/14/not-so-locked-in/">Not so locked in any more</a><br/>AI coding agents have made technology stack choices reversible—a company rewrote both its iOS and Android apps to React Native knowing that porting back to native, if the decision proves wrong, is now cheap enough to treat as a provisional call rather than an architectural commitment. Tech leaders can stop framing language and framework selection as long-term bets and start treating them as correctable decisions, which changes the risk calculus on modernization projects and should accelerate migration timelines that stall on lock-in concerns.</p>
 <p><strong>OpenAI</strong> — <a href="https://openai.com/index/personal-finance-chatgpt/">A new personal finance experience in ChatGPT</a><br/>OpenAI launched a personal finance dashboard inside ChatGPT for Pro subscribers, connecting through Plaid to over 12,000 financial institutions so users can query spending, portfolios, subscriptions, and financial plans through conversation. One month after acquiring fintech startup Hiro, this marks OpenAI&#x27;s deliberate expansion from productivity software into financial data—a sector with deep institutional relationships and regulatory moats that will reshape the competitive landscape for consumer fintech and personal financial services.</p>
@@ -665,7 +665,7 @@
   </item>
   <item>
     <title>World News — May 16, 2026</title>
-    <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 16 May 2026 13:20:10 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-16-world-news</guid>
     <description><![CDATA[<p><strong>PBS NewsHour</strong> — <a href="https://www.pbs.org/newshour/world/ukraine-and-russia-quickly-end-their-latest-round-of-direct-peace-talks-in-istanbul">Ukraine and Russia quickly end their latest round of direct peace talks in Istanbul</a><br/>Russia and Ukraine held the first direct talks in three years in Istanbul today, ending in under two hours with a mutual 1,000-prisoner exchange and Moscow&#x27;s non-negotiable demand that Ukraine withdraw from four annexed regions—but no ceasefire or framework agreement. The gap between the parties is structurally unbridgeable: Russia will not compromise on territorial annexation and Ukraine cannot accept it, which means the war continues on military terms regardless of how many diplomatic sessions are convened.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz">Tensions flare near Strait of Hormuz as a ship is seized and another is sunk</a><br/>A vessel was boarded and diverted toward Iranian waters 38 nautical miles northeast of the UAE&#x27;s Fujairah oil terminal while a separate Indian-flagged cargo ship was attacked and sunk off Oman—two incidents in 48 hours at the world&#x27;s most critical energy chokepoint. With Strait transit accounting for roughly 20% of global seaborne oil and prices already elevated from the Iran conflict, each incident raises maritime insurance premiums and supply-chain disruption risk for any organization with logistics or energy exposure in the region.</p>
@@ -673,20 +673,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 16, 2026</title>
-    <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 16 May 2026 13:20:10 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-16-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/how-to-build-a-superteam-that-keeps-getting-better">How to Build a Superteam That Keeps Getting Better</a><br/>Research by Ron Friedman across thousands of teams shows that in periods of rapid change, the organizations that outperform are those that learn fastest—built by leaders who encourage experimentation even when things are going well, surface problems early, and tie feedback to growth rather than punishment. Learning velocity is the structural competitive advantage that outlasts any particular skill set, which makes it the right lens for evaluating team health as AI compresses the value half-life of most existing technical competencies.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/why-effective-leaders-get-branded-as-problems">Why Effective Leaders Get Branded as Problems</a><br/>Research by Luis Velasquez found that leaders who generate organizational friction are misdiagnosed as behavioral problems when the actual root cause is one of four distinct sources—capability mismatch, perception gap, identity conflict, or system resistance—each of which requires a different intervention. Because organizations default to behavioral labeling, they systematically lose high-impact leaders who move faster than their peers, a pattern that is accelerating as AI compresses execution timelines and creates pressure to move faster than organizational systems are designed to absorb.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 16, 2026</title>
-    <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 16 May 2026 13:20:10 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-16-wildcard</guid>
     <description><![CDATA[<p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare">Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation</a><br/>Pope Leo XIV, in the first papal address at Rome&#x27;s La Sapienza University since 2008, declared that AI-directed warfare is pushing humanity into a &quot;spiral of annihilation&quot; and announced a forthcoming encyclical on AI&#x27;s role in modern conflict—calling for binding monitoring of AI in military and civilian applications. An encyclical carries moral authority across 1.4 billion Catholics and generates regulatory and civil society pressure well beyond religious constituencies; the forthcoming document will arm legislators and advocacy groups with a high-profile institutional framing for restricting autonomous weapons, directly affecting defense-tech and dual-use AI procurement.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 15, 2026</title>
-    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 15 May 2026 13:14:20 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-15-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Simon Willison&#x27;s Weblog</strong> — <a href="https://github.com/simonw/datasette-agent">Introducing datasette-agent 0.1a1</a><br/>Simon Willison shipped the first alpha of datasette-agent, a plugin that wires Claude and OpenAI Codex directly into Datasette databases, enabling agents to query, browse, and operate on live data without human turn-by-turn guidance. This is the first credible open-source demonstration of agentic engineering—Willison&#x27;s own framework—applied to a production-grade data tool, establishing a replicable pattern for connecting enterprise data stores to coding agents without bespoke integration work.</p>
 <p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/">Establishing AI and Data Sovereignty in the Age of Autonomous Systems</a><br/>A global survey of more than 2,000 senior executives found that AI and data sovereignty—who controls models, infrastructure, and governance—is now the single strongest predictor of enterprise AI ROI, with organizations deeply committed to that control delivering five times the return of those who outsource it. The report frames sovereignty not as a compliance layer but as the operating system beneath every agentic workflow, meaning leaders who cede stack control to vendors are structurally disadvantaged as multi-agent deployments scale.</p>
@@ -695,7 +695,7 @@
   </item>
   <item>
     <title>World News — May 15, 2026</title>
-    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 15 May 2026 13:14:20 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-15-world-news</guid>
     <description><![CDATA[<p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html">Five takeaways from the Trump-Xi summit in Beijing</a><br/>Two days of bilateral talks produced a &quot;strategic stability&quot; framework, a Chinese commitment to order 200 Boeing jets, and Xi&#x27;s explicit warning that mishandling Taiwan could cause &quot;clashes and even conflicts&quot;—but no agreements on rare earths, Strait of Hormuz coordination, or AI governance. The structural risks left unresolved are the consequential ones: semiconductor supply chains remain exposed to potential rare earth controls, and energy markets stay hostage to the Iran conflict with no bilateral mechanism in place to contain escalation.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/14/g-s1-121998/russia-hits-kyiv-with-drones-and-ballistic-missiles">Russian drone and missile barrage destroys apartments in Kyiv, killing 9</a><br/>Russia launched more than 1,560 drones against Ukraine in two days—the largest sustained aerial assault of the war—demolishing a nine-story residential building in Kyiv while Trump was meeting with Xi in Beijing and just days after the U.S.-brokered ceasefire ended. The scale and timing confirm that the May 9–11 ceasefire was a tactical pause, not a strategic opening: Russia is escalating under diplomatic cover, and the window for U.S.-brokered negotiation is narrowing rather than widening.</p>
@@ -703,20 +703,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 15, 2026</title>
-    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 15 May 2026 13:14:20 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-15-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/the-best-leaders-embrace-the-role-of-supporting-character">The Best Leaders Embrace the Role of Supporting Character</a><br/>Stanford psychologist Jamil Zaki argues that high-performing leaders reframe their role from protagonist to supporting character—practicing intellectual humility, asking better questions, and actively helping employees connect their work to personal values. Across multiple studies, this orientation produced measurable improvements in employee satisfaction, performance, and loyalty, reversing the conventional assumption that leadership effectiveness requires projecting authority rather than amplifying it in others.</p>
 <p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/the-new-ai-growth-playbook-for-2026-elena-verna">The new AI growth playbook for 2026: How Lovable hit $200M ARR in one year</a><br/>Elena Verna, head of growth at Lovable, explains how the company reached $200 million in ARR in under a year with 100 employees by inverting the conventional SaaS playbook: prioritize feature development over activation optimization, use a free tier as the primary acquisition engine, and treat innovation velocity—not retention—as the core bottleneck. The framework is directly applicable to any technology organization competing in AI-native markets, where product iteration speed, not funnel efficiency, is the primary determinant of market position.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 15, 2026</title>
-    <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Fri, 15 May 2026 13:14:20 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-15-wildcard</guid>
     <description><![CDATA[<p><strong>CETAS at The Alan Turing Institute</strong> — <a href="https://cetas.turing.ac.uk/publications/claude-mythos-future-cybersecurity">Claude Mythos: What Does Anthropic&#x27;s New Model Mean for the Future of Cybersecurity?</a><br/>The Turing Institute&#x27;s Centre for Emerging Technology and Security analyzes what it means that Claude Mythos Preview autonomously identified and exploited thousands of zero-day vulnerabilities across every major OS and browser—including a 17-year-old remote code execution flaw in FreeBSD—without human direction. The finding establishes a new capability baseline that has already arrived in restricted form; the implication is that defensive AI adoption is no longer a competitive advantage but a survival requirement, because adversaries will eventually access equivalent offensive capability.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 14, 2026</title>
-    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 14 May 2026 13:09:13 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-14-ai-and-technology</guid>
     <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/May/11/gitlab-act-2/">Thoughts on GitLab&#x27;s workforce reduction and &quot;structural and strategic decisions&quot;</a><br/>GitLab restructured R&amp;D to create roughly 60 smaller, more autonomous teams with end-to-end ownership—nearly doubling its number of independent units—betting that agentic engineering amplifies small, empowered teams far more than large, centralized ones. Willison reads this as an empirical test of a proposition most tech leaders should be actively designing for: that a single developer with a coding agent can now own and operate a meaningful product surface without hand-offs, making team granularity the correct lever to pull rather than headcount.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/">Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets</a><br/>Google pre-announced Gemini Intelligence—an agentic AI system layer built into Android 17 that proactively assists users across device contexts—and Googlebooks, a new category of Gemini-native laptops backed by Acer, Asus, Dell, HP, and Lenovo, ahead of the main I/O keynote on May 19. The framing positions Gemini not as an AI feature inside Android but as the operating layer Android is being redesigned around, with developer platform details expected at I/O next week.</p>
@@ -725,7 +725,7 @@
   </item>
   <item>
     <title>World News — May 14, 2026</title>
-    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 14 May 2026 13:09:13 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-14-world-news</guid>
     <description><![CDATA[<p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html">Xi asks Trump if U.S. and China can avoid &#x27;Thucydides Trap&#x27; at high-stakes summit</a><br/>On day one of the Beijing summit—the first U.S. presidential visit to China in nearly a decade—Xi Jinping declared Taiwan the single most important issue in the relationship, warning mishandling it risks &quot;collision or conflict,&quot; while both sides agreed the Strait of Hormuz must remain open and China expressed interest in buying more American oil to reduce energy exposure. Summit outcomes on Taiwan arms sales, rare earth export controls, and AI technology transfer restrictions will set the terms of U.S.-China tech competition through 2027 and directly affect hardware supply chain assumptions.</p>
 <p><strong>US News / Reuters</strong> — <a href="https://www.usnews.com/news/world/articles/2026-05-14/russia-says-its-establishing-full-partnership-with-afghan-taliban">Russia Says It&#x27;s Establishing &#x27;Full Partnership&#x27; With Afghan Taliban</a><br/>At a Shanghai Cooperation Organization meeting, Russian Security Council chief Sergei Shoigu announced Moscow is formalizing a &quot;full-fledged partnership&quot; with the Taliban government—including military cooperation—and is actively encouraging other SCO member states to follow suit, following Russia&#x27;s 2025 recognition of Taliban rule. This alignment extends the Eurasian bloc (China, Russia, Central Asia) to include Afghanistan, closes off a potential Western pressure point in the region, and adds another sovereign actor to the set of states that have exited the post-1945 rules-based framework.</p>
@@ -733,20 +733,20 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 14, 2026</title>
-    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 14 May 2026 13:09:13 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-14-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/05/how-fast-growing-companies-can-make-better-decisions">How Fast-Growing Companies Can Make Better Decisions</a><br/>Scaling companies hit a decision-making breaking point when founder-led informal control fractures along four predictable axes—strategic alignment, operational complexity, financial discipline, and oversight—and the standard response of adding process layers slows execution without solving the root problem. The article&#x27;s framework of &quot;structured empowerment&quot; addresses this directly: leaders define a curated set of options for how work gets done, then hold teams accountable for outcomes rather than process compliance, preserving speed while distributing judgment to the people closest to the work.</p>
 <p><strong>Farnam Street</strong> — <a href="https://fs.blog/brain-food/may-10-2026/">Do your Habits Match your Ambitions?</a><br/>When habits conflict with stated goals, trust the habits—they reveal actual priorities, and any strategy built on goals you don&#x27;t operationally support is already compromised. A companion insight on persuasion: directly telling someone they&#x27;re wrong hardens the belief; asking &quot;seems like you have a reason for thinking that—what is it?&quot; creates the conditions for them to examine their own model without needing to defend it.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 14, 2026</title>
-    <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 14 May 2026 13:09:13 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-14-wildcard</guid>
     <description><![CDATA[<p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/an-ai-state-of-the-union">An AI state of the union: We&#x27;ve passed the inflection point, dark factories are coming, and automation timelines</a><br/>Simon Willison—who coined &quot;prompt injection,&quot; &quot;AI slop,&quot; and &quot;agentic engineering&quot;—identifies November 2025 (GPT 5.1 / Claude Opus 4.5) as the moment AI code crossed from &quot;mostly works with close attention&quot; to &quot;does what you tell it almost all of the time,&quot; and describes the &quot;dark factory&quot; pattern where AI systems generate, test, and deploy code with no human involvement at any stage. The bottleneck in software development has shifted from writing code to verifying it, which determines which skills compound in value in 2026 and which atrophy—essential context for any leader making hiring, tooling, or organizational design decisions this year.</p>]]></description>
   </item>
   <item>
     <title>AI &amp; Technology — May 13, 2026</title>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 13 May 2026 02:00:06 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-13-ai-and-technology</guid>
     <description><![CDATA[<p><strong>VentureBeat</strong> — <a href="https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth">Anthropic says it hit a $30 billion revenue run rate after &#x27;crazy&#x27; 80x growth</a><br/>Anthropic&#x27;s annualized revenue run rate reached $30 billion in April 2026—surpassing OpenAI&#x27;s $24 billion ARR—driven by 80x growth since early 2024, with Claude Code cited as the fastest-growing product in company history. The shift in market leadership signals that enterprise adoption of AI coding tools has become the primary revenue engine, and the competitive dynamic between the two leading labs is now defined by distribution and enterprise contracts, not model capability alone.</p>
 <p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/">Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high</a><br/>Cloudflare cut 20% of its global workforce—1,100 employees—despite posting $639.8 million in quarterly revenue (34% YoY growth), pointing to a 600% surge in internal AI usage over three months as the direct cause. This is the first documented case of a profitable, growing tech company explicitly attributing a mass layoff to agentic AI automation rather than financial pressure, establishing a precedent other companies are watching closely.</p>
@@ -755,7 +755,7 @@
   </item>
   <item>
     <title>World News — May 13, 2026</title>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 13 May 2026 02:00:06 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-13-world-news</guid>
     <description><![CDATA[<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/05/12/trump-xi-china-summit-visit-taiwan-trade-japan/">Trump-Xi Summit: What to Expect on Trade, Taiwan, and Iran War</a><br/>President Trump arrived in Beijing today for a state visit through May 15, his first meeting with Xi Jinping in nearly two years, with an agenda spanning trade deals, rare earth export controls, Taiwan, and the Iran war-driven energy crisis. The summit&#x27;s outcomes on rare earth controls and potential Strait of Hormuz coordination will directly shape semiconductor supply chains and global energy prices for the remainder of 2026.</p>
 <p><strong>NPR</strong> — <a href="https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire">Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire</a><br/>Trump announced a U.S.-brokered three-day ceasefire between Russia and Ukraine (May 9–11), including an exchange of 1,000 prisoners per side—the first agreed halt to hostilities confirmed by both Kyiv and Moscow since the war began. The ceasefire is the clearest indication yet that the war&#x27;s trajectory is shifting toward negotiation rather than battlefield resolution, with significant implications for European security architecture and defense spending commitments.</p>
@@ -763,14 +763,14 @@
   </item>
   <item>
     <title>Leadership &amp; Strategy — May 13, 2026</title>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 13 May 2026 02:00:06 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-13-leadership-and-strategy</guid>
     <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return">Researchers Asked LLMs for Strategic Advice. They Got &quot;Trendslop&quot; in Return.</a><br/>A Harvard Business Review study tested seven leading LLMs—including GPT-5, Claude, and Gemini—across 15,000 strategy simulations and found they consistently recommend the same buzzword-aligned strategies regardless of company context, a pattern the researchers term &quot;trendslop.&quot; If your leadership team is using AI to generate strategic options, the evidence suggests they are receiving convergent, context-free advice that mirrors current consulting fads rather than their company&#x27;s specific situation.</p>
 <p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/04/how-to-succeed-like-apples-tim-cook">How to Succeed Like Apple&#x27;s Tim Cook</a><br/>Following Tim Cook&#x27;s announced September 2026 departure, HBR analyzed the strategic discipline behind his 15-year tenure: supply chain mastery, market cap growth from $350B to $4T, and the execution-focused management model that defined his unlikely but enduring run as CEO. The piece offers a replicable framework for operational leaders who succeed visionary founders—Cook&#x27;s model of execution-as-strategy is particularly relevant as companies transition from AI experimentation to AI operations at scale.</p>]]></description>
   </item>
   <item>
     <title>Wildcard — May 13, 2026</title>
-    <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 13 May 2026 02:00:06 +0000</pubDate>
     <guid isPermaLink="false">digest-2026-05-13-wildcard</guid>
     <description><![CDATA[<p><strong>Microsoft On the Issues</strong> — <a href="https://blogs.microsoft.com/on-the-issues/2026/05/07/the-state-of-global-ai-diffusion-in-2026/">The state of global AI diffusion in 2026</a><br/>Microsoft&#x27;s Q1 2026 AI economy data shows global AI usage climbed to 17.8% of the working-age population, but the adoption gap between the Global North (27.5%) and Global South (15.4%) widened by 1.5 percentage points in a single quarter—faster than any previous period. For technology leaders, this data establishes that AI productivity gains are concentrating in already-advantaged economies, which will generate regulatory and geopolitical pressure on AI companies around access and equity in ways that will affect product strategy and market expansion plans.</p>]]></description>
   </item>
