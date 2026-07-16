@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — July 16, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-16-ai-and-technology</link>
+    <pubDate>Thu, 16 Jul 2026 13:14:49 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-07-16-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Simon Willison]</strong> — <a href="https://simonwillison.net/2026/Jul/15/grok-build/">xAI&#x27;s Grok Build Coding Tool Goes Open Source After Directory-Upload Backlash</a><br/>xAI open-sourced Grok Build, its command-line coding agent, days after users discovered that running it could silently upload entire project directories to xAI&#x27;s Google Cloud storage buckets. The episode is another reminder that coding agents need the same scrutiny as any tool with filesystem and network access, regardless of which lab ships them.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/">Thinking Machines Ships Inkling, Its First Open-Weight Model</a><br/>Mira Murati&#x27;s Thinking Machines Lab released Inkling, its first in-house model and its first to ship as open weights, betting that specialized, customizable models will beat one-size-fits-all frontier systems for many enterprise use cases. The move stakes out a clear alternative to the closed, general-purpose strategy pursued by OpenAI, Anthropic, and Google.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/">Anthropic, Blackstone, and Hellman &amp; Friedman Launch Ode, a $1.5B AI Implementation Firm</a><br/>Anthropic teamed up with Blackstone and Hellman &amp; Friedman to launch Ode with Anthropic, a standalone company that embeds AI engineers inside customer organizations to help them actually deploy frontier models. The venture is a bet that the next trillion-dollar AI business is systems integration and change management, not model training itself.</p>
+<p><strong>[Hacker News]</strong> — <a href="https://turntrout.com/why-i-left-google-deepmind">Why I Left Google DeepMind</a><br/>Alex Turner, a safety researcher, published an essay explaining his resignation from Google DeepMind over the company&#x27;s 2018 pledge against supporting lethal autonomous weapons, which he says has quietly eroded as Google&#x27;s cloud contracts extend into military and domestic surveillance work. The essay topped Hacker News and reopened the debate over whether AI labs&#x27; public safety commitments survive contact with government revenue.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — July 16, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-16-leadership-and-strategy</link>
+    <pubDate>Thu, 16 Jul 2026 13:14:49 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-07-16-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[HBR]</strong> — <a href="https://hbr.org/2026/07/4-hidden-traps-of-team-dynamics">4 Hidden Traps of Team Dynamics</a><br/>Diverse teams generate better ideas only when leaders manage the friction that difference creates, and HBR identifies four recurring failure modes — certainty, inconsistency, emotional reactivity, and self-justification — that quietly erode trust. Recognizing which trap is active in the moment is what separates leaders who convert disagreement into better decisions from those who just accumulate resentment.</p>
+<p><strong>[HBR]</strong> — <a href="https://hbr.org/2026/07/ai-adoption-is-testing-modular-firms">AI Adoption Is Testing Modular Firms</a><br/>Companies that reorganized into modular, loosely-coupled units for flexibility are finding that AI makes it easy to decompose work further but much harder to recombine it into coherent products and decisions. The piece argues that the modularity that made firms adaptable is now the same structure slowing their ability to capture AI&#x27;s gains.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — July 15, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-15-ai-and-technology</link>
     <pubDate>Wed, 15 Jul 2026 13:17:38 +0000</pubDate>
