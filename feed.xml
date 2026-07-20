@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — July 20, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-20-ai-and-technology</link>
+    <pubDate>Mon, 20 Jul 2026 13:17:38 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-07-20-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Simon Willison]</strong> — <a href="https://simonwillison.net/2026/Jul/19/ai-mania/">AI Mania Is Eviscerating Global Decision-Making</a><br/>Willison amplifies consultant Nik Suresh&#x27;s viral essay describing executives who&#x27;ve never used ChatGPT building entire technical strategies around AI, and companies tracking employee &quot;AI usage&quot; with gameable metrics that reward performative activity over real work. The piece argues these decisions are grounded in hype rather than evidence, with leaders unable to say so honestly for fear of being removed.</p>
+<p><strong>[MIT Technology Review]</strong> — <a href="https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/">AI Is More Likely Than Humans to Form Biases When Hiring</a><br/>Princeton and University of Chicago researchers ran ChatGPT, Claude, and Gemini through a simulated hiring game adapted from a classic stereotyping study and found the models sorted candidates by demographic group roughly 65% more than the original human participants did. The result undercuts the common pitch that automating resume screening removes bias rather than reproducing or amplifying it.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/">Nonprofit Current AI Is Racing to Build the World Wide Web of AI, Free for All</a><br/>Current AI, seeded with $100 million from the French government and joined by DeepMind, Salesforce, and philanthropic funders for $400 million total, is building open public AI infrastructure meant to stay accessible to researchers, governments, and startups rather than locked inside a handful of labs. It&#x27;s an explicit attempt to keep AI&#x27;s foundational layer from consolidating the way the commercial web eventually did.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/">Can an Apple Lawsuit Derail OpenAI&#x27;s Hardware Plans?</a><br/>Apple&#x27;s trade-secrets suit against OpenAI, which names its chief hardware officer directly, threatens to delay the screenless AI companion speaker OpenAI has been developing to compete with the iPhone. The timing compounds risk for OpenAI&#x27;s confidential IPO filing, since its pitch to investors leans on hardware ambitions the lawsuit now puts in question.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — July 20, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-20-leadership-and-strategy</link>
+    <pubDate>Mon, 20 Jul 2026 13:17:38 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-07-20-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[HBR]</strong> — <a href="https://hbr.org/2026/07/the-power-of-strategic-centering">The Power of Strategic Centering</a><br/>Columbia&#x27;s Rita McGrath argues that as value shifts from physical assets to data, software, and capabilities, organizations need one clear &quot;strategic center&quot; — a mission, customer, technology, or ecosystem — against which every resource-allocation and opportunity decision gets judged. Companies without that center default to reactive politics and paralysis instead of a coherent bet.</p>
+<p><strong>[MIT Sloan Management Review]</strong> — <a href="https://sloanreview.mit.edu/article/the-hidden-cost-of-ai-assisted-creativity/">The Hidden Cost of AI-Assisted Creativity</a><br/>Across four studies spanning short-story writing, humor, and collaborative problem-solving, researchers found AI assistance raised the average quality of individual output but shrank the diversity of ideas across a group, converging people toward similar answers. Teams that kept humans in charge of early ideation and brought AI in later preserved close to the range of a fully human process.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — July 19, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-19-ai-and-technology</link>
     <pubDate>Sun, 19 Jul 2026 13:17:19 +0000</pubDate>
