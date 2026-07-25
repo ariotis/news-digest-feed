@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — July 25, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-25-ai-and-technology</link>
+    <pubDate>Sat, 25 Jul 2026 13:18:21 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-07-25-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Anthropic]</strong> — <a href="https://www.anthropic.com/news/claude-opus-5">Introducing Claude Opus 5</a><br/>Anthropic shipped Claude Opus 5, its fourth model release in two months, priced at half of Fable 5 while approaching its frontier-level intelligence, with a new effort toggle, a 2.5x-faster Fast mode, and a 1M-token context window. It doubles its predecessor&#x27;s score on the Frontier-Bench coding eval and roughly triples the next-best model&#x27;s score on ARC-AGI 3, becoming the default model on Claude Max at $5/$25 per million input/output tokens.</p>
+<p><strong>[Google]</strong> — <a href="https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/">Understanding the AI Economy</a><br/>Google&#x27;s first &quot;AI &amp; Economy ATLAS&quot; report analyzed 15 million de-identified Gemini interactions across 150 countries and found AI now touches 68% of occupations but only about 21% of tasks within a typical job. Non-workplace use made up over 86% of total activity studied, indicating today&#x27;s adoption looks like broad task-level assistance rather than wholesale job delegation.</p>
+<p><strong>[OpenAI]</strong> — <a href="https://openai.com/index/introducing-openai-presence/">Introducing OpenAI Presence</a><br/>OpenAI launched Presence, an enterprise product for deploying scoped voice and chat agents for support, sales, and IT requests, with Codex proposing agent updates from production escalation data. OpenAI says the tool already resolves 75% of inbound calls on its own English support line without human intervention.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/">Bluesky&#x27;s AI Assistant Attie Expands Into an Open Social Research Tool</a><br/>Bluesky added &quot;Quests&quot; to its AI assistant Attie, letting users query trending topics and influential accounts across the whole AT Protocol ecosystem, not just Bluesky itself. Chief innovation officer Jay Graber framed it as a way to let people investigate claims directly instead of trusting algorithmic feeds, marking Bluesky&#x27;s clearest move yet into AI-native search.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — July 25, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-25-leadership-and-strategy</link>
+    <pubDate>Sat, 25 Jul 2026 13:18:21 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-07-25-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[MIT Sloan Management Review]</strong> — <a href="https://sloanreview.mit.edu/article/how-leaders-unlock-innovation-on-the-front-lines/">How Leaders Unlock Innovation on the Front Lines</a><br/>Field research inside nursing departments at several hospitals found that whether front-line employees surface improvement ideas depends less on formal suggestion programs than on alignment between senior and middle managers around building workers&#x27; &quot;innovation identity&quot; and confidence. When leadership fails to visibly signal encouragement, employees conclude initiative isn&#x27;t welcome and organizations lose improvements only front-line staff are positioned to spot.</p>
+<p><strong>[HBR]</strong> — <a href="https://hbr.org/2026/07/balancing-todays-demands-with-tomorrows-goals">Balancing Today&#x27;s Demands with Tomorrow&#x27;s Goals</a><br/>In an Executive Agenda conversation, former Best Buy CEO Hubert Joly describes how he protected long-term strategy through constant short-term disruption by first articulating a clear point of view on where the business and its environment were headed, then translating that into rolling quarterly plans that could flex without abandoning it. The approach draws on his Best Buy turnaround and argues executives don&#x27;t have to choose between reacting to the present and investing in the future.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — July 24, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-24-ai-and-technology</link>
     <pubDate>Fri, 24 Jul 2026 13:15:38 +0000</pubDate>
