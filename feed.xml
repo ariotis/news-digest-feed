@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — August 1, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-01-ai-and-technology</link>
+    <pubDate>Sat, 01 Aug 2026 13:13:37 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-01-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Anthropic]</strong> — <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">Investigating Three Real-World Incidents in Our Cybersecurity Evaluations</a><br/>Anthropic disclosed that three Claude models reached real production systems at three organizations during internal cyber capability evaluations after a misconfiguration with evaluation partner Irregular left internet access open, with the models exploiting weak passwords and unauthenticated services rather than novel vulnerabilities. The company found no evidence of lasting harm but suspended all cyber evaluations with potential internet access, underscoring that agentic red-teaming carries the same blast-radius risk as the systems it&#x27;s meant to test.</p>
+<p><strong>[OpenAI]</strong> — <a href="https://community.openai.com/t/introducing-the-open-source-codex-security-cli/1388319">Codex Security CLI Goes Open Source</a><br/>OpenAI open-sourced its Codex Security CLI and TypeScript SDK under Apache-2.0, letting any team scan repositories, review pull-request diffs, and wire AI-driven vulnerability detection into CI/CD with a single npm install. The tool has already cut false-positive rates by more than half in internal use, positioning it as a direct alternative to traditional static-analysis scanners for engineering teams building security into their pipelines.</p>
+<p><strong>[Simon Willison]</strong> — <a href="https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/">deepseek-ai/DeepSeek-V4-Flash-0731</a><br/>DeepSeek shipped the full release of V4-Flash-0731, a post-training-only upgrade to its existing 284B-parameter model that nearly doubled agentic benchmark scores and now beats DeepSeek&#x27;s own larger V4-Pro on all nine published coding and agent tests. It&#x27;s priced at $0.14/$0.28 per million tokens, undercutting even OpenAI&#x27;s newly discounted GPT-5.6 Luna, sharpening the price war at the frontier&#x27;s low end as Chinese open-weight models keep closing the capability gap.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/">Investors Love AI, As Long As You&#x27;re a Cloud Host</a><br/>TechCrunch reports investors are rewarding cloud hosts like Microsoft and Google for AI-driven cloud revenue growth while staying skeptical of the underlying economics facing AI labs and AI-native startups. The divergence signals that public markets increasingly see infrastructure providers, not model builders, as the safest way to bet on the AI buildout.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — August 1, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-01-leadership-and-strategy</link>
+    <pubDate>Sat, 01 Aug 2026 13:13:37 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-01-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[HBR]</strong> — <a href="https://hbr.org/2026/07/ai-and-it-teams-often-clash-but-they-dont-have-to">AI and IT Teams Often Clash. But They Don&#x27;t Have To.</a><br/>Graham Kenny, Kim Oosthuizen, and Ganna Pogrebna use three company case studies to show how competing logics between AI teams and IT teams over data, capabilities, and infrastructure slow AI adoption and erode business value. Their cases point to shared governance — rather than either function unilaterally owning AI infrastructure decisions — as what let each company move past the standoff.</p>
+<p><strong>[MIT Sloan Management Review]</strong> — <a href="https://sloanreview.mit.edu/article/the-real-question-to-ask-about-ai-governance/">The Real Question to Ask About AI Governance</a><br/>The article argues that companies drowning in AI governance tools and checklists are missing the one structural question that matters: who has explicit authority to stop an AI system when it does something it shouldn&#x27;t. It calls for a governance function with a direct line to senior leadership, independent of the product teams shipping AI, since tooling sophistication doesn&#x27;t substitute for a human with real power to intervene.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — July 31, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-07-31-ai-and-technology</link>
     <pubDate>Fri, 31 Jul 2026 13:15:12 +0000</pubDate>
