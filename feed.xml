@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — August 15, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-15-ai-and-technology</link>
+    <pubDate>Sat, 15 Aug 2026 13:22:58 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-15-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Simon Willison]</strong> — <a href="https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/">Don&#x27;t Classify. Hallucinate!</a><br/>Simon Willison highlighted a tagging technique where an LLM is allowed to invent a plausible category from context rather than choosing from a long list of real ones, and that guess is then matched to the actual taxonomy via vector embeddings. It&#x27;s a concrete workaround for a common failure mode, where stuffing thousands of valid categories into a prompt degrades classification accuracy more than letting the model &quot;hallucinate&quot; a first guess.</p>
+<p><strong>[Google]</strong> — <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/">Gemini 3.7 Flash: Our Most Intelligent Workhorse Model</a><br/>Google shipped Gemini 3.7 Flash just 23 days after its predecessor, a coding- and agent-focused model with a 1M-token context window and a 50% introductory price cut on output tokens. The release cadence and pricing show Google racing to make Flash-tier models the default for high-volume agent workloads before flagship Gemini 3.5 Pro has even shipped.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/">OpenAI Introduces &#x27;Ultrafast,&#x27; a New Mode That Makes GPT-5.6 Sol Work at 14x the Speed</a><br/>OpenAI launched an early preview of &quot;Ultrafast,&quot; an API tier that runs GPT-5.6 Sol at up to 14 times standard speed on Cerebras hardware, generating as many as 750 output tokens per second. Inference speed is becoming a competitive axis alongside price and capability, and the story topped Hacker News as developers debated what real-time, low-latency agents become possible at that throughput.</p>
+<p><strong>[Ars Technica]</strong> — <a href="https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/">Claude&#x27;s New &#x27;Scarlet Letter&#x27; Watermark Is Invisible for Now</a><br/>Ars Technica reports Anthropic&#x27;s new text watermarking, rolled out globally rather than scoped to EU compliance, biases word choice at the model level and can&#x27;t distinguish a single grammar fix from wholesale AI generation. It&#x27;s a gap between a compliance announcement and its technical reality that anyone relying on Claude for content that must read as unedited human writing should account for.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — August 15, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-15-leadership-and-strategy</link>
+    <pubDate>Sat, 15 Aug 2026 13:22:58 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-15-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[Farnam Street]</strong> — <a href="https://fs.blog/brain-food/august-9-2026/">The Power of Listening</a><br/>This week&#x27;s Brain Food newsletter argues that most problems people bring to a leader don&#x27;t need a solution, just space to talk it through, quoting a manager who &quot;solves most of them by just listening and letting the involved party do the talking.&quot; It reframes listening as an active leadership skill rather than a passive courtesy, useful for anyone who defaults to problem-solving mode in every conversation.</p>
+<p><strong>[MIT Sloan Management Review]</strong> — <a href="https://sloanreview.mit.edu/article/how-to-end-things-well/">How to End Things Well</a><br/>Benjamin Laker and Maria Papacosta argue that how leaders end teams, products, or strategies matters as much as how they start them, recommending plain language about what will stop and when rather than euphemisms like &quot;sunsetting&quot; or &quot;realignment.&quot; Endings function as cultural tests that shape how much people trust a leader&#x27;s next initiative, a lever most leadership advice ignores in favor of launches.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — August 14, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-14-ai-and-technology</link>
     <pubDate>Fri, 14 Aug 2026 13:34:57 +0000</pubDate>
