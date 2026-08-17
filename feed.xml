@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — August 17, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-17-ai-and-technology</link>
+    <pubDate>Mon, 17 Aug 2026 13:20:59 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-17-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Stratechery]</strong> — <a href="https://stratechery.com/2026/the-google-capital-company/">The Google Capital Company</a><br/>Google issued equity to Berkshire Hathaway in a deal Ben Thompson reads as evidence that AI compute demand is outrunning even Google&#x27;s balance sheet, with more debt-funded buildout likely to follow. When a company as cash-rich as Google reaches for outside capital to fund AI infrastructure, it resets the ceiling every other tech leader should assume for compute spending industry-wide.</p>
+<p><strong>[Simon Willison]</strong> — <a href="https://simonwillison.net/2026/Aug/16/dario-amodei/">A Quote from Dario Amodei</a><br/>Anthropic&#x27;s CEO said the AI backlash is &quot;fundamentally a crisis of trust,&quot; arguing people assume AI companies are cooking up new ways to exploit them and that no marketing campaign will change that — only delivered results will. A leading AI CEO publicly conceding his industry hasn&#x27;t earned trust reframes internal AI rollouts as a credibility problem first and a capability problem second.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/">Stripe Will Reportedly Acquire AI Gateway Startup OpenRouter for $7B+</a><br/>Stripe is finalizing a deal worth more than $7 billion for OpenRouter, the AI model-routing startup that was valued at $1.3 billion just three months ago. A payments company paying a 5x markup for model-routing infrastructure signals that multi-model orchestration is becoming core plumbing rather than a niche tool, worth watching for any build-vs-buy call.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/">Why People Aren&#x27;t Buying Mark Zuckerberg&#x27;s AI Future</a><br/>Zuckerberg published a 6,500-word essay declaring AI should be &quot;for everyone,&quot; but critics call the vision self-serving given Meta&#x27;s track record and are drawing unflattering comparisons to Anthropic&#x27;s more cautious public posture. The split reaction shows AI-vendor credibility is becoming its own strategic differentiator, meaning leaders picking AI partners now have to weigh public trust alongside raw capability.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — August 17, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-17-leadership-and-strategy</link>
+    <pubDate>Mon, 17 Aug 2026 13:20:59 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-17-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[HBR]</strong> — <a href="https://hbr.org/2026/08/leadership-drift-is-stalling-your-ai-strategy">&quot;Leadership Drift&quot; Is Stalling Your AI Strategy</a><br/>The piece argues organizations wrongly blame employee resistance when AI adoption stalls, when the actual cause is leaders failing to model consistent behavior and direction around the technology. It reframes stalled AI adoption as a leadership-accountability problem rather than a training or change-management one, which changes where an executive should intervene first.</p>
+<p><strong>[HBR]</strong> — <a href="https://hbr.org/2026/08/research-how-remote-work-is-narrowing-early-career-opportunities">Research: How Remote Work Is Narrowing Early-Career Opportunities</a><br/>An analysis of 50 million European job postings and experiments with 1,200 hiring managers found remote roles are systematically closing off early-career advancement compared to in-office positions. Leaders setting remote-work policy now have to weigh this hidden cost to junior talent pipelines against the well-documented benefits of remote flexibility.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — August 16, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-16-ai-and-technology</link>
     <pubDate>Sun, 16 Aug 2026 13:16:29 +0000</pubDate>
