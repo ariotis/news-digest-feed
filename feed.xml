@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — August 24, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-24-ai-and-technology</link>
+    <pubDate>Mon, 24 Aug 2026 13:20:07 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-24-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Simon Willison]</strong> — <a href="https://simonwillison.net/2026/Aug/23/drew-breunig/">A Quote from Drew Breunig</a><br/>Willison highlights Drew Breunig&#x27;s argument that Anthropic&#x27;s Fable, despite its high cost, broke a long-standing assumption in AI engineering: that a cheaper or better model would always arrive in time to paper over a weak coding harness or context strategy. For engineering leaders, that reframes investment in harness and context engineering as durable infrastructure work rather than a stopgap the next model release would make obsolete.</p>
+<p><strong>[BleepingComputer]</strong> — <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/">Anthropic Confirms Claude Is Down Worldwide</a><br/>Claude suffered a roughly three-hour global outage Monday, with elevated errors hitting claude.ai, the API, Claude Code, and Claude Cowork across the Opus, Fable, and Mythos model lines before Anthropic restored service by 8:30 a.m. UTC. It was Anthropic&#x27;s tenth outage in eight consecutive days, a cadence that points to shared infrastructure strain rather than isolated faults — worth watching for any team running production workflows on Claude.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/">Who&#x27;s Behind the New &#x27;Stealth Model&#x27; Ox Alpha?</a><br/>An anonymous, free frontier model called Ox Alpha appeared on OpenRouter this week with a 1M-token context window, topping coding benchmarks while its operator declined to reveal ownership during the preview. Speculation points to Z.ai&#x27;s GLM lineage or an unreleased Microsoft model, and Stripe CEO Patrick Collison called it &quot;very impressive&quot; — a sign labs are now using anonymous releases to test frontier models before committing to a brand.</p>
+<p><strong>[The Information]</strong> — <a href="https://www.theinformation.com/briefings/andreessen-horowitz-focus-doj-antitrust-probe-databricks-fivetran-board-seats">Andreessen Horowitz Focus of DOJ Antitrust Probe Over Databricks, Fivetran Board Seats</a><br/>The Justice Department is investigating whether Andreessen Horowitz violated the Clayton Act&#x27;s ban on interlocking directorates after partners took board seats at competing data companies Databricks and Fivetran. The probe signals growing regulatory scrutiny of how VC firms structure governance across overlapping AI-infrastructure bets, a precedent worth tracking for any board with similar cross-holdings.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — August 24, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-24-leadership-and-strategy</link>
+    <pubDate>Mon, 24 Aug 2026 13:20:07 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-24-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/07/the-false-alignment-trap">The False Alignment Trap</a><br/>Julia Dhar, Kristy R. Ellmer, and Philip Jameson argue that most change efforts don&#x27;t fail from poor execution but from senior leaders wrongly assuming they agree on the why, what, and how of a strategic shift when they actually don&#x27;t. The piece offers a framework for surfacing that hidden misalignment before it stalls a transformation, rather than discovering it mid-rollout.</p>
+<p><strong>[MIT Sloan Management Review]</strong> — <a href="https://sloanreview.mit.edu/article/stop-prompting-ai-start-directing-it/">Stop Prompting AI. Start Directing It</a><br/>Research from Hung Dao, Selina L. Lehmann, Oguz A. Acar, and Dirk Deichmann finds that treating generative AI agents like a creative team to direct — with roles, constraints, and iterative feedback — produces more original output than treating them as an oracle to be prompted. For managers rolling out AI tools broadly, the finding reframes adoption as a skill of direction and delegation rather than prompt-writing.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — August 23, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-23-ai-and-technology</link>
     <pubDate>Sun, 23 Aug 2026 13:17:00 +0000</pubDate>
