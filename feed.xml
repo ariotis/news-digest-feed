@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — August 25, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-25-ai-and-technology</link>
+    <pubDate>Tue, 25 Aug 2026 13:17:28 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-25-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Stratechery]</strong> — <a href="https://stratechery.com/2026/autonomy-and-innovation/">Autonomy and Innovation</a><br/>Ben Thompson argues that AI agent autonomy favors offense over defense in cybersecurity, since attackers can fully automate while defenders stay reluctant to cede control to agents. The same asymmetry favors startups over incumbents more broadly, because unconstrained risk-taking wins in the near term while established companies&#x27; caution binds them long after upstarts have moved past manual workflows.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/">Hugging Face Reportedly in Talks to Be Acquired for $13B</a><br/>Hugging Face has engaged a bank to field acquisition interest at a valuation above $13 billion, up sharply from its $4.5 billion mark in 2023, though no buyer or deal terms have been confirmed. A sale would put the open-model hosting hub that OpenAI, Anthropic, and Meta all rely on to distribute weights under new ownership, raising questions about its neutrality as shared AI infrastructure.</p>
+<p><strong>[The Information]</strong> — <a href="https://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal">Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation</a><br/>Nvidia is in talks to invest in Perplexity at a valuation topping $30 billion, more than 50% above the search startup&#x27;s mark from a year ago, as its annualized revenue climbed from under $250 million to over $750 million. The deal would extend Nvidia&#x27;s pattern of taking equity stakes in AI customers it also supplies chips to, tightening the circular financing ties now underpinning the AI infrastructure boom.</p>
+<p><strong>[Hacker News]</strong> — <a href="https://lalitm.com/post/find-problems-staff-engineer/">How I Find Problems to Solve as a Staff Engineer</a><br/>Google staff engineer Lalit Maganti argues that the best problems to work on surface not from planning cycles but from staying closely engaged with what teams are actually building, since sustained context reveals gaps no single request can show. The piece topped Hacker News with over 500 points, resonating with engineering leaders navigating how to allocate senior technical judgment inside increasingly AI-assisted organizations.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — August 25, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-25-leadership-and-strategy</link>
+    <pubDate>Tue, 25 Aug 2026 13:17:28 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-25-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[Farnam Street]</strong> — <a href="https://fs.blog/brain-food/august-23-2026/">Surprises</a><br/>Farnam Street&#x27;s latest Brain Food argues that the most consequential moments in history and business are the ones nobody forecast, because the tools people use to predict the future systematically filter out exactly the kind of discontinuity that matters most. The piece is a reminder for leaders to build slack and optionality into plans rather than over-indexing on confident forecasts, since the record shows the future is far less knowable than planning processes assume.</p>
+<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/08/how-to-respond-to-the-coming-ai-cost-shock">How to Respond to the Coming AI Cost Shock</a><br/>Stacia Garr writes that enterprise software vendors have been quietly absorbing steep GPU, inference, and token costs to drive AI adoption, a subsidy era that is ending as usage scales. She argues leaders should treat the coming price correction as an organizational design problem rather than a procurement one, requiring new approaches to budgeting, workforce planning, and risk management before costs reset.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — August 24, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-24-ai-and-technology</link>
     <pubDate>Mon, 24 Aug 2026 13:20:07 +0000</pubDate>
