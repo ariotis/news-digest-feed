@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — August 26, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-26-ai-and-technology</link>
+    <pubDate>Wed, 26 Aug 2026 13:23:29 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-26-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Anthropic]</strong> — <a href="https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it">Claude&#x27;s Memory Works Everywhere, and You Decide What&#x27;s in It</a><br/>Anthropic unified Claude&#x27;s memory across chat and Cowork, listing everything remembered under an editable Topics view in Settings and keeping sensitive categories like health or beliefs out unless a user opts in. Persistent, user-controlled memory is becoming table stakes for frontier assistants, and the topic-level transparency model sets a bar competitors will need to match on trust.</p>
+<p><strong>[9to5Mac]</strong> — <a href="https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/">OpenAI Restores 5-Hour Codex and Work Limits for ChatGPT Plus Users</a><br/>OpenAI is reinstating a rolling 5-hour usage cap on Codex and ChatGPT Work for Plus subscribers starting August 25, layered on top of the existing weekly quota and left untouched for Pro accounts. The reversal shows OpenAI still rationing compute even as coding-agent demand grows, a real constraint for engineering teams standardizing on Codex for daily work.</p>
+<p><strong>[MIT Technology Review]</strong> — <a href="https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/">AI Models Flub These Intelligence Tests. Can You Fare Any Better?</a><br/>Puzzles and games have tracked AI progress since the 1959 checkers-playing program that popularized the term &quot;machine learning,&quot; and the latest gauntlet of logic and spatial puzzles shows current models improving fast but still missing tasks humans find trivial. The gap between benchmark scores and puzzle performance is a useful, low-cost check on capability claims before betting production workflows on a model.</p>
+<p><strong>[Hacker News]</strong> — <a href="https://ericpardee.github.io/fire-hd-ownership/">Amazon Kept Shutting Down My Tablet, So I Spent $266 on Four AI Models to Own It</a><br/>A developer used three coding-focused LLMs in sequence — one to find the exploit, one to catch fatal bugs, one to finish the job in a single day — to root a Fire HD tablet Amazon kept bricking with updates. It&#x27;s a concrete data point on how far agentic coding tools have progressed at real security research, not just scaffolded demos.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — August 26, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-26-leadership-and-strategy</link>
+    <pubDate>Wed, 26 Aug 2026 13:23:29 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-26-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/08/do-your-b2b-customers-see-the-value-you-deliver">Do Your B2B Customers See the Value You Deliver?</a><br/>Many B2B companies suffer a &quot;value gap&quot; where customers benefit from a product but can&#x27;t measure or defend that value to their own internal stakeholders, stalling renewals and inviting price pressure. The fix is systematically quantifying value at the point of sale and carrying that same framing through marketing, customer success, and product decisions rather than treating it as a sales-only problem.</p>
+<p><strong>[MIT Sloan Management Review]</strong> — <a href="https://sloanreview.mit.edu/article/the-power-of-opportunity-mindset-in-hiring/">The Power of Opportunity Mindset in Hiring</a><br/>Research on more than 4,200 musicians found that identifying &quot;the best&quot; candidate is far less reliable than managers assume, and hiring processes built around finding a mythical top performer routinely overlook people who would thrive given the role. Shifting to an opportunity-based evaluation — judging fit for what the job actually requires — produced better outcomes than instinct-driven talent picks.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — August 25, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-25-ai-and-technology</link>
     <pubDate>Tue, 25 Aug 2026 13:17:28 +0000</pubDate>
