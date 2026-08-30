@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — August 30, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-30-ai-and-technology</link>
+    <pubDate>Sun, 30 Aug 2026 13:14:02 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-30-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[CNBC]</strong> — <a href="https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html">OpenAI to End Model Access to Cursor After SpaceX Acquisition</a><br/>OpenAI told Cursor it will cut off model access by November 12, citing distrust that SpaceX will honor usage terms after Musk&#x27;s company completed its acquisition of the AI coding startup this month. The move pulls a major foundation-model provider out of a leading coding tool overnight, forcing engineering teams that rely on Cursor to reassess vendor lock-in as model access becomes a bargaining chip in platform rivalries.</p>
+<p><strong>[Anthropic]</strong> — <a href="https://www.anthropic.com/news/model-hardware-standard-research-preview">Previewing the Model Hardware Standard</a><br/>Anthropic opened a research preview of the Model Hardware Standard, a specification that lets AI agents safely operate lab and manufacturing equipment like microscopes, liquid handlers, and robotic arms through a standard driver interface. It cuts hardware integration from weeks to hours and signals a push to extend agent capability from software tasks into physical-world operations ahead of a planned open-source release.</p>
+<p><strong>[The Wall Street Journal]</strong> — <a href="https://www.investing.com/news/stock-market-news/nvidia-pauses-revenuesharing-deals-with-ai-cloud-firms-wsj-4880348">Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies</a><br/>Nvidia stepped back from its two-month-old AI Compute Partnership program, which paired chip sales with a cut of cloud providers&#x27; rental revenue, after employees raised internal concerns the structure could draw antitrust scrutiny. The retreat exposes how aggressively Nvidia has been trying to lock in control over AI infrastructure financing, a dynamic regulators and competitors are now watching closely.</p>
+<p><strong>[Engadget]</strong> — <a href="https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/">Meta Is Closing a Loophole That Allowed People to Record With Their Smart Glasses&#x27; Light Covered</a><br/>Meta is shipping an update so its AI smart glasses stop recording the instant the capture light is covered, closing a workaround where users started a video before blocking the LED to record bystanders without warning. It&#x27;s the second privacy patch in two months for the product line, underscoring how wearable AI devices keep outpacing the safeguards meant to govern them.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — August 30, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-30-leadership-and-strategy</link>
+    <pubDate>Sun, 30 Aug 2026 13:14:02 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-08-30-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[MIT Sloan Management Review]</strong> — <a href="https://sloanreview.mit.edu/article/spot-new-tech-skills-emerging-from-the-workforce/">Spot New Tech Skills Emerging From the Workforce</a><br/>A three-year study of ten European manufacturers found that the new skills workers actually developed around new technology were almost never the ones companies had forecast and trained for. Skills instead emerged as workers and managers improvised fixes on the shop floor, suggesting leaders should build systems to notice and capture organic skill development rather than relying solely on predetermined curricula.</p>
+<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/08/research-to-get-employees-to-use-a-benefit-make-signing-up-a-little-harder">Research: To Get Employees to Use a Benefit, Make Signing Up a Little Harder</a><br/>A Harvard Business School study found that adding modest friction to benefit sign-up processes improved long-term follow-through compared to frictionless enrollment, reversing the usual assumption that easier is always better. The finding gives leaders a concrete, counterintuitive lever for designing programs, from wellness apps to internal tools, that people actually keep using.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — August 29, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-08-29-ai-and-technology</link>
     <pubDate>Sat, 29 Aug 2026 13:17:26 +0000</pubDate>
