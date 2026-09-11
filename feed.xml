@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — September 11, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-11-ai-and-technology</link>
+    <pubDate>Fri, 11 Sep 2026 13:15:35 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-11-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[Anthropic]</strong> — <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Detecting and Countering Misuse of AI: September 2026</a><br/>Anthropic&#x27;s fourth threat-intelligence report details AI-orchestrated cyberattacks, a state-linked espionage campaign, and five blocked attempts to use Claude for bioweapons research, including one intended for a military institute, across activity disrupted between December 2025 and August 2026. The report&#x27;s central finding is that AI agents have shifted from advisory tools to autonomous operators running reconnaissance and exploitation themselves, raising the bar for what security teams need to monitor in their own AI deployments.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/">&#x27;Gambling with Our Lives&#x27;: Anthropic Researcher Quits, Warns Against Self-Improving AI</a><br/>Anthropic researcher Jacob Coxon resigned, accusing his former employer and OpenAI of racing toward self-improving superintelligence, and Anthropic&#x27;s own alignment lead publicly agreed the industry lacks a plan to make it safe. It&#x27;s a rare case of a frontier lab&#x27;s own safety staff airing unresolved internal disagreement in public, worth weighing against any vendor&#x27;s official safety messaging.</p>
+<p><strong>[Bloomberg]</strong> — <a href="https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns">DOJ Probes Nvidia&#x27;s $20 Billion License Deal with Groq on Antitrust Concerns</a><br/>The Justice Department is examining whether Nvidia structured its $20 billion technology-licensing and talent deal with chip startup Groq to acquire its inference technology while avoiding merger review. A ruling against the structure could reshape how every AI lab and chipmaker designs future licensing and acquihire deals to stay clear of antitrust scrutiny.</p>
+<p><strong>[OpenAI]</strong> — <a href="https://openai.com/index/introducing-the-agents-api/">Introducing the Agents API</a><br/>OpenAI opened public beta of its Agents API, exposing the same Codex harness that manages sessions, sandboxed execution, context compaction, and multi-agent delegation behind a single API call. It hands any developer the infrastructure OpenAI itself uses to run coding agents, lowering the barrier to building production agent systems without building that orchestration layer in-house.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — September 11, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-11-leadership-and-strategy</link>
+    <pubDate>Fri, 11 Sep 2026 13:15:35 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-11-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/09/to-adopt-ai-at-scale-employees-need-to-trust-agents">To Adopt AI at Scale, Employees Need to Trust Agents</a><br/>The authors argue employees won&#x27;t grant AI agents meaningful autonomy unless organizations are explicit about the agents&#x27; limitations, frame them as helpers rather than authorities, and preserve human control over consequential decisions. The goal isn&#x27;t blind trust but calibrated trust, where employees understand precisely where an agent is reliable and where it&#x27;s likely to fail.</p>
+<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/09/ai-is-revolutionizing-strategic-decision-making">AI Is Revolutionizing Strategic Decision-Making</a><br/>The article argues AI is displacing simplified tools like SWOT analysis by generating and evaluating thousands of strategic options at once and building far richer models of markets and competitors than a planning meeting ever could. That shift changes what a strategy process is for: less about narrowing to a workable plan by hand, more about deciding which machine-generated options are worth pursuing.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — September 10, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-10-ai-and-technology</link>
     <pubDate>Thu, 10 Sep 2026 13:17:31 +0000</pubDate>
