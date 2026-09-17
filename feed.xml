@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — September 17, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-17-ai-and-technology</link>
+    <pubDate>Thu, 17 Sep 2026 13:16:17 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-17-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/">Anthropic Merges Claude Chat and Cowork Into One Interface</a><br/>Starting September 16, Claude no longer separates chat from Cowork — the assistant now judges how much work a request needs and applies Cowork&#x27;s multi-step capabilities directly inside normal conversation, with new Claude Docs, Slides, and in-chat Design tools rolling out alongside it. The move signals Anthropic is betting on a single adaptive interface rather than mode-switching, a design choice that will shape how enterprise teams standardize on Claude for document and presentation work.</p>
+<p><strong>[NVIDIA]</strong> — <a href="https://blogs.nvidia.com/blog/ai-energy-management-alliance/">AI Energy Management Alliance Launches to Make Data Centers Grid-Flexible</a><br/>Nvidia, Google, and Emerald AI formed a coalition — with Anthropic, utilities, and grid operators as launch partners — to build AI data centers that can dynamically throttle power use in response to grid conditions, with a flexible AI factory in Virginia planned to go live later this year. Power availability, not chip supply, is emerging as the binding constraint on scaling AI infrastructure, making grid flexibility a strategic lever for any leader planning compute capacity.</p>
+<p><strong>[OpenAI]</strong> — <a href="https://openai.com/index/reimagining-advertising-with-ai/">OpenAI Tests Sponsored Agents Inside ChatGPT</a><br/>OpenAI began piloting &quot;Sponsored Agents&quot; that let users click an ad and continue a labeled, separate conversation with a business&#x27;s AI agent, launching with Wayfair and Angi and paired with new AI ad-creation tools for advertisers. It&#x27;s OpenAI&#x27;s clearest move yet toward an advertising-based revenue line inside ChatGPT, a shift that will pressure competitors&#x27; monetization strategies and test how much ad load a trusted assistant interface can absorb.</p>
+<p><strong>[Mistral AI]</strong> — <a href="https://mistral.ai/news/mistral-x-mozilla/">Mistral and Mozilla Bring Private AI to Firefox&#x27;s Smart Window</a><br/>Mozilla&#x27;s Firefox Smart Window beta is now powered by Mistral&#x27;s models for users in France and North America, with a zero-data-retention policy and no server-side storage of conversations by default. The partnership positions open-source, privacy-first AI as a viable alternative browser strategy, a competitive contrast worth tracking against Chrome and Edge&#x27;s Big Tech-default AI integrations.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — September 17, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-17-leadership-and-strategy</link>
+    <pubDate>Thu, 17 Sep 2026 13:16:17 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-17-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/09/5-ways-to-wield-influence-when-you-lack-authority">5 Ways to Wield Influence When You Lack Authority</a><br/>Pamela Meyer outlines five tactics for driving change without formal power: identifying hidden power brokers, using discreet back channels, timing interventions, cultivating networks, and reading social cues. These are the everyday mechanics of cross-functional leadership, useful for any manager whose authority on paper doesn&#x27;t match the scope of what they need to get done.</p>
+<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/09/transformation-should-be-a-learning-journey">Transformation Should Be a Learning Journey</a><br/>Evgeny Kaganer and Christoph Loch argue corporate transformations fail when built around fixed goals and timelines in a fast-changing environment, and should instead run as an evolving process where strategy and priorities update as new information arrives. The framing directly challenges the standard transformation-roadmap approach many organizations default to when planning multi-year change efforts.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — September 16, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-16-ai-and-technology</link>
     <pubDate>Wed, 16 Sep 2026 13:14:09 +0000</pubDate>
