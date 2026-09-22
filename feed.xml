@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — September 22, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-22-ai-and-technology</link>
+    <pubDate>Tue, 22 Sep 2026 13:16:43 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-22-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>[xAI]</strong> — <a href="https://x.ai/news/grok-4-7">Grok 4.7 Launches With a Larger Base Model and Longer-Horizon Training</a><br/>xAI released Grok 4.7 on September 21, built on a larger base model with a longer reinforcement-learning run weighted toward difficult, hours-long tasks, while holding pricing flat versus Grok 4.6. It ships day one in Cursor, Grok Build, and third-party routers, keeping xAI in the frontier-model race on cost as well as capability.</p>
+<p><strong>[TechCrunch]</strong> — <a href="https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/">Amazon Blocks Meta&#x27;s Muse AI Agent From Shopping on Its Site</a><br/>Amazon began blocking Meta&#x27;s new Muse assistant from completing purchases on Amazon.com after Meta declined a request to remove the bot, citing liability for agent-driven errors despite Muse&#x27;s low hallucination rate. The clash is the clearest sign yet that retailers will gatekeep agentic commerce rather than let rival AI agents transact freely on their platforms.</p>
+<p><strong>[Washington Times]</strong> — <a href="https://www.washingtontimes.com/news/2026/sep/21/us-china-open-communication-line-alarming-ai-incidents/">U.S. and China Open Direct Line on AI Incident Risks</a><br/>Treasury Secretary Scott Bessent said the U.S. and China have set up a bilateral &quot;AI Dialogue&quot; with Vice Premier He Lifeng to alert each other to alarming AI-related incidents. It&#x27;s the first formal superpower channel for AI safety coordination, a notable step given how contentious AI competition between the two countries has become.</p>
+<p><strong>[CNBC]</strong> — <a href="https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html">AMD Crosses $1 Trillion Market Cap for the First Time</a><br/>AMD stock surged nearly 10% on September 21, pushing its market cap past $1 trillion and capping a five-day, 24% rally, making it the fourth U.S. chipmaker to reach the milestone after Nvidia, Broadcom, and Micron. The move underscores how concentrated AI infrastructure spending has become among a handful of semiconductor players.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — September 22, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-22-leadership-and-strategy</link>
+    <pubDate>Tue, 22 Sep 2026 13:16:43 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-22-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/09/ai-is-revolutionizing-strategic-decision-making">AI Is Revolutionizing Strategic Decision-Making</a><br/>Felipe Csaszar argues AI can &quot;unbound&quot; the rationality limits that have always shaped strategy, expanding capacity in three areas: generating more options, building richer market models, and aggregating judgment without meeting-room politics. He warns the tools themselves are available to everyone, so lasting advantage will come from pairing them with proprietary data and faster execution.</p>
+<p><strong>[Harvard Business Review]</strong> — <a href="https://hbr.org/2026/09/the-questions-you-should-be-asking-about-the-ai-bubble">The Questions You Should Be Asking About the AI Bubble</a><br/>The piece lays out a framework for testing whether AI infrastructure spending is a bubble poised to burst, rather than declaring an answer outright. It&#x27;s a useful checklist for leaders trying to size their own AI investment against genuine demand versus momentum.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — September 21, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-21-ai-and-technology</link>
     <pubDate>Mon, 21 Sep 2026 13:18:23 +0000</pubDate>
