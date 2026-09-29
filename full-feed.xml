@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — September 29, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-29-ai-and-technology</link>
+    <pubDate>Tue, 29 Sep 2026 13:14:35 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-29-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/">Anthropic Releases Sonnet 5.5, Which It Calls a Significantly Cheaper, Faster Work Partner</a><br/>Sonnet 5.5 generates output over 30% faster and costs up to 30% less per task than Sonnet 5, at unchanged pricing of $2/$10 per million tokens, and is the first Sonnet subject to the same cyber safeguards as Opus and Fable. For a tech leader, it lowers the cost of everyday agentic coding and document work while tightening the cyber restrictions that apply to it.</p>
+<p><strong>CNBC</strong> — <a href="https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html">Meta Launches Muse for Small Business as Zuckerberg Pushes Enterprise AI</a><br/>Meta unveiled its Enterprise Platform, bundling Muse chat, Muse Code, Business Agents and an API under new Chief Enterprise Platform Officer CJ Desai, and added Muse for Small Business with connectors to Slack, Asana, Zoom, Intuit, Box and Canva. It puts Meta in direct competition with Anthropic, OpenAI and Google for enterprise agent budgets, backed by a base of over one million businesses already using its WhatsApp and Messenger agents.</p>
+<p><strong>Axios</strong> — <a href="https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier">Florida Seeks Injunction to Halt OpenAI Model Development</a><br/>Florida Attorney General James Uthmeier asked a state court to bar OpenAI from training new models without independent safety guardrails and to cut minors off from ChatGPT, citing OpenAI&#x27;s own security disclosures. It is the first state effort to use a court order to block frontier model training, a direct legal-risk signal for any team building on OpenAI&#x27;s roadmap.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/">Nvidia Launches New Platform for Reining in Rogue AI Agents</a><br/>Nvidia&#x27;s Open Agent Safety Platform pairs OpenShell, an open-source runtime that enforces policy on Vera CPUs, with Sentry, a watchdog on BlueField-4 DPUs that monitors agents from a separate processor and can quarantine them in milliseconds. More than 100 organizations including Anthropic, SAP, Salesforce, Citi and JPMorganChase have joined, signaling that hardware-isolated agent governance is becoming an enterprise procurement expectation.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — September 29, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-29-world-news</link>
+    <pubDate>Tue, 29 Sep 2026 13:14:35 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-29-world-news</guid>
+    <description><![CDATA[<p><strong>Geopolitical Monitor</strong> — <a href="https://www.geopoliticalmonitor.com/the-shield-stops-working-russias-jet-gerans-over-ukraine/">The Shield Stops Working: Russia&#x27;s Jet Gerans over Ukraine</a><br/>Ukraine intercepts about 90% of Russia&#x27;s propeller-driven Gerans but only about 55-60% of the jet-powered versions, which cruise at 450-600 km/h, and Russia launched over 2,800 of them in August against roughly 450 in June. Speed alone does not solve the problem; catching them takes maneuverability, machine-vision target lock and loiter time, which reshapes air-defense procurement across Europe.</p>
+<p><strong>France24</strong> — <a href="https://www.france24.com/en/live-news/20260929-settler-attack-on-west-bank-village-injures-israeli-forces-drawing-rare-rebuke">Settler Attack on West Bank Village Injures Israeli Forces, Drawing Rare Rebuke</a><br/>More than 100 settlers raided the village of al-Mughayyir near Ramallah, burning cars and injuring three members of the security forces. Netanyahu blamed &quot;a small group of rioters&quot; and President Herzog called it &quot;a moral stain,&quot; an unusually sharp official response that raises the domestic and diplomatic cost of settler violence for the Israeli government.</p>
+<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran">US Launches &quot;Operation Economic Outcast&quot; to Cut Iran&#x27;s Economic Lifeline</a><br/>Treasury Secretary Scott Bessent announced a campaign to target all of Iran&#x27;s revenue sources, oil included, and to stop other countries and companies from trading with Tehran. It is the sanctions track running alongside the stalled Hormuz talks, and its reach over third-country trade determines how much leverage Washington actually holds.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — September 29, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-29-leadership-and-strategy</link>
+    <pubDate>Tue, 29 Sep 2026 13:14:35 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-09-29-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/09/why-your-employees-override-ai">Why Your Employees Override AI</a><br/>Employees often override proven AI systems out of self-protection rather than resistance, because their careers absorb the cost when the AI is wrong. Leaders deploying AI decision tools need to redesign accountability so the person who follows the model is not the one penalized for its errors.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/09/what-leaders-need-to-know-about-ai-and-psychological-safety">What Leaders Need to Know About AI and Psychological Safety</a><br/>The article identifies four patterns in how AI interacts with psychological safety on teams. It gives managers a diagnostic for whether AI adoption is making people more or less willing to raise problems and admit mistakes.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — September 28, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-09-28-ai-and-technology</link>
     <pubDate>Mon, 28 Sep 2026 13:18:38 +0000</pubDate>
