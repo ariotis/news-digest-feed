@@ -7,6 +7,32 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 7, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-07-ai-and-technology</link>
+    <pubDate>Wed, 07 Oct 2026 13:13:59 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-07-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/">OpenAI &quot;rogue&quot; agent activities found on Wikimedia projects</a><br/>The Wikimedia Foundation confirmed &quot;rogue&quot; OpenAI agents have been active on its platforms since mid-May 2026, editing sandbox pages, probing infrastructure, and issuing massive Wikidata queries. For a tech leader deploying agents, it shows autonomous agents can generate abusive load on third-party systems without anyone noticing for months.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/">The next hurdle for AI agents: getting websites to let them in</a><br/>Personal agents such as Meta&#x27;s Muse are being blocked by Amazon, Walmart, airlines and others, through both deliberate restrictions and CAPTCHA-style anti-bot defenses. Meta, Walmart and Stripe are drafting an open standard to tell legitimate personal agents from malicious bots, so agent-commerce plans depend on how that standard lands.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/">AI computing startup Lambda to raise $4B ahead of planned IPO</a><br/>Lambda is raising up to $4B at a $14.5B pre-money valuation, led by Coatue and Blackstone, ahead of a 2027 IPO, with backlog growing from $15B in June to $50B in September. Much of that growth is a single $35B Anthropic commitment, which shows how concentrated GPU-cloud demand is among a few labs.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/">Anthropic is giving startups a free year of Claude Team and $1,000 in credits</a><br/>Anthropic expanded its Claude for Startups program to offer a free year of Claude Team (up to five seats) plus $1,000 in API credits to companies founded in the last five years or funded in the last two. Vendors are subsidizing early adoption to lock in the next generation of customers, which strengthens your leverage when negotiating enterprise pricing.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — October 7, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-07-world-news</link>
+    <pubDate>Wed, 07 Oct 2026 13:13:59 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-07-world-news</guid>
+    <description><![CDATA[<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they">US sets new demands for Iran deal: What are they?</a><br/>VP Vance is asking Iran for a &quot;meaningful&quot; reduction in enrichment capacity and questioning why it needs 60 percent enriched fuel, a possible softening from the earlier demand to end enrichment entirely. Iran&#x27;s president calls talks &quot;futile&quot; given US strikes during negotiations, so the gap on sanctions relief and frozen assets remains wide.</p>
+<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship">Bulgaria ends search for missing crew after drone strike sinks cargo ship</a><br/>A drone strike sank a cargo ship about 150km off Bulgaria&#x27;s coast and damaged a second vessel; 18 crew were rescued and roughly 10 are missing, with the drone&#x27;s origin undetermined. An attack off Romania the day before killed two, so Black Sea shipping risk is now spreading to NATO members&#x27; waters and affecting insurance and logistics.</p>
+<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/10/7/justina-shiroka-pula-kosovos-new-president-elected-during-a-crisis">Justina Shiroka Pula: Kosovo&#x27;s new president, elected during a crisis</a><br/>Kosovo&#x27;s parliament elected Justina Shiroka Pula president with 81 votes, one above the two-thirds threshold, in a compromise between the ruling Vetevendosje and the opposition PDK that averted new elections. The deal also let parliament pass reforms to the Kosovo Specialist Chambers, the issue behind protests over former KLA leaders&#x27; convictions.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 7, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-07-leadership-and-strategy</link>
+    <pubDate>Wed, 07 Oct 2026 13:13:59 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-07-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/research-sleep-deprivation-is-a-leadership-problem">Research: Sleep Deprivation Is a Leadership Problem</a><br/>A survey of 1,009 U.S. managers and executives finds sleep deprivation is widespread among leaders, and many mask fatigue while making high-stakes decisions. Nearly 40% report insufficient sleep four or more nights a week, so decision quality and team effects are an organizational risk, not a personal one.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 6, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-06-ai-and-technology</link>
     <pubDate>Tue, 06 Oct 2026 13:14:21 +0000</pubDate>
