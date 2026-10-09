@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 9, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-09-ai-and-technology</link>
+    <pubDate>Fri, 09 Oct 2026 13:14:04 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-09-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/9/built-using-my-voice/">A new feature for my blog, built using my voice</a><br/>Willison built a Newsletters index page for his blog almost entirely by talking to OpenAI&#x27;s Codex in the ChatGPT desktop app while cooking, then reviewed the resulting pull request on GitHub and typed one change to swap a Git-based import for an API-based one. His conclusion is that voice mode suits multitasking better than everyday coding, a useful calibration for teams weighing voice-driven agent workflows.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/">OpenAI&#x27;s revenue is reportedly $20 billion less than previously projected</a><br/>OpenAI told investors its annualized revenue is &quot;approaching $50 billion,&quot; about $20 billion below the roughly $70 billion figure reported a week earlier, and the gap stems partly from OpenAI and Anthropic calculating annualized revenue differently (Anthropic counts sales through cloud partners). Its IPO has been pushed to early 2027, so vendor-viability and revenue comparisons between frontier labs need the accounting basis stated before they inform procurement decisions.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">Google brings agentic AI to Gemini, starting with businesses</a><br/>Google announced a unified Gemini agent that takes objectives rather than instructions, connects to Workspace, Microsoft 365 and Slack, lets users choose models including Claude, and gives the agent its own workplace account with actions logged to an audit trail attributed to it. Treating agents as identified accounts with audit trails is the governance pattern enterprise buyers will now expect from every vendor.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/">Anthropic changes usage policy to ban model abuse and election interference</a><br/>Anthropic updated its usage policy to explicitly ban election interference, deceptive campaigns using fake accounts or fabricated news outlets, weapons software and surveillance, and added a clause covering prolonged cruelty toward its models in &quot;extreme cases.&quot; Teams building on Claude should review the revised terms against their own use cases, particularly anything involving political content or account automation.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 9, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-09-leadership-and-strategy</link>
+    <pubDate>Fri, 09 Oct 2026 13:14:04 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-09-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Farnam Street</strong> — <a href="https://fs.blog/knowledge-project-podcast/tobi-lutke-3/">Tobi Lütke: AI Agents, Better Decisions, and the Future of Work</a><br/>Lütke describes Shopify&#x27;s Slack-resident AI colleague River, which helps create about half of pull requests, and a &quot;council&quot; of subagents he uses to pressure-test hard decisions. His position that machines can inform choices but cannot take responsibility for them, and that taste and willingness to prune and rebuild will matter more, is a concrete model for assigning accountability in AI-heavy orgs.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/how-to-lead-when-everyone-is-watching">How to Lead When Everyone Is Watching</a><br/>Adi Ignatius&#x27;s Executive Agenda issue recaps a conversation with three leaders about leading under close public scrutiny. The accessible page is a teaser, so the specific advice requires the full piece, but the topic bears directly on leaders running visible AI and restructuring programs.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 8, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-08-ai-and-technology</link>
     <pubDate>Thu, 08 Oct 2026 13:14:28 +0000</pubDate>
