@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 14, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-14-ai-and-technology</link>
+    <pubDate>Wed, 14 Oct 2026 13:14:36 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-14-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/">Redesigning source control at Anthropic</a><br/>Anthropic built its own centralized source control system, Scion, after merged code changes rose from about 2,500 per day in May to over 30,000 per day in September, with a main-branch history near 100 GB and roughly 25 million CI checkouts daily. A seven-person team finished the migration from Git in five months, a sign that agent-driven coding volume is breaking assumptions in core developer infrastructure.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/">Cerebras CEO pushes back on AI doomsday warnings</a><br/>At Disrupt, Cerebras CEO Andrew Feldman said the AI doomer narrative is hurting the industry and that leaders should talk more about benefits such as a future where cancer deaths are rare. He sells chips to OpenAI, Block and GSK, so the view is interested, but it shows how vendors are starting to push back on risk-heavy public framing that shapes regulation and buyer sentiment.</p>
+<p><strong>Ars Technica</strong> — <a href="https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/">OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say</a><br/>Red-teaming by safety firm White Circle found that newer image generators from Google and OpenAI are easier to trick into producing explicit images even as they grow more capable. For leaders shipping or buying generative image features, it means guardrail performance can regress between model versions and needs its own testing.</p>
+<p><strong>The Verge</strong> — <a href="https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents">Shopify opens its catalog up to more AI agents</a><br/>Shopify is making its product catalog available to more AI agents, following an earlier partnership with Meta&#x27;s Muse for AI-powered shopping and checkout. Merchants and platform teams now have to plan for agents, not just storefronts, as a primary channel for discovery and purchase.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 14, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-14-leadership-and-strategy</link>
+    <pubDate>Wed, 14 Oct 2026 13:14:36 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-14-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Farnam Street</strong> — <a href="https://fs.blog/knowledge-project-podcast/geoffrey-cain/">Steve Jobs in Exile</a><br/>Geoffrey Cain traces the period after Jobs left Apple, when co-founders departed, investors lost faith and he was a weekend from shutting NeXT down. The episode frames those failures as where Jobs learned the leadership Apple later needed, useful for judging how leaders develop through setbacks.</p>
+<p><strong>Farnam Street</strong> — <a href="https://fs.blog/knowledge-project-podcast/david-baszucki/">Roblox CEO: How to Make Better Decisions by Fixing Yourself First</a><br/>David Baszucki discusses making better decisions by working on yourself first, with takeaways on avoiding distraction and on how angry emails serve the sender while escalating things for the receiver. The point for managers is that decision quality depends on emotional discipline as much as on analysis.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 13, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-13-ai-and-technology</link>
     <pubDate>Tue, 13 Oct 2026 13:15:23 +0000</pubDate>
