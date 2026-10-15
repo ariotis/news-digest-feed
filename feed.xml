@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 15, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-15-ai-and-technology</link>
+    <pubDate>Thu, 15 Oct 2026 13:14:02 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-15-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/">Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a><br/>Citing the Financial Times, Willison reports Anthropic&#x27;s Q3 revenue rose from $11.5bn to $16.8bn, with $1.70 of revenue per $1 of compute and 11% adjusted operating margins. Anthropic also said distillation by rival labs accounted for 5–7% of revenue and was cut back materially in Q3, a figure that shows how much frontier-model economics depend on output-copying.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/">AI is mass decompiling games. That&#x27;s both awesome and scary.</a><br/>Willison links to indie developer Popcar&#x27;s piece on AI-driven game decompilation, which is powering preservation projects, mashups and ports of old games to new hardware via WebAssembly. The same capability lets companies copy competitors and open-source paid software without consent, so any team shipping binaries should assume decompilation is now cheap.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/">Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis</a><br/>Co-founded by Anna Goldie and Azalia Mirhoseini, Ricursive is building AI that designs chips, learns from each iteration and optimizes whole chips rather than splitting them into dozens of blocks. That approach targets the compute shortage at its source, and linked reporting puts its raise at $335M at a $4B valuation within four months.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/">Figma announces new features to define how agents work on its platform</a><br/>At its first Config event in India, Figma launched Figma Specs, a Markdown-based editor where teams define their design language as a reference for first- and third-party AI agents, and moved code layers to public beta. Design systems are becoming machine-readable instructions for agents, which shifts who controls brand consistency in AI-generated work.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 15, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-15-leadership-and-strategy</link>
+    <pubDate>Thu, 15 Oct 2026 13:14:02 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-15-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/what-sets-great-strategists-apart-in-the-ai-era">What Sets Great Strategists Apart in the AI Era</a><br/>The authors argue AI hands every competitor the same analytics, frameworks and market data, so strong analysis no longer confers lasting advantage. They hold that Porter&#x27;s principle of differentiation still applies but is harder to achieve, and that distinctive strategy will depend on &quot;sticky knowledge.&quot;</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/team-dynamics-weaken-when-employees-turn-to-ai-instead-of-colleagues">Team Dynamics Weaken When Employees Turn to AI instead of Colleagues</a><br/>Researchers from BetterUp and Stanford report that employees increasingly ask AI tools instead of colleagues, which erodes the &quot;transactive memory systems&quot; teams use to know who knows what. For managers, that means AI adoption can weaken coordination and trust in each other&#x27;s expertise even as individual output rises.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 14, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-14-ai-and-technology</link>
     <pubDate>Wed, 14 Oct 2026 13:14:36 +0000</pubDate>
