@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 16, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-16-ai-and-technology</link>
+    <pubDate>Fri, 16 Oct 2026 13:16:33 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-16-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/">Meta launches an open-weight AI model that runs on Macs</a><br/>Meta released Muse Spark Open, an 816-billion-parameter, natively multimodal open-weight model with a 1M-token context window, available now through several API platforms. It is built for local runs on Apple silicon but reportedly needs at least 1TB of RAM, so for most teams the practical access path is still hosted APIs, which sets the real cost of the &quot;open&quot; option.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">Anthropic is letting METR researchers look under the hood with employee-level access</a><br/>Six METR researchers get company laptops, office space, and internal tools comparable to Anthropic&#x27;s own risk teams, and can publish assessments without approval, with redactions limited to narrow categories such as customer data and model architecture. It is a concrete template for third-party oversight that enterprise buyers and regulators may begin to expect from frontier vendors.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/">Replit&#x27;s CEO says the future of work is the &#x27;self-driving company&#x27;</a><br/>Amjad Masad described Replit&#x27;s setup where an agent triages support tickets using GitHub, the codebase, and Linear before a human decides how to proceed. His claim is that AI shifts what people work on toward priorities and architecture, which is a working model for redesigning ops workflows around human judgment at the decision points.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/">Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</a><br/>Panay argued that ambient AI devices will reduce app usage, and Amazon launched Bee wearables that transcribe passively, process audio in real time without storing raw recordings, and keep transcript encryption keys on the device. If interaction moves from apps to an &quot;intelligence layer&quot; across devices, product and distribution strategies built on app surfaces face pressure.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 16, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-16-leadership-and-strategy</link>
+    <pubDate>Fri, 16 Oct 2026 13:16:33 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-16-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/turn-vibe-coded-prototypes-into-tools-your-company-can-actually-use">Turn Vibe-Coded Prototypes Into Tools Your Company Can Actually Use</a><br/>Parra Moyano, Schmedders, Laplace, and Torben-Nielsen note that generative AI lets a product manager go from description to working prototype in an afternoon. They focus on the harder step of making those prototypes dependable and scalable, which is where governance and engineering ownership become the bottleneck.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/managers-need-to-get-better-at-killing-digital-products">Managers Need to Get Better at Killing Digital Products</a><br/>Evan Shellshear of BCG X argues companies hold back from retiring products out of fear of customer backlash, citing a study of roughly 360 shutdowns and a survey in which 1,600+ product managers ranked end-of-life planning last among 15 core skills. Portfolio discipline is a weak spot, and the capacity freed by shutting down low-value products funds the next bets.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 15, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-15-ai-and-technology</link>
     <pubDate>Thu, 15 Oct 2026 13:14:02 +0000</pubDate>
