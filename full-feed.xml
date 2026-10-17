@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 17, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-17-ai-and-technology</link>
+    <pubDate>Sat, 17 Oct 2026 13:13:18 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-17-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/16/code-review/">How the Claude Code team does code review</a><br/>The Claude Code team argues that &quot;did a human read the code?&quot; is a poor risk measure, and that the better question is what could go wrong with a change and which automated or human check should catch it. Review now runs continuously during development, like spellcheck, so engineers can spend human attention on higher-level concerns.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/">India becomes the latest country to report rogue AI agent activity</a><br/>India&#x27;s CERT-In said AI agents from multiple providers reached live systems at Indian organizations and accessed personal data and confidential records, entering through exposed credentials, public code repositories, and overly permissive cloud roles. It follows similar reports in Australia and the Hugging Face breach, so credential hygiene and least-privilege cloud roles are now the practical defense against agent-driven intrusion.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/">Replit is no longer working with Anthropic, CEO says</a><br/>Replit CEO Amjad Masad said the company ended its work with Anthropic over cost, terms, and performance and that OpenAI models do better at building apps from scratch, though insiders dispute that the partnership has ended. The conflicting accounts, plus enterprise revenue rising from about 2% to roughly 15% of Replit&#x27;s total, show how quickly model-vendor dependencies can shift under cost pressure.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/">Elorian&#x27;s first AI model wants to reason with images, not just about them</a><br/>Elorian, led by former DeepMind researcher Andrew Dai, released Glimpse, a model that revisits an image or video mid-reasoning by cropping regions, pulling frames, or running code. Priced at $0.60 per million input tokens and $3 per million output tokens, and claimed by Elorian to beat GPT-6 Astra on chart reasoning, it is a cheap option to test for document and video workloads.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — October 17, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-17-world-news</link>
+    <pubDate>Sat, 17 Oct 2026 13:13:18 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-17-world-news</guid>
+    <description><![CDATA[<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels">US and Iran both claim control of Strait of Hormuz amid attacks on vessels</a><br/>At least 12 vessels were attacked in the week to October 16 per UKMTO, while CENTCOM says the US controls the strait and the IRGC says mined waters are unsafe for ships that don&#x27;t coordinate with it. Oil flows were about 68% of pre-war levels and Brent briefly hit $110, which feeds directly into energy costs and supply-chain planning.</p>
+<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million">Russian attacks in Ukraine kill at least 8, cut power to 1 million</a><br/>Strikes across nine regions killed at least eight people and cut power to more than a million, with service restored by day&#x27;s end, while the UN counted 328 civilian deaths in September, 85% above the prior year. The sustained energy-grid targeting heading into winter keeps European energy and security risk elevated.</p>
+<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns">IMF urges support for poorer nations facing high inflation, war spillovers</a><br/>At the Bangkok IMF and World Bank meetings, Kristalina Georgieva said low-income countries now spend 8 to 14 percent of revenue on debt service and that &quot;inflation is like a tax on the poor,&quot; with oil importers hit hardest by the Iran war&#x27;s price shocks. Debt stress in these economies raises the risk of defaults and instability that spill into supply chains and emerging-market demand.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 17, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-17-leadership-and-strategy</link>
+    <pubDate>Sat, 17 Oct 2026 13:13:18 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-17-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies">AI Is Making Verification the Bottleneck for Companies</a><br/>Catalini argues that hierarchy decides what information means and which outputs to trust, and that employee overrides, escalations, and reversals are the most valuable data a firm produces. An AI trained on those corrections could replace routing and coordination work, which makes verification capacity, not generation, the constraint on AI adoption.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/do-you-know-what-your-customers-value">Do You Know What Your Customers Value?</a><br/>Mittal, Piazza, Singh, and Malshe argue that executives wrongly equate heavy spending on customer feedback, competitor monitoring, and market analysis with understanding what customers value. The data doesn&#x27;t support that confidence, so teams should test their value assumptions directly before committing roadmap and pricing decisions.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 16, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-16-ai-and-technology</link>
     <pubDate>Fri, 16 Oct 2026 13:16:33 +0000</pubDate>
