@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 18, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-18-ai-and-technology</link>
+    <pubDate>Sun, 18 Oct 2026 13:10:20 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-18-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/">Anthropic says its workforce has become less junior and is spending more time in meetings</a><br/>Anthropic&#x27;s report shows junior staff fell from 21% to 14% of technical departments and junior technical hires dropped from 27% to 9%, while per-employee meeting time rose 20% year over year. In an April survey 20% of employees said their work had shifted toward managing Claudes, an early data point on how AI reshapes team structure and the entry-level pipeline.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/">Meta removes language that raised scraping and AI training concerns</a><br/>Meta&#x27;s updated commercial terms said it could &quot;use any content from&quot; business-account domains and URLs to train its products, and removed the language after legal experts flagged it as a scraping license; Meta says the terms applied only to ads and business products. Anyone publishing content or running a business account on Meta should check what rights they are granting for model training.</p>
+<p><strong>Hugging Face</strong> — <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">DeepSeek-V4.1-Flash-1017</a><br/>DeepSeek released an MIT-licensed 763B-parameter update with a 1M-token context window and image-text input, reporting Terminal-Bench 4.0 gains from 31.2 to 42.3 (self-reported). It was the top model story on Hacker News, and permissively licensed open weights at this scale put pricing pressure on closed agentic-coding models.</p>
+<p><strong>Quanta Magazine</strong> — <a href="https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/">As AI Closed In on &#x27;Unique Games&#x27; Proof, Researchers Raced to Beat the Machines</a><br/>After rumors of an OpenAI proof of the unique games conjecture, Dor Minzer and his students posted a 95-page human-written result on the related 2-to-1 games conjecture; OpenAI announced its proof and 376 other results on October 6. Researchers worry AI erases the learning value of failed attempts, which bears on how teams preserve deep expertise as AI takes on frontier problems.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 18, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-18-leadership-and-strategy</link>
+    <pubDate>Sun, 18 Oct 2026 13:10:20 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-18-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>MIT Sloan Management Review</strong> — <a href="https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/">The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts</a><br/>An MIT SMR and BCG panel study finds experts agree the core challenge is keeping human judgment capable as AI improves, and that adding a person to the loop is not enough on its own. It recommends identifying where judgment matters most, building low-stakes practice into the work, and tracking outcomes for both human and AI decisions.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/the-most-consequential-move-a-new-ceo-can-make">The Most Consequential Move a New CEO Can Make</a><br/>Adi Ignatius&#x27;s Executive Agenda piece argues a new CEO&#x27;s biggest early task is diagnosing what the company actually needs, ahead of setting strategy. For leaders taking on a new organization or mandate, it frames the first months as an exercise in diagnosis before direction.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 17, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-17-ai-and-technology</link>
     <pubDate>Sat, 17 Oct 2026 13:13:18 +0000</pubDate>
