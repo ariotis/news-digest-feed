@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 19, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-19-ai-and-technology</link>
+    <pubDate>Mon, 19 Oct 2026 13:12:01 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-19-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/">Anthropic says it&#x27;s committing 5% of its shares to a &#x27;public benefit fund&#x27;</a><br/>Anthropic will put 5% of its shares into a wholly owned public benefit fund, with 2% more added for every 50% rise in company value, and has already pledged $200 million to study AI&#x27;s impact on jobs. Governance details are due in the coming months, so leaders should watch how a frontier lab&#x27;s equity-backed philanthropy shapes its public posture and regulatory standing.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/">Jev is Vercel&#x27;s fastest-adopted AI model ever</a><br/>Vercel&#x27;s gateway data shows TypeSafe AI&#x27;s Jev, a decision model released September 15, reached 35% of paid teams in two weeks, nearly double the runner-up Sonnet 5.5. The same data shows open source models handling over 70% of tokens, which suggests cheap, narrow classification models are taking volume while frontier labs hold a shrinking share of spend.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/">Disney agrees to hire the majority of Character.AI&#x27;s workforce</a><br/>Character.AI filed for bankruptcy, and a filing says Disney will offer jobs to at least 60 employees at roughly $60 million in annual compensation, with Disney&#x27;s first CTO being the startup&#x27;s former CEO. The company cited high costs and litigation and regulatory exposure, a reminder that consumer chatbot liability can sink a well-funded startup.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/17/document-currentscript/">Inline rendering with document.currentScript</a><br/>Simon highlights Lean Rada&#x27;s technique in which an inline script uses `document.currentScript` to replace itself with its output, making a tiny template language from a one-line helper. It shows how much page assembly can be done with no build step or framework, which is useful for prototypes and internal tools.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 19, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-19-leadership-and-strategy</link>
+    <pubDate>Mon, 19 Oct 2026 13:12:01 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-19-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/how-ceos-set-the-tempo">How CEOs Set the Tempo</a><br/>Nitin Nohria argues that CEOs are judged on execution speed as well as strategy, and that moving too fast exhausts organizations and causes avoidable errors. He cites Nvidia&#x27;s Jensen Huang, who kept a deliberate pace through deep product involvement, rigorous group debate and long-term architecture focus, making pacing a competitive advantage.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/robinhoods-ceo-on-refounding-the-business-post-ipo">Robinhood&#x27;s CEO on Refounding the Business Post-IPO</a><br/>Vlad Tenev describes how Robinhood&#x27;s pandemic-fueled growth reversed after its 2021 IPO and forced him to overhaul the organization. He rejects the idea that going public is a graduation followed by steady growth, framing the listing as the start of a harder phase that demands reinvention.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 18, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-18-ai-and-technology</link>
     <pubDate>Sun, 18 Oct 2026 13:10:20 +0000</pubDate>
