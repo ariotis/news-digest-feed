@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 20, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-20-ai-and-technology</link>
+    <pubDate>Tue, 20 Oct 2026 13:17:11 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-20-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Import AI</strong> — <a href="https://importai.substack.com/p/import-ai-477-in-which-i-tell-the">Import AI 477: In which I tell the IMF the Singularity has begun</a><br/>Jack Clark reproduces his Oct 17 IMF lecture in Bangkok, arguing AI is already accelerating science and citing Humanity&#x27;s Last Exam rising from 8% to 67.7% (Claude Opus 5.5) and FrontierMath from 2% to 94%. He urges governments to build power, data center and lab-automation capacity while keeping tight human oversight on risky uses such as biology and AI research itself.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/">&quot;We were looking at it wrong&quot;: The explosive claim that&#x27;s upended the AI world</a><br/>Goodfire researcher Nick Cammarata argues in a 26,000-word post that LLMs may be far easier to interpret than assumed, based on a reanalysis of Google&#x27;s Inception v1 in which a seemingly tangled neuron responds to a shared V shape. Skeptics including Stanford&#x27;s Chris Potts and DeepMind&#x27;s Neel Nanda call it a small step, but if interpretability scales, monitoring and controlling deployed models becomes a more tractable engineering problem.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/">Making the internet better for AI agents might make it worse for everyone else</a><br/>Agentic traffic tripled from August to September 2026, Meta&#x27;s Muse agent has been downloaded 5 million times, and sites like Yelp and Amazon are blocking agents while Amazon appeals a ruling in Perplexity&#x27;s favor. Whether businesses are allowed to block agents will determine if the web is rebuilt around them, with direct consequences for ad measurement, pricing and verification on any consumer-facing product.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/">My obituary for programming</a><br/>Willison shares Jeremy Scheff&#x27;s essay mourning the era when programmers were paid to solve &quot;tricky little logic puzzles&quot; and controlled approach, schedule and feasibility because others couldn&#x27;t do the work. Willison notes coding agents are a gift for people who want working systems but a real loss for those who enjoyed the craft, a retention and motivation issue for engineering orgs.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 20, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-20-leadership-and-strategy</link>
+    <pubDate>Tue, 20 Oct 2026 13:17:11 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-20-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat">How to tell if a startup has a moat</a><br/>The piece gives a three-step test: identify which compounding advantage (switching costs, network effects, scale economies, data effects) the team is actually building, gauge how strong it can get, and measure whether it is working. It judges by what the team works on rather than stated strategy, a useful filter for evaluating vendors and your own roadmap as AI erodes software moats.</p>
+<p><strong>Farnam Street</strong> — <a href="https://fs.blog/knowledge-project-podcast/tobi-lutke-3/">Tobi Lütke: AI Agents, Better Decisions, and the Future of Work</a><br/>Lütke describes River, Shopify&#x27;s Slack-based AI colleague that originates up to about half of its pull requests, and an &quot;AI council&quot; of multi-model subagents that produces a decision synthesis in about 30 minutes for $15–20 in tokens. He argues taste and judgment become more valuable as AI improves, which reframes what to hire and promote for.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 19, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-19-ai-and-technology</link>
     <pubDate>Mon, 19 Oct 2026 13:12:01 +0000</pubDate>
