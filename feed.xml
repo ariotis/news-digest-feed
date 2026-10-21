@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 21, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-21-ai-and-technology</link>
+    <pubDate>Wed, 21 Oct 2026 13:13:59 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-21-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/">Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</a><br/>Anthropic has circulated a draft federal bill, reported by Politico, under which a model release could be blocked over a foreseeable threat of more than 50 deaths or $1 billion in property losses, with Commerce-registered independent evaluators (possibly paid by the labs) given 72 hours to alert Commerce and a D.C. judge required to order any halt. It signals the kind of pre-release gating regime a major lab is willing to accept, which shapes what compliance and evaluation obligations vendors and customers may face.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/">Anthropic&#x27;s cloud partnerships are getting messy</a><br/>A leaked S-1 reportedly shows Anthropic struggling to secure capacity from AWS, Google and Microsoft, which increasingly see it as a competitor, while it projects possible cloud commitments above $750 billion and reports an $80.7 billion net loss on $16.3 billion of first-half revenue. Capacity, not model quality, is becoming the binding constraint on AI vendors, so hyperscaler dependence and vendor-concentration risk belong in your sourcing plans.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/">Google has joined Amazon in attacking Nvidia&#x27;s stronghold with AI app developers</a><br/>Google released TorchTPU, an open source PyTorch backend that runs existing AI apps on its TPUs with a configuration change, a day after Amazon&#x27;s similar TorchNeuron for Trainium. Lowering the porting cost away from CUDA strengthens your negotiating position on accelerator pricing, though TechCrunch notes developers won&#x27;t abandon Nvidia en masse.</p>
+<p><strong>Scott Helme</strong> — <a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">Eight Bits of Trust: eMudhra&#x27;s CA keys cracked in milliseconds</a><br/>Private keys for eight eMudhra intermediate CA certificates issued in April 2025 were tiny values (such as 4, 56 and 115) that anyone can recover from the public certificates in under a second. Chrome and Firefox have blocked them, but non-browser TLS clients that skip revocation and Certificate Transparency checks may still trust them, so audit services and internal tooling that rely on default trust stores.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 21, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-21-leadership-and-strategy</link>
+    <pubDate>Wed, 21 Oct 2026 13:13:59 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-21-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/how-ai-erodes-teamwork">How AI Erodes Teamwork</a><br/>A survey of more than 1,000 U.S. workers finds that people who turn to AI instead of colleagues for help end up with weaker trust in one another and poorer coordination. If your teams default to assistants over each other, expect hidden costs in cohesion that productivity metrics won&#x27;t show.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/lessons-from-upss-transformation">Lessons from UPS&#x27;s Transformation</a><br/>Marc Levinson traces UPS from a 1907 Seattle messenger service to a global carrier under founder James E. Casey, who ran it for 76 years, and asks how leaders can transform a declining business model without sacrificing profitability or employee support. The piece frames long-tenure stewardship as the case study for managing change in a mature business.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 20, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-20-ai-and-technology</link>
     <pubDate>Tue, 20 Oct 2026 13:17:11 +0000</pubDate>
