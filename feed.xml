@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 22, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-22-ai-and-technology</link>
+    <pubDate>Thu, 22 Oct 2026 13:32:39 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-22-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/">My obituary for programming</a><br/>Willison highlights Jeremy Scheff&#x27;s essay mourning how coding agents erode the appeal of programming for developers who loved it as &quot;tricky little logic puzzles,&quot; and agrees that &quot;the loss is very real&quot; for them. LLMs are a boon for people who mainly want working systems, so expect a split in morale and retention between engineers motivated by outcomes and those motivated by craft.</p>
+<p><strong>Import AI</strong> — <a href="https://importai.substack.com/p/import-ai-477-in-which-i-tell-the">Import AI 477: In which I tell the IMF the Singularity has begun</a><br/>Jack Clark argues in an IMF speech that AI is already accelerating science, citing Humanity&#x27;s Last Exam scores rising from about 8% to 67.7% and frontier-level systems in mathematics, biology, and robotics. He urges governments to invest in power, compute, and lab capacity while keeping strict human oversight over risky areas such as biological research and AI development itself.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/">DeepSeek reportedly raises $15B days after US restrictions</a><br/>DeepSeek reportedly raised about $15 billion, per Bloomberg, two days after the U.S. ordered federal civilian agencies to remove its technology, with CATL and Tencent among potential investors. The round follows a June raise of over $7 billion at a $50 billion valuation, showing US restrictions have not cut off the lab&#x27;s capital.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/">Recursive launches Flint, a laptop coding model it says was largely built by AI</a><br/>Recursive released Flint, a free Apache 2.0 mixture-of-experts coding model that activates 2.5B of 40B parameters and runs at about 131 tokens per second on an M4 Pro MacBook Pro. It beat other sub-50B models on SWE-Bench Verified in the company&#x27;s tests, and it was built largely by an automated research system, which makes local coding models a credible alternative to hosted APIs.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 22, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-22-leadership-and-strategy</link>
+    <pubDate>Thu, 22 Oct 2026 13:32:39 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-22-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>MIT Sloan Management Review</strong> — <a href="https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/">Why Data Modeling Is Not Enough</a><br/>The authors argue that analytics projects deliver weak returns because accurate models don&#x27;t connect to the choices managers face. They propose decision science, which models the decisions rather than the data, so a leader whose analytics spend isn&#x27;t paying off should reframe projects around decisions first.</p>
+<p><strong>MIT Sloan Management Review</strong> — <a href="https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/">The Hidden Upside of Tech Challenges</a><br/>The authors argue that technology stress isn&#x27;t uniformly harmful: complex, distracting, or surveillance-like tools cause disengagement, while challenges perceived as growth opportunities can raise productivity, morale, and retention. Leaders should remove hindrance-type friction first and then frame new technology rollouts as opportunities.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 21, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-21-ai-and-technology</link>
     <pubDate>Wed, 21 Oct 2026 13:13:59 +0000</pubDate>
