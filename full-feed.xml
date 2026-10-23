@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 23, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-23-ai-and-technology</link>
+    <pubDate>Fri, 23 Oct 2026 13:18:43 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-23-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/22/donating-agent-skills/">Donating Agent Skills to the Agentic AI Foundation</a><br/>Anthropic is donating the Agent Skills standard to the Agentic AI Foundation under the Linux Foundation, the same body that now holds the Model Context Protocol. Skills and MCP now sit under one vendor-neutral roof, which lowers the lock-in risk of building agent tooling on either standard.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/">OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</a><br/>OpenAI is reportedly raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and UAE investors, possibly paired with a UAE compute-capacity deal. A record private valuation raises the bar for OpenAI&#x27;s confidentially filed IPO and for Anthropic&#x27;s, whose public S-1 is rumored to be imminent.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/">1Password launches a way for AI agents to log in on your behalf without seeing your password</a><br/>1Password for Agents has the agent prove its identity with a unique key, alerts the user, and then fills credentials itself so the agent never sees them; it works with Claude Duet, ChatGPT Work, Grok Bot, Meta&#x27;s Muse and others. Credential delegation is a core blocker for agents in enterprise settings, and this is a concrete pattern for handling it.</p>
+<p><strong>The Verge</strong> — <a href="https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts">Meta turns Muse sharing back on</a><br/>Meta re-enabled Muse sharing after security researchers reported that public conversation links were easy to find. The episode shows that &quot;shareable&quot; defaults in agent and chat products can expose user data, so they deserve review before rollout.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — October 23, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-23-world-news</link>
+    <pubDate>Fri, 23 Oct 2026 13:18:43 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-23-world-news</guid>
+    <description><![CDATA[<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o">Ukraine says Starlink still restricted after Trump says limits lifted</a><br/>Ukrainian defence ministry sources say drones still lose connection at speeds above 100mph and that there is no confirmation the Starlink or Starshield restrictions have been lifted, despite Trump saying Musk &quot;put it back.&quot; Kyiv&#x27;s battlefield drone operations depend on a privately controlled satellite network whose access is now politically contested.</p>
+<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo">Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat</a><br/>The 42-year-old woman, Nigeria&#x27;s first confirmed Ebola patient in over a decade, tested positive on 20 October after travelling in Uganda and is improving in isolation. The case ties into a Congo outbreak that has killed about 4,600, and it shows the virus reaching a major West African capital through ordinary travel.</p>
+<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/ck87zlpzny15o">Seven shot dead by gunmen at church funeral in Jordan, state media say</a><br/>Two gunmen opened fire inside a church in Jordan&#x27;s Karak governorate during a funeral, killing at least seven and injuring ten; no group has claimed responsibility. Targeted attacks like this are rare in Jordan, a relatively stable partner state amid regional conflict.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 23, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-23-leadership-and-strategy</link>
+    <pubDate>Fri, 23 Oct 2026 13:18:43 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-23-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still">Claude Duet is beautiful. I still forgot to use it</a><br/>Claire Vo reviews Claude Duet, covering task lists, artifacts and channels as agent primitives, and finds that latency and a lack of proactive nudges, plus missing desktop and multiplayer support, kept it out of her working stack. It is a practical product-strategy case on why polished design does not produce daily habit in personal agents.</p>
+<p><strong>Farnam Street</strong> — <a href="https://fs.blog/knowledge-project-podcast/steven-kotler/">The Science of Doing Your Best Work (Steven Kotler)</a><br/>Kotler, who runs the Flow Research Collective, argues that flow is trainable and covers how hard a task should be to pull you in, what frustration signals during learning, and how to focus on work you&#x27;d rather not do. For a manager with fragmented days, it offers a framework for protecting deep work; public release is Oct 27, with members getting access now.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 22, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-22-ai-and-technology</link>
     <pubDate>Thu, 22 Oct 2026 13:32:39 +0000</pubDate>
