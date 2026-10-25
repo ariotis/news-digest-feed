@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 25, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-25-ai-and-technology</link>
+    <pubDate>Sun, 25 Oct 2026 13:10:15 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-25-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/">Block&#x27;s new voice model sounds eerily human</a><br/>Block&#x27;s research lab released Dessa, a full-duplex speech model that talks and listens simultaneously, runs locally (Block says on a MacBook M4 Max), and was trained only on human speech using a single NVIDIA GPU rack. Unlike pipelines that bolt a text LLM onto a voice layer, Dessa builds emotion and cadence into the model itself, which signals that on-device, low-cost voice interfaces are now within reach of mid-size players.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/">Forced to pick, Grok&#x27;s AI model chooses Republicans. OpenAI&#x27;s picks Democrats.</a><br/>A Convovo study found that via API, Grok 4.7 recommended the Republican in 92% of nearly 500 midterm races while GPT-6.1 Sol picked the Democrat in 97%, agreeing less than 10% of the time, even though both consumer apps refuse to answer. Teams building on model APIs inherit these latent political leanings, so any product that touches election or civic content needs its own evals rather than trusting the vendor&#x27;s app-level guardrails.</p>
+<p><strong>Ars Technica</strong> — <a href="https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/">Updated Google privacy policy says your Gmail might be used for advertising</a><br/>Google&#x27;s October 16 privacy policy update removed its flat statement that it doesn&#x27;t personalize ads from Drive, Gmail, or Photos content, and the new wording leaves room for such data to be used once shared with other Google services through Personal Intelligence. Anyone enabling Personal Intelligence across a Workspace or personal footprint should review what data flows to AI Mode and other ad-supported surfaces before rolling it out to employees.</p>
+<p><strong>The Verge</strong> — <a href="https://www.theverge.com/column/1017983/google-ai-search-online-publishing">Google&#x27;s AI search changes upended online publishing</a><br/>Publishers spent years optimizing for clicks from Google, and the new AI search features and summaries have taken away traffic and torn up that ecosystem. For leaders whose products depend on search-driven discovery, it is a live case study in platform dependency: the distribution channel can be restructured overnight by the platform owner.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 25, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-25-leadership-and-strategy</link>
+    <pubDate>Sun, 25 Oct 2026 13:10:15 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-25-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/your-executive-team-needs-more-productive-conflict">Your Executive Team Needs More Productive Conflict</a><br/>Rebecca Newton argues that many leadership teams suffer from too little conflict, because executives avoid challenging peers out of respect, trust in siloed ownership, and fear of seeming slow. CEOs can fix this by clarifying shared purpose, structuring meetings around questions rather than updates, building interpersonal trust, and encouraging peers to address tensions directly.</p>
+<p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf">An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)</a><br/>Rob Snyder, who helped over 50 startups reach $1M ARR, walks through his PULL framework for finding real product-market fit. It gives product and strategy leaders a structured test for whether demand is pulling the product forward or the team is pushing it.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 24, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-24-ai-and-technology</link>
     <pubDate>Sat, 24 Oct 2026 13:09:51 +0000</pubDate>
