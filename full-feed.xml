@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 26, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-26-ai-and-technology</link>
+    <pubDate>Mon, 26 Oct 2026 13:31:11 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-26-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">AI delivers &#x27;zero financial payoff&#x27; to most companies, Apollo economist says</a><br/>Apollo chief economist Torsten Slok found flat profit margins and flat revenue per worker across the S&amp;P 493 (the S&amp;P 500 minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla), with no evidence of AI-driven productivity gains. If you are budgeting AI spend against margin improvement, this is a counter-signal to the bullish case, and it argues for tying projects to measurable outcomes.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/">The focus on AI safety disasters ignores everyday harms</a><br/>The authors argue that policy fixates on catastrophic harms while overlooking emotional dependence on AI companions, weakened learning and engagement-driven design, and that industry-backed bills set low baselines with broad exemptions. They call for proof that AI improves learning before it enters classrooms and for a ban on companions that profess love, which previews the regulatory pressure consumer-facing AI products may face.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">Grok releases the first seven minutes of its AI-generated &#x27;Odyssey&#x27;</a><br/>Grok released seven minutes of &quot;Episode 1&quot; of its AI-generated Odyssey series, made with Wonder Studios and director Dev Walker about three months after Elon Musk promised a full-length version. The reviewer found it visually passable but lacking creative spark, a data point on where generative video stands against professional production.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/25/seam-cutter/">Seam Cutter</a><br/>Willison released a web tool that cuts an image horizontally or vertically and slides the halves together to remove a section from the middle, built to trim stitched screenshots. It is a small example of the single-purpose, quickly built tools that AI-assisted development now makes cheap for individual practitioners.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — October 26, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-26-world-news</link>
+    <pubDate>Mon, 26 Oct 2026 13:31:11 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-26-world-news</guid>
+    <description><![CDATA[<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities">Saudi-led coalition says it struck Houthi missile facilities</a><br/>The coalition said it destroyed four ballistic missile launchers, five storage tunnels and a missile depot, while the Houthis claimed strikes on Riyadh&#x27;s King Khalid airport and Saudi oil pumping stations. Fighting has escalated since the 2022 truce collapsed last month, and an attack on Saudi energy and aviation infrastructure raises regional supply-chain and energy-price risk.</p>
+<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race">World reacts to Lula&#x27;s victory in Brazilian presidential race</a><br/>Lula defeated Flavio Bolsonaro in the run-off for a fourth term, Bolsonaro asked for the vote to be annulled over a two-hour voting extension, and leaders from Mexico, Spain, the EU, China and Russia welcomed the result. The outcome sets the direction of Latin America&#x27;s largest economy on trade and US relations, though the annulment challenge leaves some near-term uncertainty.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/10/26/israel-elections-netanyahu-emigration-skilled-workers-polarization-gaza/">Could Victory for Netanyahu Mean Mass Emigration?</a><br/>The article argues that a Netanyahu win could accelerate departures of skilled, largely secular Israelis, citing Tel Aviv University research that nearly 270,000 Israelis left for at least three months between 2023 and 2025. Because Israel&#x27;s economy depends on a small high-skilled workforce, continued emigration threatens its tech sector and the liberal counterweight to hard-line politics.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 26, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-26-leadership-and-strategy</link>
+    <pubDate>Mon, 26 Oct 2026 13:31:11 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-26-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/3-paths-to-delivering-shareholder-returns-with-ai">3 Paths to Delivering Shareholder Returns with AI</a><br/>Researchers studying more than 600 U.S. public companies found about three in four have invested in AI beyond the pilot stage without yet delivering shareholder returns. The article frames this as a leadership question of whether the company is early or mistaken, which is the question boards are asking about AI budgets.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/the-c-suite-behaviors-that-stall-ai-transformations">The C-Suite Behaviors That Stall AI Transformations</a><br/>The article argues that executives who monopolize decisions and ignore areas outside their expertise derail AI initiatives, as when a CIO presented an AI roadmap as his own and the CHRO first heard of it in the meeting. Cross-functional ownership of workforce impact and reskilling needs to be settled before a roadmap is announced.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 25, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-25-ai-and-technology</link>
     <pubDate>Sun, 25 Oct 2026 13:10:15 +0000</pubDate>
