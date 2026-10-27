@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 27, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-27-ai-and-technology</link>
+    <pubDate>Tue, 27 Oct 2026 13:49:37 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-27-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/26/gpt-61-terra/">GPT-6.1 Terra</a><br/>OpenAI released GPT-6.1 Terra, a mid-tier model that leads with visual reasoning and computer use, and Willison notes it sits where Sonnet sits in Anthropic&#x27;s lineup. OpenAI&#x27;s own guidance says it is faster than Astra and Sol on vision and computer use but a bit worse on most other tasks, so it suits repetitive agentic workloads where cost matters more than peak capability.</p>
+<p><strong>Import AI</strong> — <a href="https://importai.substack.com/p/import-ai-478-math-for-alignment">Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means</a><br/>Jack Clark describes AI safety startup Resolution autoformalizing a result on singularity resolution for statistical learning theory in about a week, using an orchestrator agent working from a 112-page plan. The workflow of a human-written plan, an orchestrating agent and parallel specialist agents is a concrete template for how frontier research is now being automated.</p>
+<p><strong>The Verge</strong> — <a href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics">OpenAI announces three big science discoveries and a new way to work with academics</a><br/>OpenAI published new results in math, computer science and physics, including a claimed refutation of the Exponential Time Hypothesis, with outside &quot;shepherds&quot; guiding how the work is released. Its own math advisory panel recommended a day earlier that AI companies not give select experts early access, so the validity of the claims and the release process are both contested.</p>
+<p><strong>The Verge</strong> — <a href="https://www.theverge.com/policy/1019152/data-centers-midterm-elections">Data center backlash is uniting America</a><br/>Opposition to data center construction has become a major issue in congressional and gubernatorial midterm races, while tech-backed super PACs spend heavily in the same contests. Local siting, power and cost fights are now a political risk to infrastructure plans and capacity roadmaps.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — October 27, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-27-world-news</link>
+    <pubDate>Tue, 27 Oct 2026 13:49:37 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-27-world-news</guid>
+    <description><![CDATA[<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/c3j47l4kdez4o">Turnout so far highest in decades as Israelis vote in pivotal election</a><br/>Israeli turnout is the highest in more than four decades, and polls show Netanyahu nearly level with former military chief Gadi Eisenkot. Neither bloc is projected to reach the 61 seats needed for a majority, so weeks or months of coalition bargaining are likely, with consequences for Gaza policy and regional diplomacy.</p>
+<p><strong>Foreign Affairs</strong> — <a href="https://www.foreignaffairs.com/russia/putins-strategy-working">Putin&#x27;s Strategy Is Working</a><br/>Michael McFaul argues that Trump&#x27;s easing of sanctions, reduced aid to Ukraine, disrupted intelligence cooperation and pressure on Zelensky are making Russian annexation of Ukrainian territory more likely than at almost any point since 2022. He says this reverses Ukraine&#x27;s momentum from last spring, which was built on long-range missiles and drones.</p>
+<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/cq62yg6rggj0o">Lula&#x27;s comeback in Brazil dents Trump&#x27;s ambitions for Latin America</a><br/>Lula won re-election on a &quot;Brazil will not accept being anyone&#x27;s backyard&quot; message aimed at Washington, and Flávio Bolsonaro refused to recognise the result. Trump said he gets along with Lula while also calling the election &quot;rigged&quot;, which leaves US-Brazil tariffs and regional influence unsettled.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 27, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-27-leadership-and-strategy</link>
+    <pubDate>Tue, 27 Oct 2026 13:49:37 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-27-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping">Why Reddit built its own AI prototyping tool | Blair Metcalf</a><br/>Reddit&#x27;s principal UX engineer built an in-house prototyping harness on a design-system MCP and Cursor, and it now has 100% adoption across UX and product with more than 700 live prototypes. Encoding company design language into the tooling, rather than adopting a generic vibe-coding product, is what lets prototypes reach production shape and reach leadership review.</p>
+<p><strong>Farnam Street</strong> — <a href="https://fs.blog/knowledge-project-podcast/geoffrey-cain/">Steve Jobs in Exile</a><br/>Geoffrey Cain reconstructs the decade Jobs spent outside Apple, when NeXT lost money for years, co-founders left, and Jobs was a weekend from shutting it down. The conversation treats those failures as the period in which Jobs learned the leadership habits Apple later needed.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 26, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-26-ai-and-technology</link>
     <pubDate>Mon, 26 Oct 2026 13:31:11 +0000</pubDate>
