@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 28, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-28-ai-and-technology</link>
+    <pubDate>Wed, 28 Oct 2026 13:19:20 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-28-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/">Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</a><br/>OpenAI published solutions to three long-standing math problems, including a claimed refutation of the Exponential Time Hypothesis, and Anthropic followed with its own refutation; MIT&#x27;s Ryan Williams is organizing community review with ETH&#x27;s originators, Impagliazzo and Paturi. If the claims hold, a class of hard logic puzzles becomes solvable in sub-exponential time, which would reopen cryptography assumptions and P vs. NP thinking.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/">Who&#x27;s really in charge at Anthropic after the IPO?</a><br/>Anthropic&#x27;s planned structure leaves common shareholders little say: the Long-Term Benefit Trust appoints most directors via Class T seats, and seven founders jointly hold 50.1% of voting power until ten years after the IPO or until fewer than three remain. For leaders evaluating vendor risk, this means a key model supplier&#x27;s strategy will be set by a small, mission-bound group rather than by public-market pressure.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/">Google&#x27;s Genie 4 world model adds audio, more realistic worlds, and real-time steering</a><br/>Google DeepMind released Genie 4 as a research preview, with real-time audio, scenes that stay consistent for up to two minutes (double Genie 3), and mid-simulation changes to weather, camera and objects. Rollout to AI Ultra subscribers and Gemini API early-access partners begins in coming weeks, though detail drift and unreliable in-world text remain unsolved.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/28/terk-terkowitz/">Terk Terkowitz quote on the role of the developer in the age of AI</a><br/>Simon quotes an Amazon engineering leadership update saying that when AI tooling doesn&#x27;t help an engineer&#x27;s work, it is &quot;a finding, not a failing,&quot; and engineers should document why, share it with peers and raise it with managers. It shows a large employer treating AI-tool shortfalls as engineering feedback rather than a performance signal, a useful template for your own adoption policy.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 28, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-28-leadership-and-strategy</link>
+    <pubDate>Wed, 28 Oct 2026 13:19:20 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-28-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/how-ceos-set-the-tempo">How CEOs Set the Tempo</a><br/>The article argues that CEOs are judged on execution speed as well as plans, and that over-accelerating wears out organizations and causes preventable blunders. Using Nvidia&#x27;s Jensen Huang, it makes the case that a deliberate, deeply engaged pace favoring lasting design over reaction to short-term events is itself a durable advantage.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/building-a-winning-organization">Building a Winning Organization</a><br/>In an HBR Executive Live conversation, David Rubenstein tells Adi Ignatius that money and talent alone don&#x27;t produce wins in sports or business. Drawing on his experience owning a sports team, he says leaders need an organization that can compete, decide under uncertainty and earn loyalty.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 27, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-27-ai-and-technology</link>
     <pubDate>Tue, 27 Oct 2026 13:49:37 +0000</pubDate>

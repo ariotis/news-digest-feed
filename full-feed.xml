@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 28, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-28-ai-and-technology</link>
+    <pubDate>Wed, 28 Oct 2026 13:19:20 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-28-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/">Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</a><br/>OpenAI published solutions to three long-standing math problems, including a claimed refutation of the Exponential Time Hypothesis, and Anthropic followed with its own refutation; MIT&#x27;s Ryan Williams is organizing community review with ETH&#x27;s originators, Impagliazzo and Paturi. If the claims hold, a class of hard logic puzzles becomes solvable in sub-exponential time, which would reopen cryptography assumptions and P vs. NP thinking.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/">Who&#x27;s really in charge at Anthropic after the IPO?</a><br/>Anthropic&#x27;s planned structure leaves common shareholders little say: the Long-Term Benefit Trust appoints most directors via Class T seats, and seven founders jointly hold 50.1% of voting power until ten years after the IPO or until fewer than three remain. For leaders evaluating vendor risk, this means a key model supplier&#x27;s strategy will be set by a small, mission-bound group rather than by public-market pressure.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/">Google&#x27;s Genie 4 world model adds audio, more realistic worlds, and real-time steering</a><br/>Google DeepMind released Genie 4 as a research preview, with real-time audio, scenes that stay consistent for up to two minutes (double Genie 3), and mid-simulation changes to weather, camera and objects. Rollout to AI Ultra subscribers and Gemini API early-access partners begins in coming weeks, though detail drift and unreliable in-world text remain unsolved.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/28/terk-terkowitz/">Terk Terkowitz quote on the role of the developer in the age of AI</a><br/>Simon quotes an Amazon engineering leadership update saying that when AI tooling doesn&#x27;t help an engineer&#x27;s work, it is &quot;a finding, not a failing,&quot; and engineers should document why, share it with peers and raise it with managers. It shows a large employer treating AI-tool shortfalls as engineering feedback rather than a performance signal, a useful template for your own adoption policy.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — October 28, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-28-world-news</link>
+    <pubDate>Wed, 28 Oct 2026 13:19:20 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-28-world-news</guid>
+    <description><![CDATA[<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections">Five key takeaways from Israel&#x27;s parliamentary elections</a><br/>With about 84% counted, Netanyahu&#x27;s bloc is on track for 54 of 120 seats, Eisenkot&#x27;s alliance for 49 and Arab parties for 17, all short of the 61 needed. Turnout of 77.7% was the highest since 1999; the final tally is due Friday, after which Herzog nominates a candidate who has up to 42 days to form a government.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/10/27/trump-tariffs-trade-war-court-ieepa/">Trump&#x27;s Tariffs Will Have Another Day in Court</a><br/>A Liberty Justice Center suit challenges Trump&#x27;s first use of Section 338 of the 1930 Smoot-Hawley law to penalize Canada&#x27;s retaliatory tariffs, arguing later trade laws superseded it. A loss could undermine the Section 301 authority behind the broader global tariffs, and the administration has already lost five straight trade cases, so supply-chain and pricing plans should keep tariff-reversal scenarios.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/10/27/china-ccp-fifth-plenum-xi-jinping-politics-corruption/">Why Party Plenums Matter So Much to Xi</a><br/>The CCP&#x27;s fifth plenum opened Monday with an agenda of &quot;party self-governance&quot; (anti-corruption and loyalty to Xi) rather than economic management. James Palmer argues Xi&#x27;s power rests on his formal positions, so a prioritized internal-discipline agenda signals consolidation over near-term economic stimulus.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 28, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-28-leadership-and-strategy</link>
+    <pubDate>Wed, 28 Oct 2026 13:19:20 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-28-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/how-ceos-set-the-tempo">How CEOs Set the Tempo</a><br/>The article argues that CEOs are judged on execution speed as well as plans, and that over-accelerating wears out organizations and causes preventable blunders. Using Nvidia&#x27;s Jensen Huang, it makes the case that a deliberate, deeply engaged pace favoring lasting design over reaction to short-term events is itself a durable advantage.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/building-a-winning-organization">Building a Winning Organization</a><br/>In an HBR Executive Live conversation, David Rubenstein tells Adi Ignatius that money and talent alone don&#x27;t produce wins in sports or business. Drawing on his experience owning a sports team, he says leaders need an organization that can compete, decide under uncertainty and earn loyalty.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 27, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-27-ai-and-technology</link>
     <pubDate>Tue, 27 Oct 2026 13:49:37 +0000</pubDate>
