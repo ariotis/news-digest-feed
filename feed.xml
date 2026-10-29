@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 29, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-29-ai-and-technology</link>
+    <pubDate>Thu, 29 Oct 2026 13:17:36 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-29-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/28/vibe-game-development/">The October inflection point for vibe game development</a><br/>Willison built four browser games in a few weeks, including the multiplayer strategy game Battle Drones, and credits Claude Opus 5.5&#x27;s gains in 3D modeling, music, and game design. He concludes that generating the code is no longer the bottleneck, and coming up with novel concepts is.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/28/github-octoverse-2026/">GitHub Octoverse 2026</a><br/>GitHub&#x27;s report shows merged pull requests tripling in under a year to 220 million per month, commits above 7.38 billion per month, and new repositories doubling to 30.3 million per month. Willison attributes the surge to agentic engineering, which means review, CI, and repo infrastructure are now absorbing several times the volume they were sized for.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/">Anthropic just launched tools to show companies what their AI spending is buying</a><br/>Anthropic released reporting that shows a team&#x27;s output, cost, and workflow breakdowns over a date range, plus pooled group budgets for token spending. Jellyfish data puts Anthropic-model tools at about a third of code changes submitted for review with spending up 10x this year, so finance will start asking for the ROI evidence these dashboards provide.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/">Microsoft recorded $10 billion in revenue from OpenAI</a><br/>Microsoft booked about $10 billion from its OpenAI arrangements in the quarter ended September 30, roughly 11% of its $92.3 billion revenue, and OpenAI&#x27;s receivable to Microsoft rose to $7.2 billion. The two remain financially entangled despite looser exclusivity, with revenue sharing running through 2030, which matters for anyone assessing vendor concentration in the AI stack.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 29, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-29-leadership-and-strategy</link>
+    <pubDate>Thu, 29 Oct 2026 13:17:36 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-29-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/why-even-your-best-employees-override-ai-systems-that-work">Why Even Your Best Employees Override AI Systems That Work</a><br/>Harvard Business School professor Das Narayandas argues employees override working AI systems because &quot;they don&#x27;t trust your organization,&quot; not because they distrust the technology, as in a bank whose credit-decision AI was endorsed by the CEO but stayed an adviser. Companies are adopting AI faster than they update governance, so adoption problems should be diagnosed as organizational trust problems first.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/lessons-from-upss-transformation">Lessons from UPS&#x27;s Transformation</a><br/>The article traces UPS from its 1907 start as a Seattle bicycle-messenger business to a global transportation giant under founder James E. Casey, who it credits with building an entire industry. It uses that history to ask how leaders can overhaul an eroding business model without losing profitability or employee support.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 28, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-28-ai-and-technology</link>
     <pubDate>Wed, 28 Oct 2026 13:19:20 +0000</pubDate>
