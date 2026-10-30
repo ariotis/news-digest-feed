@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 30, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-30-ai-and-technology</link>
+    <pubDate>Fri, 30 Oct 2026 13:11:16 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-30-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/">How I Built the Most AI-Pilled Company in the World</a><br/>Jacob Sansbury describes Spawn, a multiplayer game built largely by autonomous agents that ship to production hourly, spend over $3 million a month in tokens, and treat any hour without a ship as a SEV-0 incident. About 60% of work originates from production errors, in-game bug reports, logs, or feature requests, which shows what an agent-run delivery loop costs and demands operationally.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/28/github-octoverse-2026/">GitHub Octoverse 2026</a><br/>GitHub reports merged pull requests tripled in under a year to 220 million per month, commits hit 7.38 billion per month, and new repositories doubled to 30.3 million per month. Willison attributes the surge to agentic engineering, so review, CI, and security capacity now have to scale with machine-generated volume.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/">AWS will be a $1T business, Jassy says — but first, it will spend big</a><br/>Amazon plans about $220 billion in 2026 capex, mostly for AWS, will raise it substantially in 2027, and posted 39% AWS growth on a $184 billion run rate. Shares fell about 6% after hours, so investors are signaling limited patience for the infrastructure spend that sets cloud capacity and pricing for everyone else.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/">As search traffic dries up, Reddit announces it&#x27;s shifting to a logged-in experience</a><br/>Reddit says search referrals fell by more than 1 million per week in October, so it is moving to a primarily logged-in experience to limit AI scraping and pursue model-licensing deals; U.S. daily users fell from 53.2 million to 50.7 million. The move shows a major content platform trading reach for control of its data as AI search erodes referral traffic.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — October 30, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-30-world-news</link>
+    <pubDate>Fri, 30 Oct 2026 13:11:16 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-30-world-news</guid>
+    <description><![CDATA[<p><strong>Al Jazeera</strong> — <a href="https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz">Qatari delegation in Tehran for talks over resolving US-Iran war</a><br/>Iranian state media report Qatari mediators are back in Tehran to negotiate a deal, and Trump says the war will &quot;get wrapped up soon&quot; without giving terms or timing. The live blog also tracks reports of tankers hitting mines in the Strait of Hormuz, so energy and shipping risk persists while talks proceed.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/10/30/putin-russia-ukraine-war-mobilization-casualties/">Russia&#x27;s Next Mobilization Is Already Happening</a><br/>Analyst Alexey Kovalev reports Russia signed about 263,000 new contracts in the first nine months of 2026 versus 292,000 a year earlier, while Ukraine reportedly inflicts 30,000 to 40,000 casualties a month. Moscow is covering the gap with bonuses near 2 million rubles and coercive draft raids in at least 17 regions, which suggests a formal new mobilization decree may be unnecessary.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/10/30/trump-poland-troops-deployment-delay-europe-review/">Trump Promised Poland More Troops. They&#x27;re Still Not There.</a><br/>The 5,000 additional U.S. troops announced for Poland have not arrived nearly four months after Polish officials said they were weeks away, possibly pending a Pentagon force review due in December. The delay feeds doubts about U.S. credibility in Europe as that review could cut overall troop numbers on the continent.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 30, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-30-leadership-and-strategy</link>
+    <pubDate>Fri, 30 Oct 2026 13:11:16 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-30-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/why-managers-misread-rankings">Why Managers Misread Rankings</a><br/>Silverman, Barnea, and Moon present eight experiments with more than 4,400 participants on how managers compare candidates ranked in teams of unequal size, such as third of 12 versus sixth of 24. The work bears on promotion and hiring calibration, where raw rank without team size can distort decisions.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/to-make-a-new-strategy-stick-executives-need-shared-emotional-investment">To Make a New Strategy Stick, Executives Need Shared Emotional Investment</a><br/>Warwick Business School&#x27;s Hurst, Nicolini, and Wiedner argue that the usual sequence of defining a direction, having the top team set priorities, and then communicating downward secures intellectual agreement but not commitment. Their point for leaders is that strategic change needs emotional buy-in built into the process, not added after the plan is set.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 29, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-29-ai-and-technology</link>
     <pubDate>Thu, 29 Oct 2026 13:17:36 +0000</pubDate>
