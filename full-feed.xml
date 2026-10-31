@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — October 31, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-31-ai-and-technology</link>
+    <pubDate>Sat, 31 Oct 2026 13:12:09 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-31-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/">Cracks are emerging in the AI spending boom</a><br/>Big Tech is pouring billions into AI infrastructure while mounting debt, negative cash flow, and growing investor skepticism raise questions about the boom&#x27;s sustainability. For a tech leader, the financing conditions behind vendor roadmaps and pricing are becoming a planning risk.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">Anthropic expected to receive high &#x27;junk&#x27; rating from credit agencies following IPO, FT report says</a><br/>The FT reports that Blackstone forecasts a high junk credit rating for Anthropic after its IPO, which would make raising money for its massive spending more difficult and costly. If you depend on a frontier lab, its cost of capital is now a factor in vendor-risk assessment.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">DoorDash said it&#x27;s only received &#x27;several hundred&#x27; orders from AI agents</a><br/>DoorDash says it has received only several hundred orders from AI agents and that it is open to working with third-party agent makers. Real agent-driven commerce volume remains tiny, which tempers near-term planning assumptions about agents as a demand channel.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/30/nesformer/">dbreunig/nesformer</a><br/>Drew Breunig baked a working emulator of the NES&#x27;s 6502 CPU into the weights of Qwen3.5-4B, so NES ROMs such as Super Mario Bros run, very slowly, inside the model. It is a concrete demonstration of how far models can be pushed to execute deterministic computation, built using Opus 5.5 prompts that Breunig shared.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — October 31, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-31-world-news</link>
+    <pubDate>Sat, 31 Oct 2026 13:12:09 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-31-world-news</guid>
+    <description><![CDATA[<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/10/30/iran-war-gulf-energy-infrastructure/">The Persian Gulf&#x27;s Energy Infrastructure Isn&#x27;t Ready for a Renewed Iran War</a><br/>The piece argues the region&#x27;s energy infrastructure cannot absorb another round of fighting. Renewed conflict would put Gulf supply and the energy-price assumptions in corporate and economic planning at risk.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea/">Binance Crypto Hack: Alleged North Korean Hackers Steal Over $6 Billion</a><br/>Suspected North Korean hackers stole $6.36 billion in digital coins from Binance. A theft of this scale shows state-linked actors funding themselves through attacks on financial infrastructure.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/10/30/israel-election-netanyahu-majority-coalition-likud-yashar-eisenkot-dahlia-scheindlin/">FP Live: Dahlia Scheindlin on Israel&#x27;s Election, Netanyahu, and Coalition Wrangling</a><br/>Pollster Dahlia Scheindlin discusses whether Benjamin Netanyahu can stay in power after Israel&#x27;s election. The coalition outcome shapes Israel&#x27;s posture on Gaza, Lebanon, and Iran, which feeds into regional risk.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — October 31, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-31-leadership-and-strategy</link>
+    <pubDate>Sat, 31 Oct 2026 13:12:09 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-10-31-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/are-microsofts-voluntary-buyouts-a-sign-of-whats-to-come">Are Microsoft&#x27;s Voluntary Buyouts a Sign of What&#x27;s to Come?</a><br/>On October 26, Microsoft offered voluntary buyouts to 60,000 employees, part of a trend of profitable companies cutting labor costs while investing heavily in AI. Buyouts can preserve morale by giving employees control over their exits, but employers risk losing top performers.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/coping-with-uncertaintys-toll">Coping with Uncertainty&#x27;s Toll</a><br/>In the HBR Executive Agenda newsletter, Adi Ignatius talks with IMD professor Michael Watkins about the toll constant uncertainty takes on leaders. Watkins says executives should respond by creating internal processes that handle urgent challenges more effectively, in addition to managing their own response.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 30, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-30-ai-and-technology</link>
     <pubDate>Fri, 30 Oct 2026 13:11:35 +0000</pubDate>
