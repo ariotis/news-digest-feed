@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 1, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-01-ai-and-technology</link>
+    <pubDate>Sun, 01 Nov 2026 13:12:29 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-01-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/">How We Took Over ChatGPT Accounts</a><br/>Parameter Labs chained an injection in a MathLive message handler with an allowed YouTube oEmbed endpoint to escape ChatGPT&#x27;s sandboxed HTML preview iframes, letting a malicious share URL exfiltrate data or act for any signed-in visitor; OpenAI fixed it and paid a $5,000 bounty. Any product that renders model-generated interactive content carries the same iframe and CSP risk, and the low payout suggests vendors still underprice this class of bug.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/">OpenAI reportedly lowers funding target for new round</a><br/>OpenAI has cut its round target from $30B to $20B (FT), with $11B secured so far and &quot;tepid&quot; response from some large investors (WSJ); the round is led by UAE-based investors. Weak demand at a valuation reported between $1.25T and $1.4T signals investor fatigue with AI infrastructure spending, which affects vendor pricing and long-term contract risk.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/">Intel&#x27;s stock crashes, knocking $12B from government&#x27;s stake</a><br/>Intel fell about 28% on Oct 30 after guiding Q4 revenue to $15–16B (versus ~$17B expected), gross margin down to 37% from 43%, and no positive cash flow, with CEO Lip-Bu Tan blaming a PC slowdown from AI-driven memory price increases. AI demand is raising component costs for the broader PC market, which is relevant to hardware refresh budgets.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/">Apple CEO says the company doesn&#x27;t &quot;want to ship AI for AI&#x27;s sake&quot;</a><br/>New CEO John Ternus told Wired Apple will &quot;absolutely&quot; use AI in new products but won&#x27;t ship it for its own sake, and said agents making apps unnecessary &quot;could make life really easy&quot; while product creation remains &quot;deeply human and personal.&quot; It is the first clear statement of AI strategy from Apple&#x27;s new chief, and it points to a slower, product-led approach compared with its rivals.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 1, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-01-leadership-and-strategy</link>
+    <pubDate>Sun, 01 Nov 2026 13:12:29 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-01-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/for-real-performance-gains-with-ai-start-by-mapping-your-workflows">For Real Performance Gains with AI, Start by Mapping Your Workflows</a><br/>A study of 515 companies found most have adopted LLMs without clear productivity gains, and that firms shown how others redesigned their work were better at finding where AI creates value. The recommendation is to map existing workflows before choosing AI tools, which puts process analysis ahead of tool rollout.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/how-leaders-counter-pessimism-in-trying-times">How Leaders Counter Pessimism in Trying Times</a><br/>Michelle Gielan, author of *Resilient Optimism*, argues that negative news, failures, and uncertainty can produce learned helplessness that erodes team engagement and energy. Her premise, drawn from 15 years studying resilience in leaders, is that managing team mindset is a core leadership task during layoffs, reorganizations, and volatile markets.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — October 31, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-10-31-ai-and-technology</link>
     <pubDate>Sat, 31 Oct 2026 13:12:09 +0000</pubDate>
