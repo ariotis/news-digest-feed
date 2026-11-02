@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 2, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-02-ai-and-technology</link>
+    <pubDate>Mon, 02 Nov 2026 13:46:54 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-02-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/">The U.S. Census Bureau and &quot;Super Intelligence&quot;</a><br/>Willison updated his chart of Census Bureau business surveys showing about 40% of large firms reporting AI use in some function by October 2026, and notes the Bureau swapped &quot;Artificial Intelligence&quot; for &quot;Super Intelligence&quot; in the survey wording from October 19 under an executive order. The question change in late 2025 already broke comparability, so adoption figures cited in board decks need a caveat about survey wording.</p>
+<p><strong>Robert Haas (PostgreSQL)</strong> — <a href="http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html">Postgres 19 is late, and it&#x27;s AI&#x27;s fault</a><br/>Haas expects PostgreSQL 19 to slip to November after three major features were reverted late in beta, and says LLM-found bugs raised back-patched commits by more than 60% year over year. AI-driven bug discovery is shifting maintainer capacity from feature work to triage, a cost that will hit any critical open-source dependency your stack relies on.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/">Mistral releases weights for its trillion-parameter AI model targeting cybersecurity</a><br/>Mistral published weights for Mistral Large 4, a trillion-parameter model it says matches GLM-5.3 while using 47% fewer tokens per task, available on Hugging Face and via its API. A self-hostable frontier-scale open model aimed at cyber defense gives security teams and regulated organizations a non-US, on-premises option.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/">DoorDash said it&#x27;s only received several hundred orders from AI agents</a><br/>On its Q3 call, DoorDash said third-party AI agents have placed only &quot;several hundred&quot; orders in total, against roughly 3 million deliveries on an average day. Agentic commerce demand is still negligible at a scaled marketplace, which argues for measured investment in agent-facing channels.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 2, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-02-leadership-and-strategy</link>
+    <pubDate>Mon, 02 Nov 2026 13:46:54 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-02-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/the-human-in-the-loop-fallacy">The &quot;Human-in-the-Loop&quot; Fallacy</a><br/>The article argues that companies assigning employees to review AI outputs and handle exceptions are creating a role that shrinks as the AI improves. Designing workflows around human oversight as a permanent job category is a workforce-planning error rather than a safeguard.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/are-microsofts-voluntary-buyouts-a-sign-of-whats-to-come">Are Microsoft&#x27;s Voluntary Buyouts a Sign of What&#x27;s to Come?</a><br/>Microsoft has offered buyouts to about 60,000 employees, roughly 25% of its staff, part of a pattern of profitable companies cutting payroll to fund AI spending. The piece, drawing on research into buyouts since the 1990s, suggests the same trade-off may reach your own headcount and budget discussions.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 1, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-01-ai-and-technology</link>
     <pubDate>Sun, 01 Nov 2026 13:12:29 +0000</pubDate>
