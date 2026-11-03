@@ -7,20 +7,6 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>🔑 Token renewal — FEED_REPO_TOKEN (expires in a week)</title>
-    <link>https://github.com/ariotis/news-digest/settings/secrets/actions</link>
-    <pubDate>Mon, 02 Nov 2026 00:01:00 +0000</pubDate>
-    <guid isPermaLink="false">token-renewal-feed-repo-token-2026-11-09-t7</guid>
-    <description><![CDATA[<p><strong>FEED_REPO_TOKEN expires in a week</strong> (November 9, 2026). If it lapses the digest still commits, but this feed silently stops updating — no error reaches you.</p><p><strong>Renew from your phone, about two minutes:</strong></p><ol>
-<li>Open <a href="https://github.com/settings/personal-access-tokens">your fine-grained tokens</a> and tap the one for <code>news-digest-feed</code>.</li>
-<li>Tap <strong>Regenerate token</strong>, set expiration to <strong>90 days</strong>, confirm, and copy the new value.</li>
-<li>Open <a href="https://github.com/ariotis/news-digest/settings/secrets/actions">the repo's Actions secrets</a>, tap the edit pencil on <code>FEED_REPO_TOKEN</code>, paste, Save.</li>
-<li>Open <a href="https://github.com/ariotis/news-digest/edit/main/token-expiry.json">token-expiry.json</a> and change the date to your new expiry. Commit straight from the browser.</li>
-<li>Verify: <a href="https://github.com/ariotis/news-digest/actions/workflows/publish-rss.yml">Publish RSS feed</a> → <strong>Run workflow</strong>. Green means done.</li>
-</ol>
-<p><em>All of this works in mobile Safari. The GitHub mobile app can't manage tokens — don't bother opening it.</em></p>]]></description>
-  </item>
-  <item>
     <title>AI &amp; Technology — November 2, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-02-ai-and-technology</link>
     <pubDate>Mon, 02 Nov 2026 13:46:54 +0000</pubDate>
