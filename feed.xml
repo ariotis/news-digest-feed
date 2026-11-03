@@ -7,6 +7,23 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 3, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-03-ai-and-technology</link>
+    <pubDate>Tue, 03 Nov 2026 15:04:07 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-03-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/">A sound that leaks your exact location</a><br/>Willison links a YouTube video showing that faint aircraft noise in a recording can reveal where it was made, by matching Doppler curves against ADS-B flight data. Ordinary audio your teams or customers publish can leak location, which belongs in privacy and OSINT-exposure reviews.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/">Y Combinator&#x27;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</a><br/>Tan says he spends roughly $100K–$200K a year on tokens for agents with access to his email, files and notes, and expects personal agents to go mainstream as costs fall. It is a data point on what heavy agent use costs per person and on the autonomy and access-control questions that come with it.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/">How &quot;reverse game theory&quot; could keep AI agents in check</a><br/>Mechanism-design researchers, including MIT&#x27;s Stephen Morris and Princeton&#x27;s Elad Hazan, propose aligning agents through incentives such as cross-model prediction rewards and solver/auditor pairings, without needing to understand model internals. The approach is one layer of &quot;defense in depth&quot; for agent governance, though the article flags collusion risk and doubts about whether models respond to incentives at all.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/">The agentic web is here</a><br/>Huckins describes agents such as Meta&#x27;s Muse, OpenAI&#x27;s Dots and Anthropic&#x27;s Claude Duet acting with access to email and bank accounts, and cites a Pew finding that users are about 40% less likely to click through when an AI summary appears. Publishers and anyone dependent on search traffic face falling referral revenue, and sites that block agents, as Amazon did with Muse, are making a strategic choice.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 3, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-03-leadership-and-strategy</link>
+    <pubDate>Tue, 03 Nov 2026 15:04:07 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-03-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>MIT Sloan Management Review</strong> — <a href="https://sloanreview.mit.edu/article/the-ai-governance-paradox/">The AI Governance Paradox</a><br/>Shefali Patil argues that &quot;human in the loop&quot; frameworks make people reactive to AI alerts and erode front-line judgment, citing Three Mile Island and the Columbia shuttle loss. Her remedy is to restore decision authority to those closest to the problem, in line with high-reliability organizing, which bears directly on how you design oversight of AI systems.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 2, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-02-ai-and-technology</link>
     <pubDate>Mon, 02 Nov 2026 13:46:54 +0000</pubDate>
