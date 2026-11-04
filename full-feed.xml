@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 4, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-04-ai-and-technology</link>
+    <pubDate>Wed, 04 Nov 2026 13:16:06 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-04-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/">Qwen 3.8 27B on my laptop can interpret model weights, too</a><br/>Willison ran the &quot;Weight-Space Programming&quot; paper&#x27;s test locally: Qwen 3.8 27B identified Pac-Man, Pong, and Breakout from raw network weights but missed Freeway, taking up to an hour per answer. The result shows that capabilities reported for frontier models are reproducible on commodity hardware, and Willison argues it doesn&#x27;t support claims that source code is becoming obsolete.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/">Anthropic is still grappling with the economics of compute</a><br/>Anthropic&#x27;s updated SEC filing shows Q3 revenue of $17B (up from $11.5B) while compute rose to 58% of revenue from 48%, a $10B bill that includes $5.0B of costlier short-term capacity. Revenue per compute dollar fell to 1.72x from a peak just above 2x, a sign that even the leading lab&#x27;s unit economics worsen when it scales on spot-style capacity.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/">Hiding inside Palantir&#x27;s skyrocketing quarter is a foreboding signal</a><br/>Palantir posted Q3 revenue of $2.31B (up 96% year over year) and U.S. commercial revenue of $984M, surpassing U.S. government revenue for the first time. U.S. enterprise total contract value fell to $1.46B from $2.13B the prior quarter as customers moved to shorter contracts, which suggests enterprise AI buyers are keeping commitments small and revisable.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/">Data centers are turning to old jet engines as the wait for power grows</a><br/>Builders are using retired jet engines converted to burn natural gas because they can power a facility in about 24 months, versus roughly seven years for a 100 MW grid connection in Northern Virginia. xAI and Crusoe are already using them, and Microsoft pulled out of a UK Nscale deal over power delays, so power access is now a gating factor in AI capacity planning.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — November 4, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-04-world-news</link>
+    <pubDate>Wed, 04 Nov 2026 13:16:06 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-04-world-news</guid>
+    <description><![CDATA[<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/03/kushner-witkoff-diplomacy-russia-iran-failure/">Why Kushner and Witkoff Keep Failing</a><br/>Stephen Walt argues the two envoys are &quot;0 for 3&quot; on peace in Ukraine, Gaza, and Iran because they treat diplomacy like real estate dealmaking and assume economic incentives can substitute for security guarantees. He cites Iraq&#x27;s 1990 invasion of Kuwait and Putin&#x27;s war in Ukraine to show that unresolved core security concerns defeat economic offers, which bears on how much to expect from the current Iran talks.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/03/china-iran-trump-xi-middle-east-interests/">China Won&#x27;t Bail Out Trump&#x27;s Lost War</a><br/>Henry Tugendhat argues Beijing has no incentive to press Iran toward U.S. terms, since China wants a smaller U.S. Gulf role and is less oil-dependent (petroleum is 18% of its primary energy versus 38% for the U.S.). Washington therefore cannot count on Chinese mediation to end the Iran war, which limits its exit options.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/03/china-cyberattacks-united-states-deterrence-hackers-competition/">Can Washington Afford to Deter Chinese Cyber Activity?</a><br/>Ahana Datta Fasel argues that takedowns of hacking infrastructure have not reversed the advantage China built through prepositioning such as Volt Typhoon&#x27;s access to Guam infrastructure and Salt Typhoon&#x27;s telecom compromises. Credible deterrence would require costs like semiconductor export restrictions that risk rare-earth retaliation, so the practical priority for operators is hardening essential services.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 4, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-04-leadership-and-strategy</link>
+    <pubDate>Wed, 04 Nov 2026 13:16:06 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-04-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/what-sets-great-strategists-apart-in-the-ai-era">What Sets Great Strategists Apart in the AI Era</a><br/>The authors argue that AI gives every competitor the same analytics, frameworks, and scenario models, so conclusions converge and analytical advantages disappear quickly. Distinctive strategy will therefore depend on &quot;sticky knowledge&quot; rather than analysis, which changes what leaders should invest in building.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/do-you-know-what-your-customers-value">Do You Know What Your Customers Value?</a><br/>Vikas Mittal and co-authors say executives who spend heavily on customer feedback, competitor tracking, and market analysis assume they know what customers value, and the authors&#x27; data says they do not. This challenges whether existing customer-insight spend informs product and pricing decisions.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 3, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-03-ai-and-technology</link>
     <pubDate>Tue, 03 Nov 2026 15:04:07 +0000</pubDate>
