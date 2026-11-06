@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 6, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-06-ai-and-technology</link>
+    <pubDate>Fri, 06 Nov 2026 13:10:30 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-06-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/5/paul-ford/">Paul Ford: &quot;The Web Is More Than Enough&quot;</a><br/>Willison quotes Paul Ford calling the web browser &quot;very, very, very powerful software for applications,&quot; with the cost of tapping that power falling almost daily. For a tech leader, it argues for treating the browser as a first-class application platform when weighing build-versus-buy and native-versus-web decisions.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/">OpenAI released a new cybersecurity model. Is that enough?</a><br/>OpenAI released ChatGPT Cyber to top-tier Daybreak Red users, who report 948 potential Linux kernel issues and 81 new Firefox vulnerabilities, while an OpenAI model also helped find a serious Ubuntu flaw that Debian has patched. Critics say defender programs like Daybreak Blue were recently &quot;nerfed&quot; while attackers can use open-weight models with guardrails removed, so security teams should not assume vendor gating tilts the field toward defense.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/">Meta warns that election backlash against data centers could make AI expansion harder</a><br/>Meta president Dina Powell McCormick said Democratic midterm wins will make data center construction harder and that the industry has not explained the benefits of these investments well enough. Meta, which runs data centers in 23 states, plans to pay for its own power, direct tax surpluses to local services and hire locally, which signals that capacity planning now carries real political and permitting risk.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/">I watched a humanoid robot clean my apartment. It felt like a taste of the future.</a><br/>Tau Robotics sends remotely piloted humanoid robots to clean San Francisco homes and uses the data to train autonomous versions; the reporter found them slow, stumbling on stairs, and one visit ended early when the control equipment failed. Tau has done only about 200 cleanings, so this is a data-collection business for now, and it shows the teleoperate-then-automate path to robotics.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — November 6, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-06-world-news</link>
+    <pubDate>Fri, 06 Nov 2026 13:10:30 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-06-world-news</guid>
+    <description><![CDATA[<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/04/midterm-election-results-democrats-congress-trump-iran-war-oversight/">Where Democrats Can Thwart Trump&#x27;s Foreign Policy</a><br/>Democrats won both chambers of Congress, and can use funding power, oversight hearings and nomination blocks against the Iran war, boat strikes and the operation that captured Maduro, all carried out without congressional sign-off. Trump has vowed to rely on executive orders and veto Democratic bills, and a two-thirds override is unlikely, so expect constraint through oversight and appropriations rather than legislation.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/04/midterms-democrats-trump-tariffs-trade-war-congress/">Trump&#x27;s Next Trade War Could Be With Congress</a><br/>About two-thirds of voters said tariffs hurt them economically, and a September poll found 70 percent want presidents to seek congressional approval before new tariffs. Analysts say Congress could narrow the Section 232 and 301 authorities Trump relies on, which would limit his tariff flexibility and raise uncertainty for supply-chain and pricing plans.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-government-mansouri/">What Does Morocco&#x27;s First Woman Leader Actually Mean for the Country?</a><br/>King Mohammed VI named Fatima Ezzahra Mansouri head of government on September 29, making Morocco the second Arab country after Tunisia with a woman leading its executive. Real authority stays with the king, but she is expected to oversee reform of the Moudawana family law amid a high cost of living and roughly 30 percent youth unemployment.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 6, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-06-leadership-and-strategy</link>
+    <pubDate>Fri, 06 Nov 2026 13:10:30 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-06-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/lessons-from-upss-transformation">Lessons from UPS&#x27;s Transformation</a><br/>Historian Marc Levinson traces UPS from James Casey&#x27;s 1907 bicycle-messenger business in a Seattle saloon basement to one of the world&#x27;s largest transportation companies. The piece asks how leaders can overhaul an eroding business model without sacrificing profit or employee support, a problem Casey faced and one relevant to any incumbent reinventing itself.</p>
+<p><strong>Farnam Street</strong> — <a href="https://fs.blog/michael-abrashoff-leadership/">Lessons on Leadership: Michael Abrashoff&#x27;s Turnaround Playbook</a><br/>Abrashoff took command of the USS Benfold, among the Navy&#x27;s least effective ships, and made it the top performer in three years with its crew intact. He found sailors left over disrespect and not being heard rather than pay, so he asked the crew how to improve every process; the lesson is that ownership and listening drive performance more than incentives.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 5, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-05-ai-and-technology</link>
     <pubDate>Thu, 05 Nov 2026 13:12:27 +0000</pubDate>
