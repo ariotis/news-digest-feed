@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 7, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-07-ai-and-technology</link>
+    <pubDate>Sat, 07 Nov 2026 13:10:30 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-07-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/">OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</a><br/>Bloomberg reports OpenAI has raised $11 billion so far in a round that could total about $20 billion, well short of the $30 billion target reported in September. The shortfall, alongside reports that buyers are scrutinizing Anthropic&#x27;s IPO shares, signals tighter investor appetite for frontier-lab valuations that vendor-risk and contract-term decisions should account for.</p>
+<p><strong>Ars Technica</strong> — <a href="https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/">Chainalysis says hackers stole credentials and tokens for all of its customers</a><br/>Chainalysis disclosed that attackers, in what it called a &quot;multifront cyberattack&quot; involving AI agents, obtained names, usernames, password hashes, and live tokens for all of its users. Its customer list includes the FBI, ICE, the US Air Force, Microsoft, Coinbase, and Barclays, so any team using the platform should rotate tokens and credentials now.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/">Crusoe sells troubled Wyoming data center project to Google</a><br/>Crusoe, valued at $30.9 billion, sold its unfinished Wyoming campus (planned to reach 10 GW) to Google, which reportedly had concerns about cost and schedule under Crusoe and now plans to invest $17 billion in the site. The deal shows how hard it is for independent developers to deliver gigawatt-scale projects on time given equipment, power, and local-opposition constraints, which raises delivery risk for any capacity you have contracted from them.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/">Hundreds of Artex AI hacking tools found publicly exposed to the web</a><br/>Censys found more than 800 distinct deployments of Artex, a Chinese-made open source autonomous penetration-testing tool linked to several attacks since its July release, reachable without a password. Microsoft describes it as agents that run attacks from reconnaissance through exfiltration with little human input, so attacker tooling of this kind is now free, widely available, and itself poorly secured.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — November 7, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-07-world-news</link>
+    <pubDate>Sat, 07 Nov 2026 13:10:30 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-07-world-news</guid>
+    <description><![CDATA[<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/cm4g1nq8158po">Ukraine&#x27;s power network suffers further damage after fresh Russian strikes</a><br/>Overnight Russian attacks of more than 30 ballistic missiles and over 170 drones hit 12 regions, with Kyiv hit hardest, causing blackouts and disrupting water and heating; substations linking the Rivne and Khmelnytsky nuclear plants to the grid were struck. The strikes come ahead of trilateral Ukraine-Russia talks in Abu Dhabi next week, and Zelensky says Moscow is targeting critical infrastructure as winter arrives.</p>
+<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o">Paraguay&#x27;s president impeached and under house arrest after bank collapse</a><br/>Santiago Peña was unanimously impeached, including by his own party, and arrested after the collapse of Ueno Bank, which has links to his former business interests, left more than half the population without account access. Charges include conflicts of interest, manipulating regulatory oversight, and diverting pension funds, a sudden sovereign and banking-system shock for anyone with exposure in the region.</p>
+<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/crp3gg2z171go">With Stephen Miller pick, Trump readies for a battle</a><br/>After the Republican midterm defeat, Trump named Stephen Miller to replace Susie Wiles as White House chief of staff, despite saying he would work with the new Democratic majority. BBC&#x27;s Anthony Zurcher reads the choice of a partisan firebrand as preparation for confrontation with Congress, which points to a contentious two years on trade, regulation, and oversight.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 7, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-07-leadership-and-strategy</link>
+    <pubDate>Sat, 07 Nov 2026 13:10:30 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-07-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Farnam Street</strong> — <a href="https://fs.blog/knowledge-project-podcast/jon-mcneill/">Jon McNeill: How Elon Musk Makes Decisions</a><br/>Former Tesla president Jon McNeill describes Musk&#x27;s belief that speed creates competitive advantage, whether in decisions, cash, or response, and how to build a company around that. The conversation covers what that operating cadence looks like day to day, which is useful for calibrating your own team&#x27;s decision latency.</p>
+<p><strong>Lenny&#x27;s Newsletter</strong> — <a href="https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every">How Figma&#x27;s PMs actually use AI every day | Ezra Mechaber</a><br/>Figma growth PM Ezra Mechaber demos PM OS, a shared repo of 31 skills now used by 60+ PMs, and AutoXP, an agent that runs growth experiments with a single human checkpoint. It shows a concrete pattern for scaling AI adoption beyond engineering: a shared, versioned skills repo rather than individual tool setups.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 6, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-06-ai-and-technology</link>
     <pubDate>Fri, 06 Nov 2026 13:10:30 +0000</pubDate>
