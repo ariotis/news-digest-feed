@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 8, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-08-ai-and-technology</link>
+    <pubDate>Sun, 08 Nov 2026 13:12:25 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-08-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/">Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</a><br/>A US intelligence memo, first reported by The New York Times, claims China&#x27;s Ministry of State Security recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, and a separate NYT report questions whether Commerce-authorized chip buyer New Matrix is a front for a blacklisted firm. For leaders with GPU supply chains, it shows that export-control compliance now extends to intermediaries and counterparties.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/">Meta introduces Spaces, a new way to collaborate with your Muse agent</a><br/>Spaces lets users describe an idea in chat and have Muse build a tracker, planner or project board that connected apps keep updated, following Muse Voice on November 5. Meta said in October that its agents had 10 million users in the US and Canada less than two months after launch, so consumer agent adoption is moving fast.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/">After the midterms, things are looking rocky for Elon Musk and data centers</a><br/>Voters rejected data centers in dozens of local ballot measures, and Texas governor-elect Gina Hinojosa campaigned on restricting them; OpenAI&#x27;s new compute campus policy blueprint would end NDA requirements for data center projects. Infrastructure plans that assumed permissive siting and secrecy now face political and regulatory risk.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/6/nilay-patel/">Quotation from Nilay Patel, The Vergecast</a><br/>Patel argues &quot;The products aren&#x27;t good enough to sell people on the costs,&quot; citing data center noise, low-quality AI content and companies spending more than they earn. He concludes the industry recovers only by shipping products people see as useful without ad campaigns, which is a useful test for any internal AI rollout.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 8, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-08-leadership-and-strategy</link>
+    <pubDate>Sun, 08 Nov 2026 13:12:25 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-08-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/10/3-paths-to-delivering-shareholder-returns-with-ai">3 Paths to Delivering Shareholder Returns with AI</a><br/>A study of more than 600 US public companies found roughly three-quarters have invested in AI and moved beyond pilots but have yet to earn a shareholder return. The authors lay out three approaches to converting AI spending into value, which is a benchmark for your own AI investment case.</p>
+<p><strong>Farnam Street</strong> — <a href="https://fs.blog/experts-vs-imitators/">Experts vs. Imitators</a><br/>Shane Parrish lists five warning signs of imitators, including shallow answers to detailed questions, inability to explain ideas simply and unwillingness to admit past failures. He cautions that clear, memorable communicators are easily mistaken for true experts, which matters when evaluating AI vendors and consultants (article originally published June 2024).</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 7, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-07-ai-and-technology</link>
     <pubDate>Sat, 07 Nov 2026 13:10:30 +0000</pubDate>
