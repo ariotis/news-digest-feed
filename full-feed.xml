@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 9, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-09-ai-and-technology</link>
+    <pubDate>Mon, 09 Nov 2026 13:16:49 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-09-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/9/details-summary/">Hide your slop PR descriptions behind &lt;details&gt;&lt;summary&gt;</a><br/>Willison keeps a short hand-written opening paragraph on PRs and puts the long agent-written description inside a collapsible `&lt;details&gt;` block labeled with the model and effort level. Agent-generated PRs are accurate but too long to read, so this is a cheap team convention that keeps reviews fast without discarding the agent&#x27;s output.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/">parse_number() as a SQLite extension: C vs Rust</a><br/>Willison benchmarked C and Rust versions of a SQLite number-parsing extension; a custom C parser using Clinger&#x27;s fast path ran at 16–19 ns per row, about twice as fast as the Rust versions, with all implementations matching across 8 million fuzz checks. Agent-assisted rewrites make language-choice debates measurable in an afternoon, so performance claims on your team should now come with benchmarks.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/">Nvidia will investigate CEO Jensen Huang&#x27;s relationship with possible Chinese spy</a><br/>Nvidia&#x27;s board opened an independent investigation after Huang admitted an affair with a former Megaspeed executive whom a U.S. policy memo says China&#x27;s Ministry of State Security recruited to spy on him; the board says it has no reason to believe secrets were compromised. Nvidia reports earnings Nov 17 and Huang is due to brief House committee leaders Nov 18, so leadership risk at the dominant AI-chip supplier is now a supply-chain consideration.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/ai-lost-big-in-the-midterms-what-does-that-mean-for-your-business">AI Lost Big in the Midterms. What Does That Mean for Your Business?</a><br/>The authors report that candidates in at least 21 races spent almost $90 million on ads calling for slowdowns or bans on data center construction, a stance matching roughly three-quarters of Americans. Tech policy is now set by electoral politics as well as regulation, which strains the U.S. &quot;permissionless innovation&quot; model your AI and infrastructure plans assume.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — November 9, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-09-world-news</link>
+    <pubDate>Mon, 09 Nov 2026 13:16:49 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-09-world-news</guid>
+    <description><![CDATA[<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/">The Experts Are Taking Their Revenge Again</a><br/>David Milne reports that Trump authorized the February Iran strikes despite skepticism from the CIA director, the secretary of state and the Joint Chiefs chairman, and argues the pattern mirrors Iraq and Vietnam. Trump has conceded Iran contributed to heavy Republican midterm losses and rising energy prices, so expect oversight pressure and energy-cost volatility to persist.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/09/hegseth-rumsfeld-impeach-congress/">Is Hegseth the New Rumsfeld?</a><br/>Julian Zelizer notes that Hakeem Jeffries says he would back an impeachment resolution against Defense Secretary Pete Hegseth, who has become the public face of the unpopular Iran war, and compares it to Rumsfeld&#x27;s 2006 ouster. Zelizer argues that policy will not change even if Hegseth goes because power is centralized in Trump, so congressional budget and investigative pressure is the lever to watch.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/">Global AI Stocks React to U.S. Midterm Results</a><br/>Europe and Asia fell sharply on Nov 6 after Wall Street&#x27;s worst day since April 2025, with Japan&#x27;s Nikkei down about 6 percent and South Korea&#x27;s Kospi down more than 6.5 percent, on fears a Democratic-led Washington will tighten AI rules. Markets are pricing U.S. political risk into AI valuations globally, which affects vendor stability and funding for AI partners.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 9, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-09-leadership-and-strategy</link>
+    <pubDate>Mon, 09 Nov 2026 13:16:49 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-09-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Farnam Street</strong> — <a href="https://fs.blog/ride-wave/">Ride the Wave</a><br/>Farnam Street argues that technological shifts keep creating waves of opportunity, and that incumbents like Kodak, which invented the digital camera but stuck with film, get wiped out by clinging to old models. Success depends on spotting a shift early, committing at the right moment and knowing when to exit, which is a useful frame for deciding where to place AI bets.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/the-risks-of-decentralizing-your-organization">The Risks of Decentralizing Your Organization</a><br/>Unilever, Citigroup and Philips have recently reorganized so divisions take on more responsibility while corporate management layers are trimmed, aiming for faster decisions and closer customer contact. HBR&#x27;s title frames this as a trade-off, so weigh the risks it names before copying the structure.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 8, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-08-ai-and-technology</link>
     <pubDate>Sun, 08 Nov 2026 13:12:25 +0000</pubDate>
