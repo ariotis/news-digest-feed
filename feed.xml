@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 11, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-11-ai-and-technology</link>
+    <pubDate>Wed, 11 Nov 2026 13:14:16 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-11-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/">Prompting Claude Fable 5.2</a><br/>Anthropic&#x27;s Fable 5.2 prompting guide says the model responds closely to code ownership: adding &quot;This codebase is yours&quot; raised the rate of merging repeated code to about half of tries, versus under a tenth without it. Small framing lines in prompts now measurably change refactoring behavior, so coding-agent prompt templates deserve the same testing as code.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/">All 7 Anthropic founders will each cash out about $250M in IPO</a><br/>Each co-founder plans to sell 3,378,378 shares at the $74 midpoint of the $70–$78 range, valuing Anthropic near $1.4 trillion, while retaining about 22% of Class A shares and 51.1% of votes. The retained voting control and a reported $300 million interest from board member Reed Hastings show how governance and capital are being structured around a major AI vendor going public.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">OpenAI, Anthropic face new oversight as New York&#x27;s AI safety law takes effect</a><br/>New York opened its RAISE Act registration portal on November 10; developers with over $500 million in revenue must register by January 1, 2027, publish safety frameworks, and report critical incidents within 72 hours, with fines up to $3 million for repeat violations. Vendor contracts and compliance reviews should now expect incident-reporting and transparency obligations from your model providers.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/">Nvidia&#x27;s crisis has corporate governance experts reaching for the popcorn</a><br/>Nvidia fell about 9.5% over two days as its board hired Wachtell Lipton to investigate CEO Jensen Huang&#x27;s relationship with Alice Huang, whom US intelligence believes spied for China, and a securities class action alleges concealment from investors. Huang owns only about 3.6% with no dual-class control, so key-person risk at your most critical GPU supplier is now a live governance question.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 11, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-11-leadership-and-strategy</link>
+    <pubDate>Wed, 11 Nov 2026 13:14:16 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-11-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/capital-is-more-expensive-for-companies-outside-the-ai-boom">Capital Is More Expensive for Companies Outside the AI Boom</a><br/>Bain partners Michael Mankins and Matthew Crupi argue the AI boom has created a two-tier economy in which a few tech leaders raise capital far more cheaply than everyone else. The gap can change which strategies create value, so hurdle rates and investment cases for non-AI-boom companies need to be rechecked.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/the-hbr-guide-to-killing-projects">The HBR Guide to Killing Projects</a><br/>Using Musk&#x27;s November 6 decision to end Cybertruck production around mid-2027 to free capacity for the Cybercab, the guide asks how leaders can tell when to abandon a once-promising initiative. Stopping work is a capacity-allocation decision, and this gives a concrete case for making it explicitly rather than letting projects drift.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 10, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-10-ai-and-technology</link>
     <pubDate>Tue, 10 Nov 2026 13:15:32 +0000</pubDate>
