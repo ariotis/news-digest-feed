@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 13, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-13-ai-and-technology</link>
+    <pubDate>Fri, 13 Nov 2026 15:06:07 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-13-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/12/llm-gemini/">llm-gemini 0.37</a><br/>Google launched Gemini 4 Hydrogen, its cheapest Gemini 4 model at $1.50/$7.50 per million input/output tokens, and it becomes the free-tier model and powers AI features in Search. Carbon and Argon prices double on December 1, so teams budgeting around Gemini 4 should reprice now, and Hydrogen costs about 15x the input price of Claude Haiku 5.5 and GPT-6 Luna.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/">Anthropic&#x27;s IPO roadshow video</a><br/>Anthropic&#x27;s roadshow video says it trains and serves Claude on four chip families (Trainium, TPU, NVIDIA, AMD), and that Mythos ported Claude to AMD GPUs in three days with almost no human intervention. The multi-chip stack and &quot;compute multipliers&quot; that compound on each other show how a frontier lab is reducing its dependence on any single supplier.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">The unfolding Jensen Huang scandal: a timeline</a><br/>Jensen Huang resigned as Nvidia CEO on November 11 after weeks of reporting on his ties to Megaspeed executive Alice Huang, whom US officials believe is a Chinese spy, and on alleged affairs; CFO Colette Kress is interim CEO and Huang has agreed to testify to Congress before November 26. Nvidia had no succession plan, so every buyer of its GPUs now faces open questions about leadership and about export-control scrutiny of its chip supply chain.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/">Nebius tests the neocloud playbook with $40 billion in planned spending</a><br/>Nebius plans $40–45 billion of 2027 capex, funded by customer prepayments and contract-backed loans, while cutting 2026 revenue guidance to $3 billion because a New Jersey site built for Microsoft&#x27;s $19.4 billion contract is months late; the stock fell 17%. The delay shows that data center delivery risk, which can trigger termination rights, is now the main exposure in neocloud contracts.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 13, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-13-leadership-and-strategy</link>
+    <pubDate>Fri, 13 Nov 2026 15:06:07 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-13-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/how-ai-erodes-peoples-sense-of-value-at-work">How AI Erodes People&#x27;s Sense of Value at Work</a><br/>Zach Mercurio argues that AI adoption can undermine employees&#x27; sense of &quot;mattering,&quot; citing a manager whose colleagues now ask Copilot instead of him (&quot;No one really asks me anything anymore&quot;). Leaders rolling out AI assistants should plan for how roles and recognition change, because efficiency gains can cost engagement.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/robinhoods-ceo-on-refounding-the-business-post-ipo">Robinhood&#x27;s CEO on Refounding the Business Post-IPO</a><br/>After Robinhood&#x27;s pandemic-era boom faded following its 2021 IPO, CEO Vlad Tenev concluded the company had to reinvent itself, overhauling the organization and making difficult decisions. The article treats the IPO as proof a company can survive, and the next phase as building steady, predictable growth, a lesson for any leader running a company after a growth spike.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 12, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-12-ai-and-technology</link>
     <pubDate>Thu, 12 Nov 2026 13:13:23 +0000</pubDate>
