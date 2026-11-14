@@ -7,6 +7,32 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 14, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-14-ai-and-technology</link>
+    <pubDate>Sat, 14 Nov 2026 14:09:47 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-14-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/">Nvidia&#x27;s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO</a><br/>Huang left his CEO and board roles effective immediately after 33 years, following reports of affairs including one with an alleged Chinese spy, and Nvidia has begun a search for a permanent CEO. The leadership vacuum hits the dominant AI-chip supplier days before its November 17 earnings, which matters for anyone planning GPU supply and vendor risk.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">Jensen Huang&#x27;s exit puts Nvidia&#x27;s support for open source in question</a><br/>Huang personally pushed the Nemotron open-weight model family, and Nvidia&#x27;s pending Hugging Face acquisition is not yet finalized. Teams building on Nvidia&#x27;s open models should treat the roadmap as uncertain until a permanent CEO sets direction.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/">Trump floats Apple chairman Tim Cook as Jensen Huang&#x27;s successor</a><br/>President Trump publicly suggested Tim Cook should take over as Nvidia&#x27;s CEO. It shows the White House is willing to weigh in on succession at a company central to US chip policy, which raises political exposure for the board&#x27;s choice.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/11/aws-emulator/">aws-emulator</a><br/>AWS has released an official emulator for running tests against local clones of its services, though it currently needs Docker on macOS and Windows. It makes integration tests for cloud-dependent code cheaper and more hermetic, including for agent-written code that needs a safe sandbox.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — November 14, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-14-world-news</link>
+    <pubDate>Sat, 14 Nov 2026 14:09:47 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-14-world-news</guid>
+    <description><![CDATA[<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/13/jensen-huang-nvidia-resignation-china-spy-scandal-trump/">What Jensen Huang&#x27;s Nvidia Resignation Means for U.S.-China Relations</a><br/>The analysis argues the spy scandal could upend the fragile bipartisan consensus on chip export policy, while Beijing&#x27;s foreign ministry says the US fabricates spy narratives to justify tech restrictions. Export-control shifts in either direction change the supply and compliance picture for any company that buys or ships advanced chips.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/">EU Holds First AI Summit, but Russia-Ukraine Talks Risk Derailing the Agenda</a><br/>EU leaders met in Dublin for the bloc&#x27;s first AI summit, with Europe expected to miss its chip-manufacturing goals and Ukraine peace talks competing for attention. Who represents Europe in those talks is unresolved, which leaves the EU&#x27;s AI and semiconductor policy direction open.</p>
+<p><strong>Foreign Policy</strong> — <a href="https://foreignpolicy.com/2026/11/13/pope-leo-south-america-trip-argentina-peru-uruguay/">Pope Leo Travels to Argentina, Peru, Uruguay</a><br/>The pope began a 12-day South America tour and has called for a stronger welfare state in Argentina. The trip lands in the middle of Argentina&#x27;s austerity politics and gives a read on how the Vatican is positioning on economic policy in the region.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 14, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-14-leadership-and-strategy</link>
+    <pubDate>Sat, 14 Nov 2026 14:09:47 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-14-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/how-ceos-set-the-tempo">How CEOs Set the Tempo</a><br/>Nitin Nohria, drawing on hundreds of CEOs, describes five leadership tempos from experimental speed to patient compounding and argues pace is a strategic choice, not a personality trait. Milestones, review cadence and follow-up all signal the expected speed, so leaders set a tempo whether or not they mean to.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 13, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-13-ai-and-technology</link>
     <pubDate>Fri, 13 Nov 2026 15:06:07 +0000</pubDate>
