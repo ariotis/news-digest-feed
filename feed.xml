@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 15, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-15-ai-and-technology</link>
+    <pubDate>Sun, 15 Nov 2026 14:14:06 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-15-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/">Export-banned Nvidia chips are behind China&#x27;s most powerful AI models</a><br/>Research by Will DePue found signs that DeepSeek&#x27;s V4 and Moonshot&#x27;s Kimi K3 open-weight models were trained on Nvidia Blackwell chips that US rules bar from export to China, though the chips may have sat in offshore data centers such as Malaysia. The finding lands as Megaspeed, the company tied to Jensen Huang&#x27;s exit, is implicated in chip smuggling, which raises the odds of tighter export enforcement and compliance scrutiny on GPU buyers.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">Jensen Huang&#x27;s departure blasts big hole in AI startup funding, VCs and founders say</a><br/>Nvidia joined 105 startup funding rounds this year per PitchBook, and investors expect interim CEO Colette Kress to be more selective and write smaller follow-on checks. Battery Ventures&#x27; Dharmesh Thakker doubts cloud giants will replace Nvidia&#x27;s appetite for pre-revenue infrastructure bets, so AI vendors in your stack that relied on Nvidia money may face tighter runways and lower valuations.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/">ChatGPT&#x27;s new Wallet lets AI agents shop and check out for you</a><br/>OpenAI launched ChatGPT Wallet for a limited group of US Pro subscribers, letting its agents complete purchases after the user approves items, total and card with Face ID or a fingerprint, using a payment token so card details never reach the agent or merchant. It is a concrete template for agent-initiated transactions with human approval gates, while retailers like Amazon blocking agents shows the access fight is still open.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/">AI agent startup LangChain hits $3B valuation</a><br/>LangChain raised a $300 million Series C led by CapitalG at a $3 billion valuation, more than double its $1.25 billion mark a year ago, and claims 7,000 customers for its LangSmith agent management software. Investors are paying for the agent operations layer — tracing, evaluation and management — rather than the open-source framework, which signals where the durable tooling budget is moving.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 15, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-15-leadership-and-strategy</link>
+    <pubDate>Sun, 15 Nov 2026 14:14:06 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-15-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/the-human-in-the-loop-fallacy">The &quot;Human-in-the-Loop&quot; Fallacy</a><br/>Sangeet Paul Choudary argues that assigning people to check AI output and handle its exceptions is a losing strategy that leaves workers with a shrinking role. Leaders who default to human review as their AI governance model need a different design for where human judgment adds value, not just a checkpoint at the end.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/the-market-is-mispricing-resilience">The Market Is Mispricing Resilience</a><br/>General Catalyst&#x27;s Hemant Taneja and McKinsey&#x27;s Bob Sternfels argue resilience against AI-driven displacement, supply-chain shocks and geopolitical instability is a growth asset that markets currently undervalue. They use Amazon&#x27;s 95% drawdown after 1999, which most of its peers did not survive, to show that durability is what separates winners in a severe downturn.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 14, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-14-ai-and-technology</link>
     <pubDate>Sat, 14 Nov 2026 14:09:47 +0000</pubDate>
