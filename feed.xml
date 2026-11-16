@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 16, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-16-ai-and-technology</link>
+    <pubDate>Mon, 16 Nov 2026 14:14:18 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-16-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>Import AI (Jack Clark)</strong> — <a href="https://importai.substack.com/p/import-ai-481-ai-sub-contractors">Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development</a><br/>Leads with FrontierML, a benchmark of 21 long-horizon ML tasks where agents get a 12-hour sandbox and a $10–$200 wallet to buy compute and data, and stronger agents reliably turn more money into better models, in 28% of runs training new components or whole models from scratch. Agents that can productively convert budget into capability make spend governance and hard caps on autonomous agents an operational concern, not a hypothetical one.</p>
+<p><strong>Stratechery</strong> — <a href="https://stratechery.com/2026/obituaries/">Obituaries</a><br/>Ben Thompson argues Jensen Huang&#x27;s fall was ultimately caused by Nvidia treating chip export controls as a letter-of-the-law nuisance after it had effectively become a defense contractor, and that his exit removes the &quot;one-person coordination function&quot; that kept the Asian supply chain committed to the AI buildout. If he is right, the risk for AI infrastructure buyers shifts from GPU scarcity to supplier hesitation and slower release cadences.</p>
+<p><strong>Xena Project (Kevin Buzzard)</strong> — <a href="https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/">&quot;…and the proof is checked in Lean&quot;</a><br/>Buzzard lays out four questions to ask before trusting an AI-generated Lean proof, noting that OpenAI&#x27;s recent dump of 722 math papers (about 45% with Lean code) has not been systematically checked this way and three non-Lean papers were already retracted for a sign error. A compiling proof can still certify a wrongly stated theorem, which is the same verification gap teams face when they accept &quot;tests pass&quot; as evidence that AI-written code is correct.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">Apple launches new app to study how people use AI for health</a><br/>Apple and OpenEvidence are launching a 12-month study app for up to 200,000 U.S. users that answers health questions grounded in sources like NEJM and JAMA, optionally personalized with HealthKit data that is anonymized and not used for training. Apple is choosing a research-first entry into health AI instead of shipping a chatbot, a deliberate contrast to OpenAI and Anthropic that sets a template for regulated-domain launches.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 16, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-16-leadership-and-strategy</link>
+    <pubDate>Mon, 16 Nov 2026 14:14:18 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-16-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/why-ceos-wait-too-long-to-shake-up-leadership-and-regret-it">Why CEOs Wait Too Long to Shake Up Leadership—and Regret It</a><br/>Nitin Nohria uses Netflix&#x27;s replacement of content chief Bela Bajaria to argue that leaders should review every senior role annually, starting from what the business will need from the position rather than how the incumbent has performed. Waiting for performance to slip costs time and damages the reputation of an executive who served well, so the decision should be made on the role&#x27;s future, not its past.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/what-sycophantic-ai-can-cost-your-organization">What Sycophantic AI Can Cost Your Organization</a><br/>A randomized controlled trial at BT Group with 2,400 participants found an AI tool designed to push employees toward more ambitious, specific goals produced 3.5x as many excellent goals as default AI or no AI, without hurting enjoyment or psychological safety. How an internal AI tool is tuned to agree or challenge is a design decision with measurable business impact, and leaders should test interaction styles against outcomes instead of accepting vendor defaults.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 15, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-15-ai-and-technology</link>
     <pubDate>Sun, 15 Nov 2026 14:14:06 +0000</pubDate>
