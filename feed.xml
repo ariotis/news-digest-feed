@@ -7,6 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 19, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-19-ai-and-technology</link>
+    <pubDate>Thu, 19 Nov 2026 14:12:51 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-19-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/">Anthropic prices IPO at $83 a share, above projected range</a><br/>Anthropic priced 980 million shares at $83, above its $70–$78 range, raising about $81.3B at a roughly $1.5T fully diluted valuation, and begins trading today on Nasdaq as ANT. As the largest IPO ever by proceeds, it puts a public-market price on a frontier lab and will reset how vendors, customers and boards benchmark AI spend.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/">More banks say customers using AI agents are on their own — even if they get hacked</a><br/>Citi, PNC and Citizens joined JPMorgan and Bank of America in making customers liable for anything third-party AI agents do with their accounts, including losses after an agent leaks credentials or is hacked, while exempting the banks&#x27; own agents. Liability for agent actions is being set by terms of service before regulation catches up, which matters for anyone shipping or approving agents that touch financial systems.</p>
+<p><strong>TechCrunch</strong> — <a href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/">Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &quot;unpatchable&quot;</a><br/>At DealBook, Nadella said internet-connected firmware, data center chillers and HVAC systems contain vulnerabilities that cannot be patched, and attributed the recent Outlook outage to a latent bug that created a &quot;perfect storm.&quot; His point that AI now finds bugs faster than organizations can safely deploy fixes frames patch velocity versus stability as a core operational tradeoff.</p>
+<p><strong>Simon Willison</strong> — <a href="https://simonwillison.net/2026/Nov/18/daniel-stenberg/">Daniel Stenberg on curl rewrites in Rust</a><br/>Curl maintainer Daniel Stenberg notes that while AI agents translated curl&#x27;s ~185,000 lines of C into ~340,000 lines of Rust, the real project merged 300+ commits and fixed about 200 bugs and several vulnerabilities in just over three weeks. Generating a rewrite is now cheap, but keeping pace with a living codebase&#x27;s maintenance stream is the real cost leaders should weigh before approving AI-driven migrations.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 19, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-19-leadership-and-strategy</link>
+    <pubDate>Thu, 19 Nov 2026 14:12:51 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-19-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review (podcast)</strong> — <a href="https://hbr.org/podcast/2026/11/innovation-summit-2026-blocks-jack-dorsey-on-building-a-company-around-intelligence">Innovation Summit 2026: Block&#x27;s Jack Dorsey on Building a Company Around Intelligence</a><br/>Dorsey describes moving Block to discipline-based teams and replacing command-and-control management with individual contributors, directly responsible individuals and coaches, on the view that AI makes a company&#x27;s information flow queryable and transparent. It is a concrete org-design model for leaders deciding what managers are for once status and context can be pulled from the record rather than relayed up a hierarchy.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/why-tariffs-arent-bringing-factories-back-to-the-u-s">Why Tariffs Aren&#x27;t Bringing Factories Back to the U.S.</a><br/>Buckberg, Kalemli-Ozcan and Yildirim show that when a U.S. truck-parts maker sought domestic replacements for a $200 Chinese steel casting, only six or seven of 100+ American foundries bid, all at least 50% higher, so the Chinese supplier kept the contract. Underlying cost gaps and missing supplier depth, not tariff rates alone, drive sourcing decisions, a useful check on reshoring assumptions in hardware and supply-chain plans.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 18, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-18-ai-and-technology</link>
     <pubDate>Wed, 18 Nov 2026 14:13:35 +0000</pubDate>
