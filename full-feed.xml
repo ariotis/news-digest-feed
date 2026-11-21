@@ -7,6 +7,33 @@
     <language>en-us</language>
     <atom:link href="https://ariotis.github.io/news-digest-feed/full-feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>AI &amp; Technology — November 21, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-21-ai-and-technology</link>
+    <pubDate>Sat, 21 Nov 2026 14:10:23 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-21-ai-and-technology</guid>
+    <description><![CDATA[<p><strong>The Verge</strong> — <a href="https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem">Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</a><br/>Anthropic mathematician Levent Alpöge says he proved the Riemann hypothesis, and the Generalized Riemann Hypothesis, working with Claude and has formalized the arguments, though the proof is not yet independently verified and Anthropic has not commented. If it holds, frontier models have moved from assisting with research to co-authoring results on the hardest open problems, which changes what you should expect from AI on your own hard technical work.</p>
+<p><strong>Ars Technica</strong> — <a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</a><br/>HD Moore seeded 2 million unique, never-used secrets (AWS keys, SSH passwords, private repo references) one per prompt through AI routers like OpenRouter and Vercel and found the broker ecosystem leaking sensitive data badly, with credentials later used. Any team routing prompts through third-party gateways should treat prompt contents as exposed and audit what secrets reach model calls.</p>
+<p><strong>MIT Technology Review</strong> — <a href="https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/">The most misunderstood graph in AI just got a major update</a><br/>METR&#x27;s updated time-horizon report confirms that the length of verifiable tasks frontier models can complete keeps doubling roughly every four months, but models still fall short of humans on judgment tasks like designing evaluations or scoring arguments. That split is a practical guide for delegation: hand agents well-specified, checkable work and keep humans on open-ended calls.</p>
+<p><strong>The Verge</strong> — <a href="https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax">Trump threatens &#x27;tremendous tax&#x27; for moving AI data centers outside the US</a><br/>After his summit with Xi and Putin, Trump said he would put a &quot;tremendous tax&quot; on companies building data centers abroad, a proposal he admitted he had not yet shared with his own staff. Combined with growing state and local restrictions on new builds, it puts compute location and capacity planning under fresh policy uncertainty.</p>]]></description>
+  </item>
+  <item>
+    <title>World News — November 21, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-21-world-news</link>
+    <pubDate>Sat, 21 Nov 2026 14:10:23 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-21-world-news</guid>
+    <description><![CDATA[<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/c6808ym10vzgo">Tech stock sell-off drags markets down as Anthropic shares slide</a><br/>The S&amp;P 500 fell 3.7% and the Nasdaq 5.3% on Friday, pushing the S&amp;P and Dow into correction territory as Anthropic shares fell back toward their IPO price and Nvidia and SpaceX faced company-specific troubles. The sell-off reflects mounting doubt over whether more than $1 trillion of annual AI capex will pay off, and tighter capital markets usually show up next in tech budgets and hiring.</p>
+<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/c6ly5w40eg07o">Fight over fossil fuels leaves COP31 climate talks in deadlock</a><br/>Negotiations at COP31 in Turkey ran through the night after France, Panama, island states and several EU countries rejected a draft that omits any reference to moving away from fossil fuels, while the Africa Group pushes for more adaptation finance. The outcome will set the regulatory and energy-price backdrop for energy-hungry industries, AI data centers included.</p>
+<p><strong>BBC News</strong> — <a href="https://www.bbc.co.uk/news/articles/cmde1lj4yjxno">Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper</a><br/>Denmark&#x27;s intelligence agency says Russian services planned and initiated a September attempt to kill a Ukrainian-American near Copenhagen, and Denmark is expelling Russia&#x27;s defence attaché while Moscow promises to respond. It is the latest escalation in Russia&#x27;s covert campaign on European soil, raising the security and resilience stakes for organizations operating in Europe.</p>]]></description>
+  </item>
+  <item>
+    <title>Leadership &amp; Strategy — November 21, 2026</title>
+    <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-21-leadership-and-strategy</link>
+    <pubDate>Sat, 21 Nov 2026 14:10:23 +0000</pubDate>
+    <guid isPermaLink="false">digest-2026-11-21-leadership-and-strategy</guid>
+    <description><![CDATA[<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/were-seeing-the-costs-of-moving-fast">We&#x27;re Seeing the Costs of Moving Fast</a><br/>Complex-systems expert David Woods argues that the past week&#x27;s cascading outages across email, aviation and banking stem from optimizing for faster and cheaper without worrying enough about what could go wrong. He says organizations should stress-test and build slack into technology and operations the way they did with supply chains after the pandemic.</p>
+<p><strong>Harvard Business Review</strong> — <a href="https://hbr.org/2026/11/a-better-way-to-foster-rigorous-debate-in-the-boardroom">A Better Way to Foster Rigorous Debate in the Boardroom</a><br/>The authors propose &quot;the Cartesian voice,&quot; a disciplined practice of inquiry, skepticism and structured debate, to counter the deference and silence that undermine board decisions during rapid change. The same mechanics apply to any leadership team where conformity is quietly replacing judgment.</p>]]></description>
+  </item>
+  <item>
     <title>AI &amp; Technology — November 20, 2026</title>
     <link>https://ariotis.github.io/news-digest-feed/#digest-2026-11-20-ai-and-technology</link>
     <pubDate>Fri, 20 Nov 2026 14:13:20 +0000</pubDate>
